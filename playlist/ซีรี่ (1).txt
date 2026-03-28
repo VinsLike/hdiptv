@@ -1,0 +1,174 @@
+{
+"name": "รวม ซีรี่",
+author:"จะเอาเรื่องไหนก็ไลน์บอก",
+"image"             :     "https://lh4.googleusercontent.com/-fWxuNYS6NOE/TX4pUfjclvI/AAAAAAAAJjQ/_f7-Iqc3QF0/s400/M-Net+Series+logo+April+2011.jpg",
+"url": "https://raw.githubusercontent.com/tongtjc/movie_add/main/mylist",
+"info": "อย่าให้เจอ ปิดทันที",
+
+"groups": [
+
+
+{"name": "กำลังฉาย",
+"image":"https://static.thairath.co.th/media/B6FtNKtgSqRqbnNsbQXAoVJzTbQJPLiMtWNGu6duvkd9Bam5jdyugkujchmY86luHt9LP.jpg",
+"url":"https://drive.google.com/uc?id=1Jr4FpUVDrqRzgf3RHkra9f6byHuq2TOH",
+"import": false},    
+
+{
+"name": " Series-indy ",
+"image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/series1111.png",
+"url": "https://drive.google.com/uc?id=10Wu_OgA7hZfOKoDVZ9pFrFKezUtqLAyz",
+"import": true
+},
+
+{"name": "หนังสั้นจีน",
+"image": "https://i.ytimg.com/vi/zKLs2cmlSoY/maxresdefault.jpg",
+"url": "https://drive.google.com/uc?id=1NNwvEHRkB3rIodsmOyVatNdGvDuWoP1V",
+"import": false},   
+
+
+{
+"name":  "ซีรี่ 2026",
+"image": "https://i.ytimg.com/vi/kg3WYPh-AKQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC48eXcriBrnZpkuOaYPJLqkVOmvA",
+"url": "https://drive.google.com/uc?id=1bNqIRt9NnkA7YrE66XEt39FPHGfaT0I_",
+"import": false 
+},   
+{
+"name":  "ซีรี่  2025",
+"image": "https://s.isanook.com/mv/0/ud/35/179355/new-thumbnail1200x720(5)(51.jpg?ip/crop/w1200h700/q80/webp",
+"url": "https://drive.google.com/uc?id=1ZLv1EbSXE-rD4Xe7U_VBsg0AklqcOfkj",
+"import": false 
+},
+
+{"name": "กำลังออนไลน์",
+"image":"https://www.mangozero.com/wp-content/uploads/2017/04/gdh-project-s-the-series-feature-2-1080x630.jpg",
+"url":"https://drive.google.com/uc?id=1k9xSs_ODY2CZV2DwZ1Q8sNbwxe_Reau_",
+"import": false},
+{
+"name": "Classic Series",
+"author": "royrover",
+"image": "https://www.dropbox.com/scl/fi/d3piepomqweyf243b1vx9/old-series.png?rlkey=2oglnjfwnesfozx9s21ky9ujs&st=x6p7jeet&raw=1",
+"url": "https://www.dropbox.com/scl/fi/vtyizro0r415l6x11bqrf/mbox.m3u?rlkey=dx17w9oiue4scl14djpmajw6l&st=ufca4igj&raw=1",
+"import": false 
+},
+{
+"name":"series-full",
+"image": "https://i.postimg.cc/DfW2h2wR/SF.jpg",
+"url": "https://drive.google.com/uc?id=11qCZj6cKJqOiRr3YqpFcp_rSVibDGVHT",
+"import": false
+},  
+{
+"name": "SeriesMY",
+"image": "https://i.postimg.cc/251QpQ2x/SERIESMy.jpg",
+"url": "https://drive.google.com/uc?id=14EayDIU4s3meLRwIE9heVQVk5xCO4tSh",
+"import": true
+},
+
+{
+"name":"Netflix",
+"image":"https://media.tenor.com/WaP8sT953fEAAAAi/netflix-logo.gif",
+"url":"https://drive.google.com/uc?id=14u3UWKeW7hxq6zYBdK9CQ1C6oWxIn1eL",
+"import":"false"},
+
+
+{
+"name":"Disney Hotstar",
+"image":"https://secure-media.hotstar.com/web-assets/prod/images/Disney+Hotstar.jpg",
+"url":"https://drive.google.com/uc?id=14cxELGrgdEJbM8uIFJgzGoSq0leK0FHj",
+"import":"false"},
+
+{
+"name":"VIU",
+"image":"https://www.dreamaim.com/wp-content/uploads/ViuApp-ApkDownload.jpg",
+"url":"https://drive.google.com/uc?id=152Boe-XZU4fYhsZWjszU_bGTvVC6wUC1",
+"import":"false"},
+
+{
+"name":"WETV",
+"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_WeTV_fullscreen.png/640px-Logo_WeTV_fullscreen.png",
+"url":"https://drive.google.com/uc?id=155jtYrs9BVXvDU9cLsZk8NFv6WtOcojK",
+"import":"false"},
+
+
+{
+"name":"PrimeVideo",
+"image":"https://logos-world.net/wp-content/uploads/2021/02/Amazon-Prime-Video-Symbol.png",
+"url":"https://docs.google.com/uc?export=download&id=1xYMHj4sbhc1eHzcpTbtIXzmtvrOY6i6B",
+"import":"false"
+},
+
+{
+"name":"Apple TV",
+"image":"https://is4-ssl.mzstatic.com/image/thumb/Features113/v4/88/79/7b/88797be4-8033-392e-5124-237d9677bcac/source/1200x675mf.jpg",
+"url":"https://docs.google.com/uc?export=download&id=1xax9DXBNdssTHeQtH0NqoHC1GF7diz_q",
+"import":"false"
+},
+
+{
+"name":"HBO",
+"image":"https://e7.pngegg.com/pngimages/476/791/png-clipart-hbo-now-hbo-go-television-hbo-latino-others-text-logo.png",
+"url":"https://drive.google.com/uc?id=14jVcifpg7h21B_evv5zt-YsiiqPGPTsI",
+"import":"false"
+},
+
+{
+"name":"iQIY",
+"image":"https://images.workpointtoday.com/workpointnews/2021/02/03180924/1612350561_21775_iqiyi.png",
+"url":"https://drive.google.com/uc?id=14on-tN7wzUtQ51T46dAAaax1YKoqLad0",
+"import":"false"
+},
+{
+"name":"YOUKU",
+"image":"https://iconape.com/wp-content/png_logo_vector/youku-logo.png",
+"url":"https://docs.google.com/uc?export=download&id=1D_sLOC5mkTySTjOTnb8KKb7ZkK_gSgQW",
+"import":"false"
+},
+
+{
+"name": "Series",
+"image": "https://t4.ftcdn.net/jpg/02/54/00/11/360_F_254001186_jzGwlJGEugIjrSn8Bj7jURNEoQEUAJKk.jpg",
+"url": "https://pastebin.com/raw/nkAafCCK",
+"import": false
+},
+{
+"name": "ซีรี่ย์-CK2",
+"image": "https://i.gifer.com/Yza7.gif",
+"url":"https://pastebin.com/raw/CqUgEYXE",
+"import": "true"
+},
+{
+"name": "Series Entertenment",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQD49Lk1TLs4vjYn1WzTbSWwqHp42WaQtkAeD5fd4NfKVpNezfQHmTOIFHrUp3LozZW9c&usqp=CAU",
+"url": "https://dl.dropboxusercontent.com/s/z9cgbg8vkqbuic3o7jkzq/.txt?rlkey=efzc0bhvg5r42ujdf0vmk3j40&dl=0",
+"import": "true"
+},
+{
+"name": "ฺซีรีย์ ONE PIECE วันพีซ (2023) (SEASON 1)",
+"image": "https://static.wikia.nocookie.net/logopedia/images/d/d2/One_Piece_2023_%28Netflix_Series%29.png/revision/latest?cb=20230403153921",
+"url": "https://pastebin.com/raw/x4NBrL90",
+"import": false
+},
+
+{
+"name":"🇭.🇪.🇷.🇴 (Series-Indy)",
+"image":"https://i1.wp.com/series-indy.com/wp-content/uploads/2022/08/series-indy-facebook-thumbnail.jpg",
+"url":"https://drive.google.com/uc?id=1DDmRXOqZHSTSSvMkxpf3-bLBEtmJHCvv",
+"import":"false"
+},
+
+
+{
+"name":"พากษ์ไทย#1",
+"image":"https://s.isanook.com/mv/0/ud/30/152859/wetv-thai-dubbed-chinese-dram_1.jpg",
+"url":"https://drive.google.com/uc?id=15AWjrnPXKYOhRvr7I6aaPqW4eoyG5Mf2",
+"import":"false"
+},
+
+{
+"name": "ซี่รี่ย์แนวตั้ง",
+"image": "https://cdn.imgchest.com/files/e5f991e0e9e4.gif",
+"url": "https://drive.google.com/uc?id=1rwURCRG2xMbDMbTlYTIoijmikB9kmbxa",
+"import": false},
+
+
+]
+}

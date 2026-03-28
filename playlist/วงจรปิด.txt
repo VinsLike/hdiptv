@@ -1,0 +1,53 @@
+{
+ "name": "ดูกล้องวงจรปิด",
+ "author": "BY yantech",
+ "info": "ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย",
+ "image": "https://i.postimg.cc/CKSb1R6H/Sport.jpg",
+ "groups": [
+  
+{ 
+"name"		: "นครศรีธรรมราช", 
+"image": "https://roijang.com/wp-content/uploads/2024/03/LINE_ALBUM_%E0%B8%9B%E0%B8%81%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7_%E0%B9%92%E0%B9%94%E0%B9%90%E0%B9%94%E0%B9%90%E0%B9%91_2_0.jpg",
+"url"		: "https://docs.google.com/uc?export=download&id=1XXYL3gCZsioorp_E0dGQyizxU-rf7O_L"
+}, 
+
+{ 
+"name"		: "เกาะสมุย ", 
+"image": "https://f.ptcdn.info/251/082/000/s3rbww1zdj2h55asat9B1-o.jpg",
+"url"		: "https://docs.google.com/uc?export=download&id=1HAm9G0HNsvFR0zOqZFEorid8oKTKNtFD"
+}, 
+{ 
+"name"		: "ชลบุรี", 
+"image": "https://f.ptcdn.info/251/082/000/s3rbww1zdj2h55asat9B1-o.jpg",
+"url"		: "https://docs.google.com/uc?export=download&id=11X1TbagkyRA-fwHp1mig6DdeeJAzEKTH"
+}, 
+{ 
+"name"		: "วงจรปิดทางหลวง  ", 
+"image": "https://whatphone.net/wp-content/uploads/2016/07/cover-Highway-Traffic.jpg",
+"url"		: "https://docs.google.com/uc?export=download&id=1h-pCV-8Pw3ufImtxuzMAU5muexxqzAqP"
+}, 
+{  
+"name"		: "สวนสัตว์", 
+"image": "https://i.pinimg.com/originals/de/90/bf/de90bfb550783bb9af36fec0b2aeb610.gif",
+"url"		: "https://docs.google.com/uc?export=download&id=13LVQygPjOJa2edOq2S5yayW8UsQOhFgQ"
+}, 
+{  
+"name"		: "วงจรปิดทั่วโลก", 
+"image": "https://img.pikbest.com/origin/08/99/61/00ZpIkbEsT2nW.png!w700wp",
+"url"		: "https://docs.google.com/uc?export=download&id=1HW6ISQp2q4sMZ-Awb69ZOTyagHpQezSs"
+}, 
+
+{ 
+"name"		: "วงจรปิด ทะเลชายหาด ", 
+"image": "https://travel.mthai.com/app/uploads/2019/03/phuket.jpg",
+"url"		: "https://docs.google.com/uc?export=download&id=1KD3EXXexslyjGCIlEnTzdz0_jCUQ5DK6"
+}, 
+{
+"name": "Admin  ",
+"author": "ข้อมูลดิบ",
+"image": "https://aigencorp.com/wp-content/uploads/2024/07/data-analysis-document-ai-artificial-intelligence.jpg",
+"url": "https://docs.google.com/uc?export=download&id=1JdBguHfNqrlWmDf-eAzFLjBTRYS_5nP7",
+"import": "true"
+},   
+]
+}

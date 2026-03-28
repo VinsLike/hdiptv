@@ -1,0 +1,89 @@
+{
+ "name": "รวมกีฬา ",
+ "author": "BY yantech",
+ "info": "ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย",
+ "image": "https://i.postimg.cc/CKSb1R6H/Sport.jpg",
+ "groups": [
+
+
+{
+"name":  "ฟุตบอลสดวันนี้",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7KsKxeToWnFocqvYe0nzUd6gERjbHUBqu0w&s",
+"url": "https://drive.google.com/uc?id=1oBxxlxybHlux3pVvwg89aS7-1Lr9S8wU",
+"import": false 
+},
+
+ 
+{
+"name": "MONAMAX",
+"image":"https://www.matichon.co.th/wp-content/uploads/2025/10/11111-8.jpg",
+"url": "https://docs.google.com/uc?export=download&id=1OOrO8Zfpoeh1XVwYuvbHbjbTN6wRIDs6",   
+"import": false 
+}, 
+
+{"name":"สำรอง MONOMAX",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT51K-YcfMamI_Q9xaTQ-e1-B6_3g9fea2Dmg&s",
+"url":"https://docs.google.com/uc?export=download&id=18jZvuLIFt-SVpfiwvhN6yZhGW47m3Hyx",
+"import": false},
+
+
+{
+"name": "ไทยลีก",
+"image":   "https://www.ballthai.com/wp-content/uploads/2023/12/%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%A5%E0%B8%B5%E0%B8%81.jpg" ,
+"url": "https://docs.google.com/uc?export=download&id=1HCVG2v6VAeaACGwXPG0vbXgYifxCCxVk",
+"import": false
+},
+{
+"name": "GOLF",
+"image":   "https://www.rsuvistagolf.com/wp-content/uploads/2023/12/AdobeStock_57340418-1024x647.jpeg" ,
+"url": "https://docs.google.com/uc?export=download&id=17piVjX4xBFptdbIFmppnmEdv3V4MOZEe",
+"import": false
+},
+{
+"name": "Sport",
+"image":   "https://img.freepik.com/free-vector/sport-text-banner-poster-design_1308-132612.jpg?semt=ais_wordcount_boost&w=740&q=80" ,
+"url": "https://docs.google.com/uc?export=download&id=1HDaiKoidmyEig0yizILnaPbBKo1oPvzK",
+"import": false
+},
+{
+"name": "Sport_one",
+"image":   "https://cdn.aptoide.com/imgs/4/d/d/4ddfaf7d9a59a6f2768bbda37e7ffe0b_icon.png" ,
+"url": "https://docs.google.com/uc?export=download&id=1HZSgtyU6dGFKeGhJloPSL31K_msA_aRM",
+"import": false
+},
+{
+"name": "Sport_two",
+"image":   "https://r2.thesportsdb.com/images/media/channel/logo/68s5x31616932507.png" ,
+"url": "https://docs.google.com/uc?export=download&id=1L1bV1tekH9nzOpCSrNnCzfJ6Vo7D7NQ6",
+"import": false
+},
+{
+"name":"มวยปลั้ม",
+"image":"https://www.khaosod.co.th/wpapp/uploads/2021/10/MW-FF595_wwe020_20170209173749_ZH.jpg",
+"url": "https://docs.google.com/uc?export=download&id=167bfD6KOtjA7gnToqYRh1H7_mxA5LbB8",
+"import": false
+}, 
+{
+"name": "แข่งตบ",
+"image": "https://pandastatic.b-cdn.net/image/?url=https%3A%2F%2Fpandastorage.b-cdn.net%2Fpln%2FuploadedImage%2F35029986%2Fhqdefaultjpg_35029986_1696351347.jpg%3Fw%3D1280%26h%3D720%3Fw%3D1280%26h%3D720%3Fw%3D480%26h%3D",
+"url": "https://docs.google.com/uc?export=download&id=1drRsv6Lo0kV8jYUGI3edOcLGao11PV3J",
+"import": false
+},
+
+{
+"name":"กีฬาต่างประเทศ ",
+"image":"https://www.khaosod.co.th/wpapp/uploads/2025/10/west-ham-brentford-3888.jpg",
+"url":"https://docs.google.com/uc?export=download&id=1sxQiBINwzhnZQEwjpVB60y8m_bLFQtQp",
+"import": false
+},
+
+{
+"name":"ไก่ชน วัวชน",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiaYCz6ADPEqwzEEAwQZ-Ig9OuveZNb-vRTA&s",
+"url":"https://docs.google.com/uc?export=download&id=1TV0eP_t5rOLLhpbEUrxnznmSX0ZSB4ID",
+"import": false
+},
+
+
+]
+}
