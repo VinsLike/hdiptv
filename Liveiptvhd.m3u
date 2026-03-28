@@ -1,148 +1,220 @@
 {		
- "name": "HDIPTV By GTX ",		
+ "name": "HDIPTV By GTX",		
  "author": "กดรีเฟรช ประสาน HDIPTV By GTX ",				
  "url": "https://github.com/VinsLike/hdiptv/raw/refs/heads/main/Liveiptvhd.m3u",	
  "image": "https://github.com/VinsLike/hdiptv/blob/main/logo2.jpg",		
  "groups": [		
 
 
- {
-"name": "ชิตังเมโป้ง ก่อนทุกครั้ง  ",
-"image": "https://img.freepik.com/free-vector/person-pressing-start-button_23-2147903478.jpg",
-"url": "https://docs.google.com/uc?export=download&id=1RrLqpR6tGnpvcQ06qY-3B3dqQibk6N53",
-"import": false 
-},
+  	{		
+   "name": "กดรีเฟรช ทุกครั้ง",		
+   "image": "https://img.freepik.com/free-vector/person-pressing-start-button_23-2147903478.jpg",
+   "url": "https://docs.google.com/uc?export=download&id=1RrLqpR6tGnpvcQ06qY-3B3dqQibk6N53",
+   "stations": [		
+   ]	
+  }	,
+
+
+{		
+   "name": "ดูทีวีออนไลน์",		
+   "image": "https://positioningmag.com/wp-content/uploads/2019/08/tv_digital12.jpg",
+   "url": "https://docs.google.com/uc?export=download&id=11ZocU_q36HwsTwuT-dGuZm2hc6Gjzarc",
+   "stations": [		
+   ]	
+  }	,
+
+{		
+   "name": "ช่องกีฬา",		
+   "image": "https://positioningmag.com/wp-content/uploads/importedmedia/blogmedia-60100.png",
+   "url": "https://docs.google.com/uc?export=download&id=1nQAAcuX3dEWdBB1CWeY8s5uqo_xj69ue",
+   "stations": [		
+   ]	
+  }	,
+
+{		
+   "name": "ดูหนัง HD",		
+   "image": "https://www.akerufeed.com/wp-content/uploads/2017/10/%E0%B9%81%E0%B8%AD%E0%B8%9B%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87-%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%87.jpg",
+   "url": "https://docs.google.com/uc?export=download&id=1EakmaeXSVU4HL23HsSb41cyXjlJ7oB9",
+   "stations": [		
+   ]	
+  }	,
+{		
+   "name": "รวมหนังซีรี่ย์่",		
+   "image": "https://mushroomtravelpage.b-cdn.net/wp-content/uploads/2021/09/feat_kr.png",
+   "url": "https://docs.google.com/uc?export=download&id=1m-iHWKnI883dzHPGZJECMo4GXMUzSjQa",
+   "stations": [		
+   ]	
+  }	,
+
+{		
+   "name": "ช่องหนัง ออนไลน์",		
+   "image": "https://tuemaster.com/wp-content/uploads/2020/11/App_movie-766x383.jpg",
+   "url": "https://docs.google.com/uc?export=download&id=1rWtTykWRu_SGQcCbOY_vvSQjFlkqzMey",
+   "stations": [		
+   ]	
+  }	,
+
+{		
+   "name": "ช่องสารคดี",		
+   "image": "https://static.thairath.co.th/media/dFQROr7oWzulq5FZXCTUZhvctnzMzt7E9IZ93dmQWBx61L7gjlAqtuluetevwssSbg6.jpg",
+   "url": "https://docs.google.com/uc?export=download&id=1EmByi-DuZxh-nC6LBaYitVFDH1KJeUZP",
+   "stations": [		
+   ]	
+  }	,
+
+
+{		
+   "name": "ช่องการ์ตูน",		
+   "image": "https://www.beautyhunter.co.th/wp-content/uploads/2017/02/cn.jpg",
+   "url": "https://docs.google.com/uc?export=download&id=1oZCHdnBJat53eg0XZRIP6YKxmeJmm5VB",
+   "stations": [		
+   ]	
+  }	,
+{		
+   "name": "การตูนย์อนิเมชั่น",		
+   "image": "https://img.salehere.co.th/p/1200x0/2022/11/18/6f1ulxqlfg3v.jpg",
+   "url": "https://docs.google.com/uc?export=download&id=1iSJvaDOCiEXb7w2-1aU2RrMs_oh5h3I4",
+   "stations": [		
+   ]	
+  }	,
+{		
+   "name": "วิทยุออนไลน์",		
+   "image": "https://www.iphone-droid.net/wp-content/uploads/2017/01/myTuner-Radio-Pro.png",
+   "url": "https://docs.google.com/uc?export=download&id=15zoaOTufm9ef9J9BOzQ0C_BEQ1sYMWbz",
+   "stations": [		
+   ]	
+  }	,
+
+{		
+   "name": "รวมคอนเสิร์ต",		
+   "image": "https://image.makewebcdn.com/makeweb/m_1920x0/UplTtZ4P9/DefaultData/%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95.png",
+   "url": "https://docs.google.com/uc?export=download&id=1hZjgsLveq1lkBH-hu5gZYdSqR5bdlZkD",
+   "stations": [		
+   ]	
+  }	,
+
+{		
+   "name": "ช่องรายการตลก",		
+   "image": "https://i.ytimg.com/vi/WY6lbED2SCw/hqdefault.jpg",
+   "url": "https://docs.google.com/uc?export=download&id=1AySDN2us97OJ1RNqxE40sKI7bXjrsZXh",
+   "stations": [		
+   ]	
+  }	,
+
+{		
+   "name": "เรื่องราวหลอนๆ",		
+   "image": "https://plusprinting.bookplus.co.th/wp-content/uploads/2023/04/CT04-0011-Facebook.jpg",
+   "url": "https://docs.google.com/uc?export=download&id=1edkY41rBasa_rHCxVvO5_7y2gg9WqbCZ",
+   "stations": [		
+   ]	
+  }	,
+
+{		
+   "name": "ช่องการศึกษา",		
+   "image": "https://www.hs3lzx.com/wp-content/uploads/2020/05/dltv4.jpg",
+   "url": "https://docs.google.com/uc?export=download&id=1MkVazTWUdZB2L5apQmi37Vxjz9ri3QyU",
+   "stations": [		
+   ]	
+  }	,
+{		
+   "name": "ช่องทีวีต่างประเทศ",		
+   "image": "https://www.dropbox.com/scl/fi/1ckrdzkgzfriurnaj6nib/.jpg?rlkey=pu7hl0x3mp6zeynsogdxbmd1w&st=ux4r31ne&dl=1",
+   "url": "https://docs.google.com/uc?export=download&id=1GzFJL42pc2POBxZXtzByK-z-CBWCXz_q",
+   "stations": [		
+   ]	
+  }	,
+
+
+{		
+   "name": "ข่าวต่างประเทศ",		
+   "image": "https://media.tarad.com/p/pimpal/img-lib/spd_2015091852338_b.jpg",
+   "url": "https://docs.google.com/uc?export=download&id=1wvYVGTnk-Z-4W21r_Io4JSPQC0Adp5Ns",
+   "stations": [		
+   ]	
+  }	,
+
+
+{		
+   "name": "CCTVกล้องวงจรปิด",		
+   "image": "https://satppservice.com/wp-content/uploads/2021/11/%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%87-%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%A3%E0%B8%9B%E0%B8%B4%E0%B8%94-%E0%B8%A1%E0%B8%B5-%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%A0%E0%B8%97.jpg",
+   "url": "https://docs.google.com/uc?export=download&id=19KGCFGHm5D4D-Wcuc4z7rH2uUAqfPq9W",
+   "stations": [		
+   ]	
+  }	,
+
+
+
+{		
+   "name": "รวมหนัง ผู้ใหญ่X",		
+   "image": "https://www.siao69.net/wp-content/uploads/2019/10/top10.jpg",
+   "url": "https://docs.google.com/uc?export=download&id=1jKMRubxcwldyPVb4MzL3YFZd-hMh326A",
+   "stations": [		
+   ]	
+  }	,
+ 	
+{ 
+"name":"เว็บดูบอลฟรี!",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuLjlFxCWOmY3Pqv3YcO-UHpw7Jqlz5ZxQhQ&s",
+"stations":[
 
 {
-"name": "ดูทีวีออนไลน์",
-"author": "By GTX", 
-"image": "https://positioningmag.com/wp-content/uploads/2019/08/tv_digital12.jpg",
-"url": "https://docs.google.com/uc?export=download&id=11ZocU_q36HwsTwuT-dGuZm2hc6Gjzarc",
-"import": false
-},
+"name":"ufa77ดูบอลสด",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuLjlFxCWOmY3Pqv3YcO-UHpw7Jqlz5ZxQhQ&s",
+"url":"https://www.ufa77.fun/all-channels",
+"referer": "https://www.ufa77.fun/",
+"embed": "true"},
+{
+"name":"ดูบอลสดDooball66",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuLjlFxCWOmY3Pqv3YcO-UHpw7Jqlz5ZxQhQ&s",
+"url":"https://dooball66x.com/%e0%b8%94%e0%b8%b9%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/",
+"referer": "https://dooball66x.com/",
+"embed": "true"},
+{
+"name":"ดูบอลสดdooball",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuLjlFxCWOmY3Pqv3YcO-UHpw7Jqlz5ZxQhQ&s",
+"url":"https://www.xn--72czaud0ezbn4b8de.com/live/",
+"referer": "https://dooball66x.com/",
+"embed": "true"},
+{
+"name":"ดูบอลสดdooballkub",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuLjlFxCWOmY3Pqv3YcO-UHpw7Jqlz5ZxQhQ&s",
+"url":"https://dooballkub.com/tv-online/",
+"referer": "https://dooball66x.com/",
+"embed": "true"},
+{
+"name":"ดูบอลสดbankeela",
+"image":"https://www.bankeela.com/wp-content/uploads/2024/11/Live_football_on_tv.jpg",
+"url":"https://www.bankeela.com/live/",
+"referer": "https://www.bankeela.com/",
+"embed": "true"},
+{
+"name":"ดูบอลสดlockscore",
+"image":"https://lockscore.com/dist/img/uploads/banner-guru.webp",
+"url":"https://lockscore.com/live/",
+"referer": "https://lockscore.com/",
+"embed": "true"},
+{
+"name":"ดูบอลสดdooball66",
+"image":"https://www.dooball66.today/wp-content/uploads/2024/09/Dooball66.today_.webp",
+"url":"https://www.dooball66.today/",
+"referer": "https://www.dooball66.today/",
+"embed": "true"},
+
+]},
+
+
 
 { 
-"name"		: "ช่องกีฬา", 
-"author": "By GTX", 
-"image":"https://positioningmag.com/wp-content/uploads/importedmedia/blogmedia-60100.png",
-"url"		: "https://docs.google.com/uc?export=download&id=1nQAAcuX3dEWdBB1CWeY8s5uqo_xj69ue"
-}, 
+"name":"ดูไม่ได้ ติดตั้งแอพVPN1111",
+"image":"https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/VPN.png",
+"stations":[
 
 {
-"name": "ดูหนัง HD", 
-"author": "By GTX", 
-"image": "https://www.akerufeed.com/wp-content/uploads/2017/10/%E0%B9%81%E0%B8%AD%E0%B8%9B%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87-%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%87.jpg", 
-"url": "https://docs.google.com/uc?export=download&id=1EakmaeXSVU4HL23HsSb41cyXjlJ7oB9_",
-"import": "true"
-},
-{
-"name" : "รวมหนังซีรี่ย์่",
-"author": "By GTX", 
-"image" : "https://mushroomtravelpage.b-cdn.net/wp-content/uploads/2021/09/feat_kr.png",
-"url"  : "https://docs.google.com/uc?export=download&id=1m-iHWKnI883dzHPGZJECMo4GXMUzSjQa",
-"import": "true"
-},
-{
-"name": "ช่องหนัง ออนไลน์",
-"author": "By GTX", 
-"image": "https://tuemaster.com/wp-content/uploads/2020/11/App_movie-766x383.jpg",
-"url": "https://docs.google.com/uc?export=download&id=1rWtTykWRu_SGQcCbOY_vvSQjFlkqzMey",
-"import": "true"
-},
-{
-"name": "ช่องสารคดี",
-"author": "By GTX", 
-"image": "https://static.thairath.co.th/media/dFQROr7oWzulq5FZXCTUZhvctnzMzt7E9IZ93dmQWBx61L7gjlAqtuluetevwssSbg6.jpg",
-"url": "https://docs.google.com/uc?export=download&id=1EmByi-DuZxh-nC6LBaYitVFDH1KJeUZP",
-"import": false
-},
-{
-"name": "ช่องการ์ตูน", 
-"author": "By GTX", 
-"image": "https://www.beautyhunter.co.th/wp-content/uploads/2017/02/cn.jpg", 
-"url": "https://docs.google.com/uc?export=download&id=1oZCHdnBJat53eg0XZRIP6YKxmeJmm5VB",
-"import": "true"
-},
-{
-"name": "การตูนย์อนิเมชั่น",
-"author": "By GTX", 
-"image": "https://img.salehere.co.th/p/1200x0/2022/11/18/6f1ulxqlfg3v.jpg",
-"url" : "https://docs.google.com/uc?export=download&id=1iSJvaDOCiEXb7w2-1aU2RrMs_oh5h3I4",
-"import": "true"
-},
-
-{
-"name": "วิทยุออนไลน์", 
-"author": "By GTX", 
-"image": "https://www.iphone-droid.net/wp-content/uploads/2017/01/myTuner-Radio-Pro.png", 
-"url": "https://docs.google.com/uc?export=download&id=15zoaOTufm9ef9J9BOzQ0C_BEQ1sYMWbz",
-"import": false
-},
-
-{"name": "รวมคอนเสิร์ต ",
-"author": "By GTX", 
-"image": "https://image.makewebcdn.com/makeweb/m_1920x0/UplTtZ4P9/DefaultData/%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95.png",
-"url": "https://docs.google.com/uc?export=download&id=1hZjgsLveq1lkBH-hu5gZYdSqR5bdlZkD",
-"import": false
-},
-
-{
-"name": "ช่องรายการตลก",
-"author": "By GTX", 
-"image": "https://i.ytimg.com/vi/WY6lbED2SCw/hqdefault.jpg",
-"url": "https://docs.google.com/uc?export=download&id=1AySDN2us97OJ1RNqxE40sKI7bXjrsZXh",
-"import": false
-},
-{
-"name":"เรื่องราวหลอนๆ",
-"author": "By GTX", 
-"image":"https://plusprinting.bookplus.co.th/wp-content/uploads/2023/04/CT04-0011-Facebook.jpg",
-"url":"https://docs.google.com/uc?export=download&id=1edkY41rBasa_rHCxVvO5_7y2gg9WqbCZ",
-"import": false
-},	
-{
-"name":"ช่องการศึกษา",
-"author": "By GTX", 
-"image":"https://www.hs3lzx.com/wp-content/uploads/2020/05/dltv4.jpg",
-"url":"https://docs.google.com/uc?export=download&id=1MkVazTWUdZB2L5apQmi37Vxjz9ri3QyU",
-"import": false
-},	
-{
-"name": "ช่องทีวีต่างประเทศ",
-"author": "By GTX", 
-"image": "https://www.dropbox.com/scl/fi/1ckrdzkgzfriurnaj6nib/.jpg?rlkey=pu7hl0x3mp6zeynsogdxbmd1w&st=ux4r31ne&dl=1",
-"url": "https://docs.google.com/uc?export=download&id=1GzFJL42pc2POBxZXtzByK-z-CBWCXz_q",
-"import": "false"
-}, 
-{
-"name": "ข่าวต่างประเทศ",
-"author": "By GTX", 
-image:"https://media.tarad.com/p/pimpal/img-lib/spd_2015091852338_b.jpg",
-"url": "https://docs.google.com/uc?export=download&id=1wvYVGTnk-Z-4W21r_Io4JSPQC0Adp5Ns",
-"import": "true"
-},
-
-{
-"name": "CCTVกล้องวงจรปิด ",
-"author": "By GTX", 
-"image": "https://satppservice.com/wp-content/uploads/2021/11/%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%87-%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%A3%E0%B8%9B%E0%B8%B4%E0%B8%94-%E0%B8%A1%E0%B8%B5-%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%A0%E0%B8%97.jpg",
-"url": "https://docs.google.com/uc?export=download&id=19KGCFGHm5D4D-Wcuc4z7rH2uUAqfPq9W",
-"import": "true"
-},
-
-{
-"name": "รวมหนัง ผู้ใหญ่X",
-"author": "By GTX", 
-"image": "https://www.siao69.net/wp-content/uploads/2019/10/top10.jpg",
-"url": "https://docs.google.com/uc?export=download&id=1jKMRubxcwldyPVb4MzL3YFZd-hMh326A",
-"import": "true"
-},      
-
-
-]}
-
-
-
-
-
-
+"name":"ติดตั้งแอพVPN1111",
+"image":"https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/VPN.png",
+"url":"https://1-1-1-1.th.uptodown.com/android/",
+"referer": "https://1-1-1-1.th.uptodown.com/",
+"embed": "true"},
+]},
+ ]		
+}		
