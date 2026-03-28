@@ -1,3 +1,23 @@
+"url": "https://docs.google.com/uc?export=download&id=1RrLqpR6tGnpvcQ06qY-3B3dqQibk6N53",
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>playlist</title>
+
+<style>
+.hidden-link {
+    display: none;
+}
+.invisible-link {
+    visibility: hidden;
+}
+</style>
+
+
+
+
 {
 "name": "HDIPTV By GTX  ",
 "author": "HDIPTV By GTX  ",
@@ -15,6 +35,7 @@
 
 {
 "name": "Digital TV",
+"author": "By GTX", 
 "image": "https://www.dropbox.com/scl/fi/d5961oczi9d1tbq3677v0/tvdigital.jpg?rlkey=jky5u1gdqoc55hwbbzow5e64w&st=muil6kam&dl=1",
 "url": "https://docs.google.com/uc?export=download&id=11ZocU_q36HwsTwuT-dGuZm2hc6Gjzarc",
 "import": false
@@ -22,47 +43,49 @@
 
 { 
 "name"		: "รวมกีฬา", 
+"author": "By GTX", 
 "image":"https://www.dropbox.com/scl/fi/4qjqjuluh216s1djz76er/.jpg?rlkey=4mp4mywc1m7a5thoiqxmiy4vt&st=32ueu5m1&dl=1",
 "url"		: "https://docs.google.com/uc?export=download&id=1nQAAcuX3dEWdBB1CWeY8s5uqo_xj69ue"
 }, 
 
 {
 "name": "หนัง HD", 
-"author": "Yantech", 
+"author": "By GTX", 
 "image": "https://www.dropbox.com/scl/fi/rfnzipqbi77deemz7yye4/HD.jpg?rlkey=xllo2s0e3ia8mr020sf6rqus3&st=lmb5n8e5&dl=1", 
 "url": "https://docs.google.com/uc?export=download&id=1EakmaeXSVU4HL23HsSb41cyXjlJ7oB9_",
 "import": "true"
 },
 {
 "name" : "รวมซีรี่ย์่",
+"author": "By GTX", 
 "image" : "https://www.dropbox.com/scl/fi/ik12f156rcgwr46atf2me/.jpg?rlkey=67nxzpehcesedtwzyubzyhi6j&st=9f17x5fx&dl=1",
 "url"  : "https://docs.google.com/uc?export=download&id=1m-iHWKnI883dzHPGZJECMo4GXMUzSjQa",
 "import": "true"
 },
 {
 "name": "ช่องหนัง ออนไลน์",
-"author": "Yantech",
+"author": "By GTX", 
 "image": "https://www.dropbox.com/scl/fi/gkynjj6c5avk7d7xdamjo/.jpg?rlkey=es5pp2imsvjc3elyd8hmzfxy2&st=gj3gewe9&dl=1",
 "url": "https://docs.google.com/uc?export=download&id=1rWtTykWRu_SGQcCbOY_vvSQjFlkqzMey",
 "import": "true"
 },
 {
 "name": "สารคดี",
-"author": "Yantech", 
+"author": "By GTX", 
 "image": "https://www.dropbox.com/scl/fi/i1t6brnccxyoxzc5m0sn1/.jpg?rlkey=e59dxxcbalp8j3vxvxno4ggoz&st=xftgucxp&dl=1",
 "url": "https://docs.google.com/uc?export=download&id=1EmByi-DuZxh-nC6LBaYitVFDH1KJeUZP",
 "import": false
 },
 {
 "name": "Cartoons", 
-"author": "Yantech", 
+"author": "By GTX", 
 "image": "https://www.dropbox.com/scl/fi/o0gqanv7i5yflhkpdn463/.jpg?rlkey=0qj174oe4rx7hibf6gt6u0m1v&st=t5j70qnx&dl=1", 
 "url": "https://docs.google.com/uc?export=download&id=1oZCHdnBJat53eg0XZRIP6YKxmeJmm5VB",
 "import": "true"
 },
 {
 "name": "การตูนย์อนิเมชั่น",
-"author": "Yantech", 
+"author": "By GTX", 
 "image": "https://www.dropbox.com/scl/fi/gqxlhy59hzbyj9qldjq5f/.jpg?rlkey=z0lqh2x518joe2spxanxn1ep0&st=awcgxrmy&dl=1",
 "url" : "https://docs.google.com/uc?export=download&id=1iSJvaDOCiEXb7w2-1aU2RrMs_oh5h3I4",
 "import": "true"
@@ -70,56 +93,56 @@
 
 {
 "name": "วิทยุออนไลน์", 
-"author": "Yantech", 
+"author": "By GTX", 
 "image": "https://www.dropbox.com/scl/fi/8qxcnywl8wgyxk7rzwws3/.jpg?rlkey=sgtjvwpf79gvxgsmmrnzigrhr&st=1osv4qiq&dl=1", 
 "url": "https://docs.google.com/uc?export=download&id=15zoaOTufm9ef9J9BOzQ0C_BEQ1sYMWbz",
 "import": false
 },
 
 {"name": "คอนเสิร์ต รวม  ",
-"author": "Yantech", 
+"author": "By GTX", 
 "image": "https://www.dropbox.com/scl/fi/2gb6a81ee0k1bfwst9p3l/.jpg?rlkey=d957halh5ls1kubg0b8rt237w&st=aqn5g6zk&dl=1",
 "url": "https://docs.google.com/uc?export=download&id=1hZjgsLveq1lkBH-hu5gZYdSqR5bdlZkD",
 "import": false
 },
 
 {"name": "หนังตะลุง  ",
-"author": "Yantech", 
+"author": "By GTX", 
 "image": "https://www.dropbox.com/scl/fi/cluic2rw7dv5c79lwtoko/.jpg?rlkey=fcef83vz7rfvgwjne0wtvgnzn&st=ofhmb8r1&dl=1",
 "url": "https://docs.google.com/uc?export=download&id=1HXoa2FlYMC5AIVz3ghZMVcif8Jxnvy2A",
 "import": false
 },
 {
 "name": "รายการตลก",
-"author": "Yantech", 
+"author": "By GTX", 
 "image": "https://www.dropbox.com/scl/fi/qyg9u0rrspcczxej2mpd4/.jpg?rlkey=spasramc0dna0pnenpxrfs4t0&st=rtdv4vvf&dl=1",
 "url": "https://docs.google.com/uc?export=download&id=1AySDN2us97OJ1RNqxE40sKI7bXjrsZXh",
 "import": false
 },
 {
 "name":"เรื่องหลอนๆ",
-"author": "Yantech", 
+"author": "By GTX", 
 "image":"https://www.dropbox.com/scl/fi/a6ajrolu0ww0y1zdkd5ux/.jpg?rlkey=yd0vxhdasfkgz4o83fldkzhi2&st=qamgg78w&dl=1",
 "url":"https://docs.google.com/uc?export=download&id=1edkY41rBasa_rHCxVvO5_7y2gg9WqbCZ",
 "import": false
 },	
 {
 "name":"ช่องการศึกษา",
-"author": "Yantech", 
+"author": "By GTX", 
 "image":"https://www.dropbox.com/scl/fi/7wfnvq9lwkw7ud438lq46/.jpg?rlkey=lc2ujpgnh7tzkpb9j0pks0gtz&st=tm1ap18d&dl=1",
 "url":"https://docs.google.com/uc?export=download&id=1MkVazTWUdZB2L5apQmi37Vxjz9ri3QyU",
 "import": false
 },	
 {
 "name": "ช่อง TV ทั่วโลก",
-"author": "Yantech", 
+"author": "By GTX", 
 "image": "https://www.dropbox.com/scl/fi/1ckrdzkgzfriurnaj6nib/.jpg?rlkey=pu7hl0x3mp6zeynsogdxbmd1w&st=ux4r31ne&dl=1",
 "url": "https://docs.google.com/uc?export=download&id=1GzFJL42pc2POBxZXtzByK-z-CBWCXz_q",
 "import": "false"
 }, 
 {
 "name": "News ข่าวทั่วโลก",
-"author": "Yantech", 
+"author": "By GTX", 
 image:"https://www.dropbox.com/scl/fi/ctco8x6ztn4d1edwsdux4/.jpg?rlkey=wpn7gqgx8suk9cpkozyt7q5mz&st=caqw9c95&dl=1",
 "url": "https://docs.google.com/uc?export=download&id=1wvYVGTnk-Z-4W21r_Io4JSPQC0Adp5Ns",
 "import": "true"
@@ -127,7 +150,7 @@ image:"https://www.dropbox.com/scl/fi/ctco8x6ztn4d1edwsdux4/.jpg?rlkey=wpn7gqgx8
 
 {
 "name": "ดูกล้องวงจรปิด ",
-"author": "Yantech", 
+"author": "By GTX", 
 "image": "https://www.dropbox.com/scl/fi/dvlid11okk001d2cyl5mf/.jpg?rlkey=o5ubckam0xp1628cnyd42vsgv&st=cpa8t3af&dl=1",
 "url": "https://docs.google.com/uc?export=download&id=19KGCFGHm5D4D-Wcuc4z7rH2uUAqfPq9W",
 "import": "true"
@@ -135,18 +158,55 @@ image:"https://www.dropbox.com/scl/fi/ctco8x6ztn4d1edwsdux4/.jpg?rlkey=wpn7gqgx8
 
 {
 "name": "หนัง ผู้ใหญ่",
-"author": "Yantech", 
+"author": "By GTX", 
 "image": "https://www.dropbox.com/scl/fi/qb21zipiwsr9lwa583xjr/.jpg?rlkey=r1w0cm2wulpcc46y70tgju92h&st=744p0wee&dl=1",
 "url": "https://docs.google.com/uc?export=download&id=1jKMRubxcwldyPVb4MzL3YFZd-hMh326A",
 "import": "true"
 },      
 
-{
-"name": "ติดต่อ Admin  ",
-"author": "ช่องดับติดปัญหาแจ้งได้",
-"image": "",
-"url": "",
-"import": "true"
-},   
 
 ]}
+
+
+
+
+
+
+<script>
+// ❌ ปิดคลิกขวา
+document.addEventListener('contextmenu', function(e) {
+    e.preventDefault();
+});
+
+// ❌ ปิดปุ่มลัดดูซอร์ส
+document.onkeydown = function(e) {
+    if (e.keyCode == 123) return false; // F12
+    if (e.ctrlKey && e.shiftKey && e.keyCode == 73) return false; // Ctrl+Shift+I
+    if (e.ctrlKey && e.keyCode == 85) return false; // Ctrl+U
+    if (e.ctrlKey && e.keyCode == 83) return false; // Ctrl+S
+};
+</script>
+
+</head>
+
+<body bgcolor="FFFFFF">
+
+<!-- overlay กันคลิก -->
+<div style="
+position:fixed;
+top:0;
+left:0;
+width:100%;
+height:100%;
+z-index:9999;
+background:transparent;">
+</div>
+
+<meta http-equiv="refresh" content="0;url=https://pic.bstarstatic.com/ugc/54f2b4d47ad9468f08c15adacaa96dbd.jpeg">
+
+</body>
+</html> 
+
+
+
+
