@@ -1,0 +1,22 @@
+{ "name": "Movie2", "author": "รับชมเอง", "image": "", "url": "", "groups": [ 
+
+{ "name": "หนังใหม่2026 ", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpVIj88IYD6FdEl6LI9kZWvx7RtmAVyhRlrA&usqp=CAU ", "url":"https://docs.google.com/uc?export=download&id=1Jj2W1VJHV9NNkxPIvRY4G0wa4bxfdHF7", "import": false },
+
+{ "name": "หนังใหม่2025", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpVIj88IYD6FdEl6LI9kZWvx7RtmAVyhRlrA&usqp=CAU ", "url":"https://docs.google.com/uc?export=download&id=1lAWe8RPiB0eOdhsf5MjVdcvreLsxgAVN", "import": false }, 
+
+{ "name": "หนังเก่าๆ ", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOQtBNRl_KTaylMiBmdGG7qomb7MHIj0uUfxokO3jzUA&s=10 ", "url":"https://docs.google.com/uc?export=download&id=1OUCnLQLFTv1JKBPeFSnkPYTJzOiuuBMJ", "import": false },
+
+ { "name": "หนังnetflixพากษ์ไทย", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3qMjwbZOLb-FS3tnXs_sd8JXhSMgbIR-Quw&usqp=CAU", "url":"https://docs.google.com/uc?export=download&id=1GowjEf6xVCVxSSOLqfymER9BBLDkdate", "import": false }, 
+
+ { "name": "action+", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOQtBNRl_KTaylMiBmdGG7qomb7MHIj0uUfxokO3jzUA&s=10", "url":"https://docs.google.com/uc?export=download&id=178CbQjLQ90r3w32nXuJ_Yi0mz2lHHpj2", "import": false }, 
+
+ { "name": "HBO", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIDNWfsHJRobJfCmeSNJgVeZtIG_Y3HlkG9Q&s", "url":"https://docs.google.com/uc?export=download&id=1ffv1zpoiobQBeUbeImEXKuQmWbJEU5u7", "import": false }, 
+
+ { "name": "Horror", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRZZH32oUVbRsEkEeQAEgYZ0Q837J1bjrnIw&usqp=CAU", "url": "https://docs.google.com/uc?export=download&id=17cAiiG_mIbYfw46UUErAfV1Y1SIlyJSt ", "import": false }, 
+
+ { "name": "Thai", "image": "https://mthai.com/app/uploads/2021/02/Logo-mthai-04.png", "url": "https://docs.google.com/uc?export=download&id=1exhB--Qco0uTIBoWnej65i1WdHSaQuVT ", "import": false },  
+
+{ "name": "ตามคำขอ", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgaZcwcF1amp9YCYep4bBnF0wIudSYiYXtSA&usqp=CAU", "url":"https://docs.google.com/uc?export=download&id=1tbU7aCAmrm-oSrG3MYrtGVGnmT9qiO7P
+", "import": false }, 
+
+{ "name": "หนังรวมภาค", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgaZcwcF1amp9YCYep4bBnF0wIudSYiYXtSA&usqp=CAU", "url":"https://docs.google.com/uc?export=download&id=17ceTKtggm-pncNRKX2TMDBqlcfRA51my ", "import": false }, ]} 

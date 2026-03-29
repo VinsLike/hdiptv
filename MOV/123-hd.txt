@@ -1,0 +1,4298 @@
+{
+"name": "New!",
+"author": "23.October.2025",
+"image": "https://123-hdz.com/wp-content/uploads/2025/07/123hdz-favicon-1.png",
+"stations": [
+{
+"name": "True Beauty (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/True-Beauty-2025.png",
+"url": "https://main.24playerhd.com/m3u8/ff7cb2dcc21ab9bccdbb0664/ff7cb2dcc21ab9bccdbb0664438.m3u8",
+"referer": ""
+},
+{
+"name": "Deadly Doll (2025) เกิดใหม่",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/Deadly-Doll-2025-เกิดใหม่.png",
+"url": "https://main.24playerhd.com/m3u8/115a4b69dd3add4fb7b7e9fd/115a4b69dd3add4fb7b7e9fd438.m3u8",
+"referer": ""
+},
+{
+"name": "Drop (2025) รับคำสั่งตาย",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Drop-2025-รับคำสั่งตาย.png",
+"url": "https://main.24playerhd.com/m3u8/063029191873cd24968d2278/063029191873cd24968d2278438.m3u8",
+"referer": ""
+},
+{
+"name": "Drop (2025) รับคำสั่งตาย",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Drop-2025-รับคำสั่งตาย.png",
+"url": "https://main.24playerhd.com/m3u8/39dc0340080889f31c46c834/39dc0340080889f31c46c834438.m3u8",
+"referer": ""
+},
+{
+"name": "The Sea Is Watching (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/The-Sea-Is-Watching-2025.png",
+"url": "https://main.24playerhd.com/m3u8/2b984652f4a4f8ed0eadbbfe/2b984652f4a4f8ed0eadbbfe438.m3u8",
+"referer": ""
+},
+{
+"name": "She Walks in Darkness (2025) เธอเดินไปในเงามืด",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/She-Walks-in-Darkness-2025-เธอเดินไปในเงามืด.png",
+"url": "https://main.24playerhd.com/m3u8/c51df4eb39ff4a154c0e543e/c51df4eb39ff4a154c0e543e438.m3u8",
+"referer": ""
+},
+{
+"name": "She Walks in Darkness (2025) เธอเดินไปในเงามืด",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/She-Walks-in-Darkness-2025-เธอเดินไปในเงามืด.png",
+"url": "https://main.24playerhd.com/m3u8/df2908c4ad20de16d1cee4e2/df2908c4ad20de16d1cee4e2438.m3u8",
+"referer": ""
+},
+{
+"name": "Good News (2025) พลิกน่านฟ้าผ่าวิกฤต",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/Good-News-2025-พลิกน่านฟ้าผ่าวิกฤติ.png",
+"url": "https://main.24playerhd.com/m3u8/635f03ceb86870d4fa485a3a/635f03ceb86870d4fa485a3a438.m3u8",
+"referer": ""
+},
+{
+"name": "Good News (2025) พลิกน่านฟ้าผ่าวิกฤต",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/Good-News-2025-พลิกน่านฟ้าผ่าวิกฤติ.png",
+"url": "https://main.24playerhd.com/m3u8/e6f019f29fa76275d0657dd8/e6f019f29fa76275d0657dd8438.m3u8",
+"referer": ""
+},
+{
+"name": "27 Nights (2025) 27 คืน",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/27-Nights-2025-27-คืน-1.png",
+"url": "https://main.24playerhd.com/m3u8/e87e48d194ee0120565207f2/e87e48d194ee0120565207f2438.m3u8",
+"referer": ""
+},
+{
+"name": "27 Nights (2025) 27 คืน",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/27-Nights-2025-27-คืน-1.png",
+"url": "https://main.24playerhd.com/m3u8/af28545ea3ead9d732da27bf/af28545ea3ead9d732da27bf438.m3u8",
+"referer": ""
+},
+{
+"name": "The Perfect Neighbor (2025) เพื่อนบ้านที่แสน",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/The-Perfect-Neighbor-2025-เพื่อนบ้านที่แสน.png",
+"url": "https://main.24playerhd.com/m3u8/2f8e9128df8fdda082217e76/2f8e9128df8fdda082217e76438.m3u8",
+"referer": ""
+},
+{
+"name": "The Time That Remains (2025) เวลาที่เหลืออยู่",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/The-Time-That-Remains-2025-เวลาที่เหลืออยู่.png",
+"url": "https://main.24playerhd.com/m3u8/47b2ee8f3f49c47ac004b951/47b2ee8f3f49c47ac004b951438.m3u8",
+"referer": ""
+},
+{
+"name": "Tron Ares (2025) ทรอน แอรีส",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/Tron-Ares-2025-ทรอน-แอรีส.png",
+"url": "https://main.24playerhd.com/m3u8/01a4753ca2acdf149be5b599/01a4753ca2acdf149be5b599438.m3u8",
+"referer": ""
+},
+{
+"name": "Stigmatized Properties Possession (2025) ที่นี่มีประวัติ คนดีผีสิง",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/Stigmatized-Properties-Possession-2025-ที่นี่มีประวัติ-คนดีผีสิง.png",
+"url": "https://main.24playerhd.com/m3u8/8fc4783da3f950ce613f6f46/8fc4783da3f950ce613f6f46438.m3u8",
+"referer": ""
+},
+{
+"name": "A Big Bold Beautiful Journey (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/A-Big-Bold-Beautiful-Journey-2025.png",
+"url": "https://main.24playerhd.com/m3u8/d5eaa1821c0bafdf02337c1e/d5eaa1821c0bafdf02337c1e438.m3u8",
+"referer": ""
+},
+{
+"name": "A Woman with No Filter (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/A-Woman-with-No-Filter-2025.png",
+"url": "https://main.24playerhd.com/m3u8/9b27d48981b147e33c64eb73/9b27d48981b147e33c64eb73438.m3u8",
+"referer": ""
+},
+{
+"name": "Inside Furioza (2025) อำมหิตครั้งใหม่",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/Inside-Furioza-2025-อำมหิตครั้งใหม่.png",
+"url": "https://main.24playerhd.com/m3u8/e7911c0f437fc2a0bc11b051/e7911c0f437fc2a0bc11b051438.m3u8",
+"referer": ""
+},
+{
+"name": "A Long Shot (2025) กับดักหลบหนี",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/A-Long-Shot-2025-กับดักหลบหนี.png",
+"url": "https://main.24playerhd.com/m3u8/ef374fc841533059953b9327/ef374fc841533059953b9327438.m3u8",
+"referer": ""
+},
+{
+"name": "Times of Peril (2025) เมฆลมอันตราย",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/themes/halimmovies_54/assets/images/default-poster.jpg",
+"url": "https://main.24playerhd.com/m3u8/b1909f8382320c9e753e4332/b1909f8382320c9e753e4332438.m3u8",
+"referer": ""
+},
+{
+"name": "Everybody Loves Me When I'm Dead (2025) ลักกันวันตาย",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/Everybody-Loves-Me-When-Im-Dead-2025-ลักกันจนตาย.png",
+"url": "https://main.24playerhd.com/m3u8/d4a6c8f931c2f1be2c106ab7/d4a6c8f931c2f1be2c106ab7438.m3u8",
+"referer": ""
+},
+{
+"name": "Journey to the West The Helltown of Heaven (2025) ไซอิ๋ว เมืองนรกบนสวรรค์",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Journey-to-the-West-The-Helltown-of-Heaven-2025-ไซอิ๋ว-เมืองนรกบนสวรรค์.png",
+"url": "https://main.24playerhd.com/m3u8/4876382cfdd6db9f5416eb9c/4876382cfdd6db9f5416eb9c438.m3u8",
+"referer": ""
+},
+{
+"name": "Journey to the West The Helltown of Heaven (2025) ไซอิ๋ว เมืองนรกบนสวรรค์",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Journey-to-the-West-The-Helltown-of-Heaven-2025-ไซอิ๋ว-เมืองนรกบนสวรรค์.png",
+"url": "https://main.24playerhd.com/m3u8/8b7c996a0af42b89252f6712/8b7c996a0af42b89252f6712438.m3u8",
+"referer": ""
+},
+{
+"name": "Martabat (2025) ภารกิจเลือด",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/Martabat-2025-ภารกิจเลือด.png",
+"url": "https://main.24playerhd.com/m3u8/62ab78a3e272b4ec502f0d75/62ab78a3e272b4ec502f0d75438.m3u8",
+"referer": ""
+},
+{
+"name": "Martabat (2025) ภารกิจเลือด",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/Martabat-2025-ภารกิจเลือด.png",
+"url": "https://main.24playerhd.com/m3u8/72797e008935a482e96d6585/72797e008935a482e96d6585438.m3u8",
+"referer": ""
+},
+{
+"name": "The Astronaut (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/The-Astronaut-2025.png",
+"url": "https://main.24playerhd.com/m3u8/b628ded7cdf7f4da3dbda89d/b628ded7cdf7f4da3dbda89d438.m3u8",
+"referer": ""
+},
+{
+"name": "Isolated (2025) ตัดขาด",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Isolated-2025-ตัดขาด.png",
+"url": "https://main.24playerhd.com/m3u8/93d0a674382cb2d525a5a0f7/93d0a674382cb2d525a5a0f7438.m3u8",
+"referer": ""
+},
+{
+"name": "Clown in a Cornfield (2025) คืนวิปลาสแห่งเคตเทิลสปริงส์",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Clown-in-a-Cornfield-2025-คืนวิปลาสแห่งเคตเทิลสปริงส์.png",
+"url": "https://main.24playerhd.com/m3u8/1c0e90f44402270a09dafb49/1c0e90f44402270a09dafb49438.m3u8",
+"referer": ""
+},
+{
+"name": "A Line of Fire (2025) ฝ่าโลกทรชน ยอดคนอันตราย",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/A-Line-of-Fire-2025-ฝ่าโลกทรชน-ยอดคนอันตราย.png",
+"url": "https://main.24playerhd.com/m3u8/23e3bac8f649428319292cb9/23e3bac8f649428319292cb9438.m3u8",
+"referer": ""
+},
+{
+"name": "Swim To Me (2025) พี่เลี้ยงแสนรัก",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/Swim-To-Me-2025-พี่เลี้ยงแสนรัก.png",
+"url": "https://main.24playerhd.com/m3u8/be3fa3369e97c8d77161fde6/be3fa3369e97c8d77161fde6438.m3u8",
+"referer": ""
+},
+{
+"name": "Swim To Me (2025) พี่เลี้ยงแสนรัก",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/Swim-To-Me-2025-พี่เลี้ยงแสนรัก.png",
+"url": "https://main.24playerhd.com/m3u8/403eb477dca4d32852e85f4b/403eb477dca4d32852e85f4b438.m3u8",
+"referer": ""
+},
+{
+"name": "The Woman in Cabin 10 (2025) ฝันร้ายในห้องหมายเลข 10",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/The-Woman-in-Cabin-10-2025-ฝันร้ายในห้องหมายเลข-10.png",
+"url": "https://main.24playerhd.com/m3u8/b67a86bab279a4a46fc94d68/b67a86bab279a4a46fc94d68438.m3u8",
+"referer": ""
+},
+{
+"name": "The Woman in Cabin 10 (2025) ฝันร้ายในห้องหมายเลข 10",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/The-Woman-in-Cabin-10-2025-ฝันร้ายในห้องหมายเลข-10.png",
+"url": "https://main.24playerhd.com/m3u8/41c9ea4d3237de951592b29b/41c9ea4d3237de951592b29b438.m3u8",
+"referer": ""
+},
+{
+"name": "My Father the BTK Killer (2025) พ่อฉัน ฆาตกรบีทีเค",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/My-Father-the-BTK-Killer-2025-พ่อฉัน-ฆาตกรบีทีเค.png",
+"url": "https://main.24playerhd.com/m3u8/49dd593d006f43500bc1130a/49dd593d006f43500bc1130a438.m3u8",
+"referer": ""
+},
+{
+"name": "Out of Order (2025) เอาท์ ออฟ ออร์เดอร์",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/Out-of-Order-2025-เอาท์-ออฟ-ออร์เดอร์.png",
+"url": "https://main.24playerhd.com/m3u8/69fdd3d7947497715877ffe7/69fdd3d7947497715877ffe7438.m3u8",
+"referer": ""
+},
+{
+"name": "Only We Know (2025) มีเพียงสองเราที่รู้",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/Only-We-Know-2025-มีเพียงสองเราที่รู้.png",
+"url": "https://main.24playerhd.com/m3u8/4c07bafbd9ec9c750023f7cc/4c07bafbd9ec9c750023f7cc438.m3u8",
+"referer": ""
+},
+{
+"name": "The Conjuring Last Rites (2025) เดอะ คอนเจอริ่ง คนเรียกผี พิธีกรรมครั้งสุดท้าย",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/The-Conjuring-Last-Rites-2025-เดอะ-คอนเจอริ่ง-คนเรียกผี-พิธีกรรมครั้งสุดท้าย.png",
+"url": "https://main.24playerhd.com/m3u8/841cf2d887958b308872d508/841cf2d887958b308872d508438.m3u8",
+"referer": ""
+},
+{
+"name": "Maintenance Required (2025) ซ่อมรถ ซ้อมรัก",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/Maintenance-Required-2025-ซ่อมรถ-ซ้อมรัก.png",
+"url": "https://main.24playerhd.com/m3u8/2c0bf5b9464465ce18b2e72a/2c0bf5b9464465ce18b2e72a438.m3u8",
+"referer": ""
+},
+{
+"name": "Maintenance Required (2025) ซ่อมรถ ซ้อมรัก",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/Maintenance-Required-2025-ซ่อมรถ-ซ้อมรัก.png",
+"url": "https://main.24playerhd.com/m3u8/7ad59354b294df6149e9e990/7ad59354b294df6149e9e990438.m3u8",
+"referer": ""
+},
+{
+"name": "Caramelo (2025) คาราเมโล",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/Caramelo-2025-คาราเมโล.png",
+"url": "https://main.24playerhd.com/m3u8/fb60184928692582de1d714b/fb60184928692582de1d714b438.m3u8",
+"referer": ""
+},
+{
+"name": "Caramelo (2025) คาราเมโล",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/Caramelo-2025-คาราเมโล.png",
+"url": "https://main.24playerhd.com/m3u8/3c742a5a1522a89b16f3c6ca/3c742a5a1522a89b16f3c6ca438.m3u8",
+"referer": ""
+},
+{
+"name": "Midnight Sun (2025) กลางคืนตลอดกาล กลางใจตลอดไป",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/Midnight-Sun-2025-กลางคืนตลอดกาล-กลางใจตลอดไป.png",
+"url": "https://main.24playerhd.com/m3u8/b05cb74e1b4cb9db9daf82ae/b05cb74e1b4cb9db9daf82ae438.m3u8",
+"referer": ""
+},
+{
+"name": "Midnight Sun (2025) กลางคืนตลอดกาล กลางใจตลอดไป",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/Midnight-Sun-2025-กลางคืนตลอดกาล-กลางใจตลอดไป.png",
+"url": "https://main.24playerhd.com/m3u8/0e82525420e2e7c87ef607ff/0e82525420e2e7c87ef607ff438.m3u8",
+"referer": ""
+},
+{
+"name": "Stolen Girl (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/Stolen-Girl-2025.png",
+"url": "https://main.24playerhd.com/m3u8/c6d94bb1751115ba75a06e66/c6d94bb1751115ba75a06e66438.m3u8",
+"referer": ""
+},
+{
+"name": "The Man in My Basement (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/The-Man-in-My-Basement-2025.png",
+"url": "https://main.24playerhd.com/m3u8/910f446aaf10771374be4055/910f446aaf10771374be4055438.m3u8",
+"referer": ""
+},
+{
+"name": "Dark Nuns (2025) ไล่มันกลับลงหลุม",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Dark-Nuns-2025-ไล่มันกลับลงหลุม.png",
+"url": "https://main.24playerhd.com/m3u8/5a1408195bfd7cd9472295d0/5a1408195bfd7cd9472295d0438.m3u8",
+"referer": ""
+},
+{
+"name": "Haunting of Mount Gede (2025) คำสาปแห่งเขาเกเด",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Haunting-of-Mount-Gede-2025-คำสาปแห่งเขาเกเด.png",
+"url": "https://main.24playerhd.com/m3u8/28eaba617c46744c5a1dffd6/28eaba617c46744c5a1dffd6438.m3u8",
+"referer": ""
+},
+{
+"name": "Detective Dee The Celestial Mystery (2025) ตี๋เหรินเจี๋ย คดีลับซ่อนปมสวรรค์",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Detective-Dee-The-Celestial-Mystery-2025-ตี๋เหรินเจี๋ย-คดีลับซ่อนปมสวรรค์.png",
+"url": "https://main.24playerhd.com/m3u8/e17a7f8960d2b5632f76c39f/e17a7f8960d2b5632f76c39f438.m3u8",
+"referer": ""
+},
+{
+"name": "Stolen Girl (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/Stolen-Girl-2025.png",
+"url": "https://main.24playerhd.com/m3u8/c6d94bb1751115ba75a06e66/c6d94bb1751115ba75a06e66438.m3u8",
+"referer": ""
+},
+{
+"name": "The Man in My Basement (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/The-Man-in-My-Basement-2025.png",
+"url": "https://main.24playerhd.com/m3u8/910f446aaf10771374be4055/910f446aaf10771374be4055438.m3u8",
+"referer": ""
+},
+{
+"name": "Dark Nuns (2025) ไล่มันกลับลงหลุม",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Dark-Nuns-2025-ไล่มันกลับลงหลุม.png",
+"url": "https://main.24playerhd.com/m3u8/5a1408195bfd7cd9472295d0/5a1408195bfd7cd9472295d0438.m3u8",
+"referer": ""
+},
+{
+"name": "Haunting of Mount Gede (2025) คำสาปแห่งเขาเกเด",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Haunting-of-Mount-Gede-2025-คำสาปแห่งเขาเกเด.png",
+"url": "https://main.24playerhd.com/m3u8/28eaba617c46744c5a1dffd6/28eaba617c46744c5a1dffd6438.m3u8",
+"referer": ""
+},
+{
+"name": "Detective Dee The Celestial Mystery (2025) ตี๋เหรินเจี๋ย คดีลับซ่อนปมสวรรค์",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Detective-Dee-The-Celestial-Mystery-2025-ตี๋เหรินเจี๋ย-คดีลับซ่อนปมสวรรค์.png",
+"url": "https://main.24playerhd.com/m3u8/e17a7f8960d2b5632f76c39f/e17a7f8960d2b5632f76c39f438.m3u8",
+"referer": ""
+},
+{
+"name": "Good Boy (2025) มะหมาเห็นผี",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/Good-Boy-2025-มะหมาเห็นผี.png",
+"url": "https://main.24playerhd.com/m3u8/799ebe634382f6a563a6df16/799ebe634382f6a563a6df16438.m3u8",
+"referer": ""
+},
+{
+"name": "Nobody 2 (2025) คนธรรมดานรกเรียกพี่ 2",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Nobody-2-2025-คนธรรมดานรกเรียกพี่-2-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/3c8698bca920179f6dfe53ef/3c8698bca920179f6dfe53ef.m3u8",
+"referer": ""
+},
+{
+"name": "Omniscient Reader The Prophecy (2025) อ่านชะตาวันสิ้นโลก",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Omniscient-Reader-The-Prophecy-2025-อ่านชะตาวันสิ้นโลก-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/2cc66844b03da148b6b5c896/2cc66844b03da148b6b5c896.m3u8",
+"referer": ""
+},
+{
+"name": "The Lost Bus (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/The-Lost-Bus-2025-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/cfff6e3e61026738d872ce60/cfff6e3e61026738d872ce60.m3u8",
+"referer": ""
+},
+{
+"name": "Steve (2025) สตีฟ",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/Steve-2025-สตีฟ-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/a960e4bc9af3abd31f4b51cc/a960e4bc9af3abd31f4b51cc.m3u8",
+"referer": ""
+},
+{
+"name": "Steve (2025) สตีฟ",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/Steve-2025-สตีฟ-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/12e411b9d2af12d976f00578/12e411b9d2af12d976f00578.m3u8",
+"referer": ""
+},
+{
+"name": "One Battle After Another (2025) หนึ่งศึกครั้งแล้วครั้งเล่า",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/One-Battle-After-Another-2025-หนึ่งศึกครั้งแล้วครั้งเล่า-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/ce8514eb145d5e534ccf7f83/ce8514eb145d5e534ccf7f83.m3u8",
+"referer": ""
+},
+{
+"name": "Death Whisperer 3 (2025) ธี่หยด 3",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/Death-Whisperer-3-2025-ธี่หยด-3-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/6a66306122f5ca1b6cab6905/6a66306122f5ca1b6cab6905.m3u8",
+"referer": ""
+},
+{
+"name": "Play Dirty (2025) หักหลังต้องหักเหลี่ยม",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/Play-Dirty-2025-หักหลังต้องหักเหลี่ยม-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/1764421905eacbc6efdfb546/1764421905eacbc6efdfb546.m3u8",
+"referer": ""
+},
+{
+"name": "Play Dirty (2025) หักหลังต้องหักเหลี่ยม",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/Play-Dirty-2025-หักหลังต้องหักเหลี่ยม-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/6782cf26b852b01c7e48bddb/6782cf26b852b01c7e48bddb.m3u8",
+"referer": ""
+},
+{
+"name": "Organ Child (2025) อวัยวะเถื่อน",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/Organ-Child-2025-อวัยวะเถื่อน-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/905a589f9106c4c0d9a1a117/905a589f9106c4c0d9a1a117.m3u8",
+"referer": ""
+},
+{
+"name": "Organ Child (2025) อวัยวะเถื่อน",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/Organ-Child-2025-อวัยวะเถื่อน-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/b32eeba3109bf145dc3aa2fc/b32eeba3109bf145dc3aa2fc.m3u8",
+"referer": ""
+},
+{
+"name": "Baby Hero (2025) ฮีโร่บ้านทุ่ง",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/Baby-Hero-2025-ฮีโร่บ้านทุ่ง-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/e5f0f133ac12b09301ac2eb7/e5f0f133ac12b09301ac2eb7.m3u8",
+"referer": ""
+},
+{
+"name": "Serpent Beauty (2025) สาปอสรพิษ",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/Serpent-Beauty-2025-สาปอสรพิษ-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/02d2507ed3bf296fc862a833/02d2507ed3bf296fc862a833.m3u8",
+"referer": ""
+},
+{
+"name": "The Toxic Avenger Unrated (2025) ฮีโร่พันธุ์ท็อกซิก",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/The-Toxic-Avenger-Unrated-2025-ฮีโร่พันธุ์ท็อกซิก-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/ad0e060b597002b9f0be3830/ad0e060b597002b9f0be3830.m3u8",
+"referer": ""
+},
+{
+"name": "The Toxic Avenger Unrated (2025) ฮีโร่พันธุ์ท็อกซิก",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/The-Toxic-Avenger-Unrated-2025-ฮีโร่พันธุ์ท็อกซิก-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/764c29d17d67a1614b9604bd/764c29d17d67a1614b9604bd.m3u8",
+"referer": ""
+},
+{
+"name": "Home Sweet Home Rebirth (2025) โฮมสวีทโฮม กำเนิดใหม่",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Home-Sweet-Home-Rebirth-2025-โฮมสวีทโฮม-กำเนิดใหม่-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/23c2c0149b3d27b3f330d82f/23c2c0149b3d27b3f330d82f.m3u8",
+"referer": ""
+},
+{
+"name": "Home Sweet Home Rebirth (2025) โฮมสวีทโฮม กำเนิดใหม่",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Home-Sweet-Home-Rebirth-2025-โฮมสวีทโฮม-กำเนิดใหม่-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/c0c0b006db4d9032bcd04046/c0c0b006db4d9032bcd04046.m3u8",
+"referer": ""
+},
+{
+"name": "The Legend Of Phi-Ta-Khon-Mask (2025) ตำนานหน้ากากผีตาโขน",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/10/The-Legend-Of-Phi-Ta-Khon-Mask-2025-ตำนานหน้ากากผีตาโขน-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/135e6c47dff2a5a7688e5f94/135e6c47dff2a5a7688e5f94.m3u8",
+"referer": ""
+},
+{
+"name": "Ha Gom The Darkness Of The Soul (2025) ห่าก้อม",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/Ha-Gom-The-Darkness-Of-The-Soul-2025-ห่าก้อม-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/c4fd2c7a2b1ca863873037a6/c4fd2c7a2b1ca863873037a6.m3u8",
+"referer": ""
+},
+{
+"name": "Old Guy (2025) โอลด์กาย แก่ เก๋า เกม",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/Old-Guy-2025-โอลด์กาย-แก่-เก๋า-เกม-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/f7298175f1db377bbb444cfc/f7298175f1db377bbb444cfc.m3u8",
+"referer": ""
+},
+{
+"name": "Old Guy (2025) โอลด์กาย แก่ เก๋า เกม",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/Old-Guy-2025-โอลด์กาย-แก่-เก๋า-เกม-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/7c6be62cfd22631fefe2b15b/7c6be62cfd22631fefe2b15b.m3u8",
+"referer": ""
+},
+{
+"name": "The Shadow’s Edge (2025) แผนระห่ำ ใหญ่ฟัดเดือด",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/The-Shadows-Edge-2025-แผนระห่ำ-ใหญ่ฟัดเดือด-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/6bf6a0d139ffe7189b2c5387/6bf6a0d139ffe7189b2c5387.m3u8",
+"referer": ""
+},
+{
+"name": "Oh Hi (2025) โอว์ ไฮ! ล็อกหัวใจให้อยู่หมัด",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/Oh-Hi-2025-โอว์-ไฮ-ล็อกหัวใจให้อยู่หมัด-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/29d1e64a29b52400b58d8cce/29d1e64a29b52400b58d8cce.m3u8",
+"referer": ""
+},
+{
+"name": "Osiris (2025) มฤตยูล้างพันธุ์มนุษย์",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/Osiris-2025-มฤตยูล้างพันธุ์มนุษย์.png",
+"url": "https://main.24playerhd.com/m3u8/609b6dc8bad10732f440072e/609b6dc8bad10732f440072e438.m3u8",
+"referer": ""
+},
+{
+"name": "French Lover (2025) พบรักซูเปอร์สตาร์",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/French-Lover-2025-พบรักซูเปอร์สตาร์.png",
+"url": "https://main.24playerhd.com/m3u8/d873f6f866eb9a10a90c9c97/d873f6f866eb9a10a90c9c97438.m3u8",
+"referer": ""
+},
+{
+"name": "French Lover (2025) พบรักซูเปอร์สตาร์",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/French-Lover-2025-พบรักซูเปอร์สตาร์.png",
+"url": "https://main.24playerhd.com/m3u8/7cdb55f9a74a87802f7591e1/7cdb55f9a74a87802f7591e1438.m3u8",
+"referer": ""
+},
+{
+"name": "ConMom (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/ConMom-2025.png",
+"url": "https://main.24playerhd.com/m3u8/c99a90d19e489fe255eac5c2/c99a90d19e489fe255eac5c2438.m3u8",
+"referer": ""
+},
+{
+"name": "Opus (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/Opus-2025.png",
+"url": "https://main.24playerhd.com/m3u8/215e53626d6b09f4ba685697/215e53626d6b09f4ba685697438.m3u8",
+"referer": ""
+},
+{
+"name": "Afterburn (2025)",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/Afterburn-2025.png",
+"url": "https://main.24playerhd.com/m3u8/942f8022afde7d5db7416ca6/942f8022afde7d5db7416ca6438.m3u8",
+"referer": ""
+},
+{
+"name": "Hong Boxing (2020) ปรมาจารย์หมัดเมา",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/Hong-Boxing-2020-ปรมาจารย์หมัดเมา.png",
+"url": "https://main.24playerhd.com/m3u8/6c047c23cf20125e5325e9a4/6c047c23cf20125e5325e9a4438.m3u8",
+"referer": ""
+},
+{
+"name": "Noise (2024) เสียงซ่อนผี",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/Noise-2024-เสียงซ่อนผี.png",
+"url": "https://main.24playerhd.com/m3u8/83ffd7981e6ccdb48b5f1570/83ffd7981e6ccdb48b5f1570438.m3u8",
+"referer": ""
+},
+{
+"name": "Splitsville (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/Splitsville-2025.png",
+"url": "https://main.24playerhd.com/m3u8/743614669cf40b6d9f3bf89e/743614669cf40b6d9f3bf89e438.m3u8",
+"referer": ""
+},
+{
+"name": "The Fantastic Four First Steps (2025) เดอะ แฟนแทสติก 4 จุดเริ่มต้นปฐมบทใหม่",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/The-Fantastic-Four-First-Steps-2025-เดอะ-แฟนแทสติก-4-จุดเริ่มต้นปฐมบทใหม่.png",
+"url": "https://main.24playerhd.com/m3u8/ab8892012bb6042b938c3903/ab8892012bb6042b938c3903438.m3u8",
+"referer": ""
+},
+{
+"name": "Prisoner of War (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/Prisoner-of-War-2025.png",
+"url": "https://main.24playerhd.com/m3u8/c5cbf347c02159d277b0d827/c5cbf347c02159d277b0d827438.m3u8",
+"referer": ""
+},
+{
+"name": "You Are the Apple of My Eye (2025) รักเรา ยังจำได้ไหม",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/You-Are-the-Apple-of-My-Eye-2025-รักเรา-ยังจำได้ไหม.png",
+"url": "https://main.24playerhd.com/m3u8/b2cc86e8fda9493c7341925c/b2cc86e8fda9493c7341925c438.m3u8",
+"referer": ""
+},
+{
+"name": "You Are the Apple of My Eye (2025) รักเรา ยังจำได้ไหม",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/You-Are-the-Apple-of-My-Eye-2025-รักเรา-ยังจำได้ไหม.png",
+"url": "https://main.24playerhd.com/m3u8/cfe3b5149582473ce222debc/cfe3b5149582473ce222debc438.m3u8",
+"referer": ""
+},
+{
+"name": "Dwarf King Middle Earth Sword (2025) ราชาคนแคระ",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/Dwarf-King-Middle-Earth-Sword-2025-ราชาคนแคระ.png",
+"url": "https://main.24playerhd.com/m3u8/2fdd53cacf07a8a0da98eef1/2fdd53cacf07a8a0da98eef1438.m3u8",
+"referer": ""
+},
+{
+"name": "Kingdom (2025) ฝ่าภารกิจเดือด",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/Kingdom-2025-ฝ่าภารกิจเดือด.png",
+"url": "https://main.24playerhd.com/m3u8/e7f17d2beb32ad4337b1d31e/e7f17d2beb32ad4337b1d31e438.m3u8",
+"referer": ""
+},
+{
+"name": "Caught Stealing (2025) คนเดือดขวางทางโจร",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/Caught-Stealing-2025-คนเดือดขวางทางโจร.png",
+"url": "https://main.24playerhd.com/m3u8/173a973d53e0866f56139d5f/173a973d53e0866f56139d5f438.m3u8",
+"referer": ""
+},
+{
+"name": "Materialists (2025) รักแบบไหนที่ใจตามหา",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/Materialists-2025-รักแบบไหนที่ใจตามหา.png",
+"url": "https://main.24playerhd.com/m3u8/26c68a782c4d690672b736f2/26c68a782c4d690672b736f2438.m3u8",
+"referer": ""
+},
+{
+"name": "Black Bag (2025) ปฏิบัติการลับสองหน้า",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Black-Bag-2025-ปฏิบัติการลับสองหน้า.png",
+"url": "https://main.24playerhd.com/m3u8/74a145847a0e82f026198086/74a145847a0e82f026198086438.m3u8",
+"referer": ""
+},
+{
+"name": "Black Bag (2025) ปฏิบัติการลับสองหน้า",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Black-Bag-2025-ปฏิบัติการลับสองหน้า.png",
+"url": "https://main.24playerhd.com/m3u8/48e003614b70e13632800342/48e003614b70e13632800342438.m3u8",
+"referer": ""
+},
+{
+"name": "Swiped (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/Swiped-2025.png",
+"url": "https://main.24playerhd.com/m3u8/9bfdc10e518f9f4c72375469/9bfdc10e518f9f4c72375469438.m3u8",
+"referer": ""
+},
+{
+"name": "A Bright Lawyer (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/A-Bright-Lawyer-2025.png",
+"url": "https://main.24playerhd.com/m3u8/2723e54ae2167f5c44df5aa9/2723e54ae2167f5c44df5aa9438.m3u8",
+"referer": ""
+},
+{
+"name": "She Said Maybe (2025) เมื่อเธอตอบว่า...ไม่แน่",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/She-Said-Maybe-2025-เมื่อเธอตอบว่า.ไม่แน่.png",
+"url": "https://main.24playerhd.com/m3u8/6c37c4c6859aeba8149dec56/6c37c4c6859aeba8149dec56438.m3u8",
+"referer": ""
+},
+{
+"name": "She Said Maybe (2025) เมื่อเธอตอบว่า...ไม่แน่",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/She-Said-Maybe-2025-เมื่อเธอตอบว่า.ไม่แน่.png",
+"url": "https://main.24playerhd.com/m3u8/058005855e466f6a47f3bd8a/058005855e466f6a47f3bd8a438.m3u8",
+"referer": ""
+},
+{
+"name": "Lost in the Jungle (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/Lost-in-the-Jungle-2025-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/6b643ffe4da9db3773be4824/6b643ffe4da9db3773be4824.m3u8",
+"referer": ""
+},
+{
+"name": "The Hero (2025) ฮีโร่ในแบบฉัน",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/The-Hero-2025-ฮีโร่ในแบบฉัน-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/3ca495745ebbf358233092b9/3ca495745ebbf358233092b9.m3u8",
+"referer": ""
+},
+{
+"name": "In Between (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/In-Between-2025-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/f0815e01cafd7c6a4a9e66ee/f0815e01cafd7c6a4a9e66ee.m3u8",
+"referer": ""
+},
+{
+"name": "Baban Baban Ban Vampire (2025) วะวะวะวะ แวมไพร์กับนายเวอร์จิ้น",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/Baban-Baban-Ban-Vampire-2025-วะวะวะวะ-แวมไพร์กับนายเวอร์จิ้น-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/08ab2f85981d01dd6ececf04/08ab2f85981d01dd6ececf04.m3u8",
+"referer": ""
+},
+{
+"name": "Same Day with Someone (2025) ซ้ำวัน กับ Someone",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/Same-Day-with-Someone-2025-ซ้ำวัน-กับ-Someone-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/19c9db89d42ce27d892210c8/19c9db89d42ce27d892210c8.m3u8",
+"referer": ""
+},
+{
+"name": "Relay (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/Relay-2025-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/57c4ac43f693148375afd0f7/57c4ac43f693148375afd0f7.m3u8",
+"referer": ""
+},
+{
+"name": "My Special One (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/My-Special-One-2025-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/79246bfa9c305e1b6241a1a2/79246bfa9c305e1b6241a1a2.m3u8",
+"referer": ""
+},
+{
+"name": "Elio (2025) เอลิโอ",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Elio-2025-เอลิโอ-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/adf1dbef7b968a436378f46b/adf1dbef7b968a436378f46b.m3u8",
+"referer": ""
+},
+{
+"name": "Paripi Koumei The Movie (2025) ขงเบ้ง เจาะเวลามาปั้นดาว",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/Paripi-Koumei-The-Movie-2025-ขงเบ้ง-เจาะเวลามาปั้นดาว-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/a41b0f7a73243424d2ac8475/a41b0f7a73243424d2ac8475.m3u8",
+"referer": ""
+},
+{
+"name": "Weapons (2025) เวเพินส์",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Weapons-2025-เวเพินส์.png",
+"url": "https://main.24playerhd.com/newplaylist/ae9caa0c219243329b186054/ae9caa0c219243329b186054.m3u8",
+"referer": ""
+},
+{
+"name": "Weapons (2025) เวเพินส์",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Weapons-2025-เวเพินส์.png",
+"url": "https://main.24playerhd.com/newplaylist/487d4213e50117132baf4366/487d4213e50117132baf4366.m3u8",
+"referer": ""
+},
+{
+"name": "Nocturnal (2025) แค้นนี้เอาให้น็อค",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/Nocturnal-2025-แค้นนี้เอาให้น็อค-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/d5e587856569c1e8bfd2b696/d5e587856569c1e8bfd2b696.m3u8",
+"referer": ""
+},
+{
+"name": "Folk Soul Ferryman (2025) นักสืบสื่อวิญญาณ",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/Folk-Soul-Ferryman-2025-นักสืบสื่อวิญญาณ-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/597944ca73f9b7bcf0d70eac/597944ca73f9b7bcf0d70eac.m3u8",
+"referer": ""
+},
+{
+"name": "Last Breath (2025) ลมหายใจสุดท้าย ใต้สมุทรมรณะ",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Last-Breath-2025-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/269403c62a87b3611ecb2885/269403c62a87b3611ecb2885.m3u8",
+"referer": ""
+},
+{
+"name": "Last Breath (2025) ลมหายใจสุดท้าย ใต้สมุทรมรณะ",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Last-Breath-2025-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/9b91db79d889d0c3032c23f4/9b91db79d889d0c3032c23f4.m3u8",
+"referer": ""
+},
+{
+"name": "Me & Roboco- The Movie (2025) ผมกับโรโบโกะ หุ่นเมดพันธุ์ซ่า เดอะมูฟวี่",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/Me-Roboco-The-Movie-2025-%E0%B8%9C%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%82%E0%B8%A3%E0%B9%82%E0%B8%9A%E0%B9%82%E0%B8%81%E0%B8%B0-%E0%B8%AB%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%A1%E0%B8%94%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%8B%E0%B9%88%E0%B8%B2-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/1ffc05b13d6607c16494eca2/1ffc05b13d6607c16494eca2.m3u8",
+"referer": ""
+},
+{
+"name": "The Solitary Gourmet (2025) โกโร่ อร่อยฉายเดี่ยวตะลอนทั่วโลก",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/The-Solitary-Gourmet-2025-%E0%B9%82%E0%B8%81%E0%B9%82%E0%B8%A3%E0%B9%88-%E0%B8%AD%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%89%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%95%E0%B8%B0%E0%B8%A5%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%82%E0%B8%A5%E0%B8%81-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/5e28364b5c42ca475954a073/5e28364b5c42ca475954a073.m3u8",
+"referer": ""
+},
+{
+"name": "The Solitary Gourmet (2025) โกโร่ อร่อยฉายเดี่ยวตะลอนทั่วโลก",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/The-Solitary-Gourmet-2025-%E0%B9%82%E0%B8%81%E0%B9%82%E0%B8%A3%E0%B9%88-%E0%B8%AD%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%89%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%95%E0%B8%B0%E0%B8%A5%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%82%E0%B8%A5%E0%B8%81-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/8a471fa7005ce4a5daac01d7/8a471fa7005ce4a5daac01d7.m3u8",
+"referer": ""
+},
+{
+"name": "Saiyaara (2025) สองเราจะสู้เพื่อฝัน",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/Saiyaara-2025-%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B8%88%E0%B8%B0%E0%B8%AA%E0%B8%B9%E0%B9%89%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%9D%E0%B8%B1%E0%B8%99-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/001ab846499313fa9da09804/001ab846499313fa9da09804.m3u8",
+"referer": ""
+},
+{
+"name": "The Naked Gun (2025) มือปราบปืนเปลือย",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/The-Naked-Gun-2025-%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B8%9B%E0%B8%B7%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%A2-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/6c0ff95e46e827987b2f248a/6c0ff95e46e827987b2f248a.m3u8",
+"referer": ""
+},
+{
+"name": "The Naked Gun (2025) มือปราบปืนเปลือย",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/The-Naked-Gun-2025-%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B8%9B%E0%B8%B7%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%A2-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/f7f5bdb5e2e76dd03b09eef7/f7f5bdb5e2e76dd03b09eef7.m3u8",
+"referer": ""
+},
+{
+"name": "The Wrong Paris (2025) ปารีสนี้ไม่มีหอไอเฟล",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/The-Wrong-Paris-2025-%E0%B8%9B%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%99%E0%B8%B5%E0%B9%89%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%AB%E0%B8%AD%E0%B9%84%E0%B8%AD%E0%B9%80%E0%B8%9F%E0%B8%A5-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/1743513a20ebc2c17b1dd899/1743513a20ebc2c17b1dd899.m3u8",
+"referer": ""
+},
+{
+"name": "The Wrong Paris (2025) ปารีสนี้ไม่มีหอไอเฟล",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/The-Wrong-Paris-2025-%E0%B8%9B%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%99%E0%B8%B5%E0%B9%89%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%AB%E0%B8%AD%E0%B9%84%E0%B8%AD%E0%B9%80%E0%B8%9F%E0%B8%A5-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/cca0922197b06bd740009733/cca0922197b06bd740009733.m3u8",
+"referer": ""
+},
+{
+"name": "The Conjuring Last Rites (2025) เดอะ คอนเจอริ่ง คนเรียกผี พิธีกรรมครั้งสุดท้าย",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/The-Conjuring-Last-Rites-2025-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%88%E0%B8%AD%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%87-%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%81%E0%B8%9C%E0%B8%B5-%E0%B8%9E%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A2-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/e8a2745a6f949b4d4d06623f/e8a2745a6f949b4d4d06623f.m3u8",
+"referer": ""
+},
+{
+"name": "Tehran (2025) เตหะราน",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/Tehran-2025-%E0%B9%80%E0%B8%95%E0%B8%AB%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%99-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/f10736b099493d27accd1c1d/f10736b099493d27accd1c1d.m3u8",
+"referer": ""
+},
+{
+"name": "Jazz The Racing (2025) หลวงพี่แจ๊สโคตรซิ่ง",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/Jazz-The-Racing-2025-%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%88%E0%B9%8A%E0%B8%AA%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/c34830e45532a88473657bfc/c34830e45532a88473657bfc.m3u8",
+"referer": ""
+},
+{
+"name": "Kontrabida Academy (2025) สถาบันนางร้าย",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/Kontrabida-Academy-2025-%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/b511021da72a0f0fd20a78fa/b511021da72a0f0fd20a78fa.m3u8",
+"referer": ""
+},
+{
+"name": "Kontrabida Academy (2025) สถาบันนางร้าย",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/Kontrabida-Academy-2025-%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/8524e644a1268c3bbc6b40b9/8524e644a1268c3bbc6b40b9.m3u8",
+"referer": ""
+},
+{
+"name": "High Ground (2025) ไฮกราวด์ ศึกเลือดชายแดน",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/High-Ground-2025-%E0%B9%84%E0%B8%AE%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B9%8C-%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%94%E0%B8%99-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/1c91a0b07b466bd7047ca4d1/1c91a0b07b466bd7047ca4d1.m3u8",
+"referer": ""
+},
+{
+"name": "Bambi The Reckoning (2025) แบมบี้",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/Bambi-The-Reckoning-2025-%E0%B9%81%E0%B8%9A%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/61c77ba76167edc0133b1e8a/61c77ba76167edc0133b1e8a.m3u8",
+"referer": ""
+},
+{
+"name": "The Descent Curse of Di Renjie (2025) ตี๋เหรินเจี๋ยกับเวทย์ขจัดมาร",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/The-Descent-Curse-of-Di-Renjie-2025-%E0%B8%95%E0%B8%B5%E0%B9%8B%E0%B9%80%E0%B8%AB%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B9%8B%E0%B8%A2%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B9%8C%E0%B8%82%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%A1%E0%B8%B2%E0%B8%A3-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/42c74bf28d67b69e0e1e319a/42c74bf28d67b69e0e1e319a.m3u8",
+"referer": ""
+},
+{
+"name": "Freaky Tales (2025) เรื่องเล่าแสนประหลาด",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Freaky-Tales-2025-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/91ed59f35b687a28b6434097/91ed59f35b687a28b6434097.m3u8",
+"referer": ""
+},
+{
+"name": "King of Painting (2025)",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/King-of-Painting-2025-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/7bccdf0e7924d7c9c8f51839/7bccdf0e7924d7c9c8f51839.m3u8",
+"referer": ""
+},
+{
+"name": "King of Painting (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/King-of-Painting-2025-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/b6fe9756787083dce87875c9/b6fe9756787083dce87875c9.m3u8",
+"referer": ""
+},
+{
+"name": "Highest 2 Lowest (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/Highest-2-Lowest-2025-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/0460b9bc65a35e3b41202ad5/0460b9bc65a35e3b41202ad5.m3u8",
+"referer": ""
+},
+{
+"name": "Lovesick (2025) รักในคำลวง",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/Lovesick-2025-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%83%E0%B8%99%E0%B8%84%E0%B8%B3%E0%B8%A5%E0%B8%A7%E0%B8%87-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/da1d7dfc9303999ac1bc7a76/da1d7dfc9303999ac1bc7a76.m3u8",
+"referer": ""
+},
+{
+"name": "Lovesick (2025) รักในคำลวง",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/Lovesick-2025-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%83%E0%B8%99%E0%B8%84%E0%B8%B3%E0%B8%A5%E0%B8%A7%E0%B8%87-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/804b53242d7b83c80105f933/804b53242d7b83c80105f933.m3u8",
+"referer": ""
+},
+{
+"name": "You Are the Apple of My Eye (2025) รักเรา ยังจำได้ไหม",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/You-Are-the-Apple-of-My-Eye-2025-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%A3%E0%B8%B2-%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B8%88%E0%B8%B3%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%84%E0%B8%AB%E0%B8%A1-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/b2cc86e8fda9493c7341925c/b2cc86e8fda9493c7341925c.m3u8",
+"referer": ""
+},
+{
+"name": "You Are the Apple of My Eye (2025) รักเรา ยังจำได้ไหม",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/You-Are-the-Apple-of-My-Eye-2025-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%A3%E0%B8%B2-%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B8%88%E0%B8%B3%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%84%E0%B8%AB%E0%B8%A1-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/cfe3b5149582473ce222debc/cfe3b5149582473ce222debc.m3u8",
+"referer": ""
+},
+{
+"name": "Tomb Watcher (2025) สุสานคนเป็น",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/Tomb-Watcher-2025-%E0%B8%AA%E0%B8%B8%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/8c1c87e94f7a90d562376db3/8c1c87e94f7a90d562376db3.m3u8",
+"referer": ""
+},
+{
+"name": "Inspector Zende (2025) สารวัตรซ่าปะทะทรชน",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/Inspector-Zende-2025-%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%9B%E0%B8%B0%E0%B8%97%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%8A%E0%B8%99-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/7b78d0bb865530ce9265104b/7b78d0bb865530ce9265104b.m3u8",
+"referer": ""
+},
+{
+"name": "Inspector Zende (2025) สารวัตรซ่าปะทะทรชน",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/Inspector-Zende-2025-%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%9B%E0%B8%B0%E0%B8%97%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%8A%E0%B8%99-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/d3b5429e2a2af826394123af/d3b5429e2a2af826394123af.m3u8",
+"referer": ""
+},
+{
+"name": "Imported (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/09/Imported-2025-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/e8e84b9f1e58327d22272edc/e8e84b9f1e58327d22272edc.m3u8",
+"referer": ""
+},
+{
+"name": "Kayaor (2025) คายอ้อ ลบหลู่ ศรัทธา อาถรรพ์",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Kayaor-2025-%E0%B8%84%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B9%89%E0%B8%AD-%E0%B8%A5%E0%B8%9A%E0%B8%AB%E0%B8%A5%E0%B8%B9%E0%B9%88-%E0%B8%A8%E0%B8%A3%E0%B8%B1%E0%B8%97%E0%B8%98%E0%B8%B2-%E0%B8%AD%E0%B8%B2%E0%B8%96%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B9%8C-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/3d434992f9ed7019f5fa5c78/3d434992f9ed7019f5fa5c78.m3u8",
+"referer": ""
+},
+{
+"name": "Red Land (2025) ธรณีสีเลือด",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Red-Land-2025-%E0%B8%98%E0%B8%A3%E0%B8%93%E0%B8%B5%E0%B8%AA%E0%B8%B5%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%94-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/b61881d23b8e195a5247118c/b61881d23b8e195a5247118c.m3u8",
+"referer": ""
+},
+{
+"name": "Sketch (2024)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Sketch-2024-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/f0dc185695c9b5e89db53a02/f0dc185695c9b5e89db53a02.m3u8",
+"referer": ""
+},
+{
+"name": "Lego Disney Princess Villains Unite (2025)",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Lego-Disney-Princess-Villains-Unite-2025-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/a8fc90c87bb8ff2355cac794/a8fc90c87bb8ff2355cac794.m3u8",
+"referer": ""
+},
+{
+"name": "The Black Building (2025) ตึกดำสยองขวัญ",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/The-Black-Building-2025-%E0%B8%95%E0%B8%B6%E0%B8%81%E0%B8%94%E0%B8%B3%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/9e298a329d8225c285a93a89/9e298a329d8225c285a93a89.m3u8",
+"referer": ""
+},
+{
+"name": "Together (2025) ดูดร่างสร้างรัก",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Together-2025-%E0%B8%94%E0%B8%B9%E0%B8%94%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/da3a959dae5c65160086c4c8/da3a959dae5c65160086c4c8.m3u8",
+"referer": ""
+},
+{
+"name": "Together (2025) ดูดร่างสร้างรัก",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Together-2025-%E0%B8%94%E0%B8%B9%E0%B8%94%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/f1d43697285f90d299321b51/f1d43697285f90d299321b51.m3u8",
+"referer": ""
+},
+{
+"name": "Ne Zha 2 (2025) นาจา 2",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Ne-Zha-2-2025-นาจา-2-1.png",
+"url": "https://main.24playerhd.com/newplaylist/c2868f683c0f3b8f80da5321/c2868f683c0f3b8f80da5321.m3u8",
+"referer": ""
+},
+{
+"name": "Ne Zha 2 (2025) นาจา 2",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Ne-Zha-2-2025-นาจา-2-1.png",
+"url": "https://main.24playerhd.com/newplaylist/58f709f6676b070f1d62869d/58f709f6676b070f1d62869d.m3u8",
+"referer": ""
+},
+{
+"name": "A Line of Fire (2025) ฝ่าโลกทรชน ยอดคนอันตราย",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/A-Line-of-Fire-2025-%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%97%E0%B8%A3%E0%B8%8A%E0%B8%99-%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%84%E0%B8%99%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/23e3bac8f649428319292cb9/23e3bac8f649428319292cb9.m3u8",
+"referer": ""
+},
+{
+"name": "The Bad Guys 2 (2025) วายร้ายพันธุ์ดี 2",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/The-Bad-Guys-2-2025-%E0%B8%A7%E0%B8%B2%E0%B8%A2%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%94%E0%B8%B5-2-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/3c403f56265a1ff60b2df342/3c403f56265a1ff60b2df342.m3u8",
+"referer": ""
+},
+{
+"name": "Housefull 5 (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Housefull-5-2025-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/d47e635d57a264ce15747a48/d47e635d57a264ce15747a48.m3u8",
+"referer": ""
+},
+{
+"name": "Everlasting Love (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Everlasting-Love-2025-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/bb5ddde651097d0460763719/bb5ddde651097d0460763719.m3u8",
+"referer": ""
+},
+{
+"name": "The Cure of the Rabbit Deity (2025) คำสาปแห่งเทพกระต่าย",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/The-Cure-of-the-Rabbit-Deity-2025-%E0%B8%84%E0%B8%B3%E0%B8%AA%E0%B8%B2%E0%B8%9B%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%A2-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/4a7dede9c028b68f080a2b86/4a7dede9c028b68f080a2b86.m3u8",
+"referer": ""
+},
+{
+"name": "Detective Dee The Celestial Mystery (2025) ตี๋เหรินเจี๋ย คดีลับซ่อนปมสวรรค์",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Detective-Dee-The-Celestial-Mystery-2025-ตี๋เหรินเจี๋ย-คดีลับซ่อนปมสวรรค์.png",
+"url": "https://main.24playerhd.com/newplaylist/e17a7f8960d2b5632f76c39f/e17a7f8960d2b5632f76c39f.m3u8",
+"referer": ""
+},
+{
+"name": "Don’t Look Back… I Know Your Origins (2024) ณินตามติด",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Dont-Look-Back.-I-Know-Your-Origins-2024-ณินตามติด.png",
+"url": "https://main.24playerhd.com/newplaylist/afde9fac6147bc2a4d4f674e/afde9fac6147bc2a4d4f674e.m3u8",
+"referer": ""
+},
+{
+"name": "A Widow’s Game (2025) กลเกมแม่ม่าย",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/A-Widows-Game-2025-%E0%B8%81%E0%B8%A5%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B9%88%E0%B8%B2%E0%B8%A2-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/5678c64034191519109cb431/5678c64034191519109cb431.m3u8",
+"referer": ""
+},
+{
+"name": "A Widow’s Game (2025) กลเกมแม่ม่าย",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/A-Widows-Game-2025-%E0%B8%81%E0%B8%A5%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B9%88%E0%B8%B2%E0%B8%A2-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/e329d7a39402585a8b4bc508/e329d7a39402585a8b4bc508.m3u8",
+"referer": ""
+},
+{
+"name": "Love Untangled (2025) สาวผมยุ่งหัวใจว้าวุ่น",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Love-Untangled-2025-%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%9C%E0%B8%A1%E0%B8%A2%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%E0%B8%A7%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%B8%E0%B9%88%E0%B8%99-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/d162977e7d8ce03c4b35787b/d162977e7d8ce03c4b35787b.m3u8",
+"referer": ""
+},
+{
+"name": "Love Untangled (2025) สาวผมยุ่งหัวใจว้าวุ่น",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Love-Untangled-2025-%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%9C%E0%B8%A1%E0%B8%A2%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%E0%B8%A7%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%B8%E0%B9%88%E0%B8%99-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/c74181262f32e0d72dc54dfd/c74181262f32e0d72dc54dfd.m3u8",
+"referer": ""
+},
+{
+"name": "Unknown Number (2025) ข้อความลวงเด็กมัธยมปลาย",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Unknown-Number-2025-%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B8%A1%E0%B8%B1%E0%B8%98%E0%B8%A2%E0%B8%A1%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B8%A2-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/4985f2d039cc650dceb75b18/4985f2d039cc650dceb75b18.m3u8",
+"referer": ""
+},
+{
+"name": "Devil River (2025) ผีพรายน้ำ",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Devil-River-2025-%E0%B8%9C%E0%B8%B5%E0%B8%9E%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B9%89%E0%B8%B3-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/959756fbcec12a574bb1f4dd/959756fbcec12a574bb1f4dd.m3u8",
+"referer": ""
+},
+{
+"name": "Finding Ramlee (2025) ตามหารามลี",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Finding-Ramlee-2025-%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B8%B5-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/0be1ae2c110c68aa19170646/0be1ae2c110c68aa19170646.m3u8",
+"referer": ""
+},
+{
+"name": "The Thursday Murder Club (2025) ชมรมไขคดีฆาตกรรมวันพฤหัส",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/The-Thursday-Murder-Club-2025-%E0%B8%8A%E0%B8%A1%E0%B8%A3%E0%B8%A1%E0%B9%84%E0%B8%82%E0%B8%84%E0%B8%94%E0%B8%B5%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%9E%E0%B8%A4%E0%B8%AB%E0%B8%B1%E0%B8%AA-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/cb3ac18df9da62662a1ab641/cb3ac18df9da62662a1ab641.m3u8",
+"referer": ""
+},
+{
+"name": "The Thursday Murder Club (2025) ชมรมไขคดีฆาตกรรมวันพฤหัส",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/The-Thursday-Murder-Club-2025-%E0%B8%8A%E0%B8%A1%E0%B8%A3%E0%B8%A1%E0%B9%84%E0%B8%82%E0%B8%84%E0%B8%94%E0%B8%B5%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%9E%E0%B8%A4%E0%B8%AB%E0%B8%B1%E0%B8%AA-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/a3c825cf978e73835162a216/a3c825cf978e73835162a216.m3u8",
+"referer": ""
+},
+{
+"name": "Millionaire (2025) ชายผู้ถูกลอตเตอรี่",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Millionaire-2025-%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%96%E0%B8%B9%E0%B8%81%E0%B8%A5%E0%B8%AD%E0%B8%95%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B9%88-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/e60a2b73caa9fb764f29ecdf/e60a2b73caa9fb764f29ecdf.m3u8",
+"referer": ""
+},
+{
+"name": "Smurfs (2025) สเมิร์ฟ",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Smurfs-2025-%E0%B8%AA%E0%B9%80%E0%B8%A1%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%9F-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/d9393c7fc9b67bff36f7dd46/d9393c7fc9b67bff36f7dd46.m3u8",
+"referer": ""
+},
+{
+"name": "Smurfs (2025) สเมิร์ฟ",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Smurfs-2025-%E0%B8%AA%E0%B9%80%E0%B8%A1%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%9F-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/04725643c0c4744cc57bb7e2/04725643c0c4744cc57bb7e2.m3u8",
+"referer": ""
+},
+{
+"name": "Elio (2025) เอลิโอ",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Elio-2025-%E0%B9%80%E0%B8%AD%E0%B8%A5%E0%B8%B4%E0%B9%82%E0%B8%AD-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/28286f39847a125a2da31e93/28286f39847a125a2da31e93.m3u8",
+"referer": ""
+},
+{
+"name": "Thunderbolts* (2025) ธันเดอร์โบลต์ส*",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Thunderbolts-2025-%E0%B8%98%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%9A%E0%B8%A5%E0%B8%95%E0%B9%8C%E0%B8%AA-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/a37433b74a26d920f4387276/a37433b74a26d920f4387276.m3u8",
+"referer": ""
+},
+{
+"name": "Thunderbolts* (2025) ธันเดอร์โบลต์ส*",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Thunderbolts-2025-%E0%B8%98%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%9A%E0%B8%A5%E0%B8%95%E0%B9%8C%E0%B8%AA-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/ec816183fcacfbc2b62878cb/ec816183fcacfbc2b62878cb.m3u8",
+"referer": ""
+},
+{
+"name": "Planet Single Greek Adventure (2025) เกาะรักพักโสด ผจญภัยในกรีซ",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Planet-Single-Greek-Adventure-2025-%E0%B9%80%E0%B8%81%E0%B8%B2%E0%B8%B0%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%9E%E0%B8%B1%E0%B8%81%E0%B9%82%E0%B8%AA%E0%B8%94-%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B9%83%E0%B8%99%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%8B-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/36a8194f8c351d534a96de20/36a8194f8c351d534a96de20.m3u8",
+"referer": ""
+},
+{
+"name": "Planet Single Greek Adventure (2025) เกาะรักพักโสด ผจญภัยในกรีซ",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Planet-Single-Greek-Adventure-2025-%E0%B9%80%E0%B8%81%E0%B8%B2%E0%B8%B0%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%9E%E0%B8%B1%E0%B8%81%E0%B9%82%E0%B8%AA%E0%B8%94-%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B9%83%E0%B8%99%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%8B-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/e3b5356e15ce26eb306e53a7/e3b5356e15ce26eb306e53a7.m3u8",
+"referer": ""
+},
+{
+"name": "Fantasy Football Ruined Our Lives (2025) แฟนตาซีฟุตบอลพังชีวิต",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Fantasy-Football-Ruined-Our-Lives-2025-%E0%B9%81%E0%B8%9F%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%8B%E0%B8%B5%E0%B8%9F%E0%B8%B8%E0%B8%95%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%9E%E0%B8%B1%E0%B8%87%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/9089c05771af86b8309cd06c/9089c05771af86b8309cd06c.m3u8",
+"referer": ""
+},
+{
+"name": "Fantasy Football Ruined Our Lives (2025) แฟนตาซีฟุตบอลพังชีวิต",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Fantasy-Football-Ruined-Our-Lives-2025-%E0%B9%81%E0%B8%9F%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%8B%E0%B8%B5%E0%B8%9F%E0%B8%B8%E0%B8%95%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%9E%E0%B8%B1%E0%B8%87%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/e36c96a4ed1b8827e38fcafc/e36c96a4ed1b8827e38fcafc.m3u8",
+"referer": ""
+},
+{
+"name": "Superman (2025) ซุปเปอร์แมน",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Superman-2025-%E0%B8%8B%E0%B8%B9%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99-1-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/ab3c3bde82b44b7e32f16880/ab3c3bde82b44b7e32f16880.m3u8",
+"referer": ""
+},
+{
+"name": "Superman (2025) ซุปเปอร์แมน",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Superman-2025-%E0%B8%8B%E0%B8%B9%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99-1-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/0b0345a24b5731d7ef111b06/0b0345a24b5731d7ef111b06.m3u8",
+"referer": ""
+},
+{
+"name": "I Know What You Did Last Summer (2025) ซัมเมอร์สยอง…ต้องหวีด",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/I-Know-What-You-Did-Last-Summer-2025-%E0%B8%8B%E0%B8%B1%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87.%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B5%E0%B8%94-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/072fecd1c95b3dd86a2ea3b3/072fecd1c95b3dd86a2ea3b3.m3u8",
+"referer": ""
+},
+{
+"name": "Demon Slayer Kimetsu no Yaiba Infinity Castle (2025) ดาบพิฆาตอสูร ภาคปราสาทไร้ขอบเขต",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Demon-Slayer-Kimetsu-no-Yaiba-Infinity-Castle-2025-%E0%B8%94%E0%B8%B2%E0%B8%9A%E0%B8%9E%E0%B8%B4%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%AD%E0%B8%AA%E0%B8%B9%E0%B8%A3-%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%AA%E0%B8%B2%E0%B8%97%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%82%E0%B8%AD%E0%B8%9A%E0%B9%80%E0%B8%82%E0%B8%95-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/ca1cafa70bedd79d9ed61524/ca1cafa70bedd79d9ed61524.m3u8",
+"referer": ""
+},
+{
+"name": "Red Sonja (2025) บัลลังก์เลือด",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Red-Sonja-2025-%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%94-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/990564f4d0eda078eaef0d7f/990564f4d0eda078eaef0d7f.m3u8",
+"referer": ""
+},
+{
+"name": "M3GAN 2.0 (2025) เมแกน 2.0",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/M3GAN-2.0-2025-%E0%B9%80%E0%B8%A1%E0%B9%81%E0%B8%81%E0%B8%99-2.0-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/bf5d05c1c98b587e4689ecda/bf5d05c1c98b587e4689ecda.m3u8",
+"referer": ""
+},
+{
+"name": "M3GAN 2.0 (2025) เมแกน 2.0",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/M3GAN-2.0-2025-%E0%B9%80%E0%B8%A1%E0%B9%81%E0%B8%81%E0%B8%99-2.0-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/299edd78fe94aeb348376831/299edd78fe94aeb348376831.m3u8",
+"referer": ""
+},
+{
+"name": "The Supernatural Sweet Shop The Movie (2025) เซนิเท็นโด ร้านลึกลับกับขนมวิเศษ เดอะมูฟวี่",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/The-Supernatural-Sweet-Shop-The-Movie-2025-%E0%B9%80%E0%B8%8B%E0%B8%99%E0%B8%B4%E0%B9%80%E0%B8%97%E0%B9%87%E0%B8%99%E0%B9%82%E0%B8%94-%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/67a7a4920772d7ad88fbc81c/67a7a4920772d7ad88fbc81c.m3u8",
+"referer": ""
+},
+{
+"name": "Di Renjie’s Heavenly Palace Mirage (2024) ตี๋เหรินเจี๋ยมายาตำหนักสวรรค์",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Di-Renjies-Heavenly-Palace-Mirage-2024-%E0%B8%95%E0%B8%B5%E0%B9%8B%E0%B9%80%E0%B8%AB%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B9%8B%E0%B8%A2%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%B2%E0%B8%95%E0%B8%B3%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%84%E0%B9%8C-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/ed0e1ddcd4d5f2684b02c6b0/ed0e1ddcd4d5f2684b02c6b0.m3u8",
+"referer": ""
+},
+{
+"name": "Eenie Meanie (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Eenie-Meanie-2025-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/f55f3ca0dae0c85748346ae4/f55f3ca0dae0c85748346ae4.m3u8",
+"referer": ""
+},
+{
+"name": "Maareesan (2025) การเดินทางไม่รู้ลืม",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Maareesan-2025-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%A5%E0%B8%B7%E0%B8%A1-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/1077ff599c6900a6fa81d561/1077ff599c6900a6fa81d561.m3u8",
+"referer": ""
+},
+{
+"name": "Love Hurts (2025) ด้วยรักและลูกปืน",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Love-Hurts-2025-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%9B%E0%B8%B7%E0%B8%99-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/775d07b072e3c7db51816bc7/775d07b072e3c7db51816bc7.m3u8",
+"referer": ""
+},
+{
+"name": "Love Hurts (2025) ด้วยรักและลูกปืน",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Love-Hurts-2025-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%9B%E0%B8%B7%E0%B8%99-300x450.png",
+"url": "https://main.24playerhd.com/newplaylist/91a9b24f86bfdbaa4e23905c/91a9b24f86bfdbaa4e23905c.m3u8",
+"referer": ""
+},
+{
+"name": "Abandoned Man (2025) ชายผู้ถูกทอดทิ้ง",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Abandoned-Man-2025-ชายผู้ถูกทอดทิ้ง.png",
+"url": "https://main.24playerhd.com/newplaylist/43fd4fd8c6cb338894897a95/43fd4fd8c6cb338894897a95.m3u8",
+"referer": ""
+},
+{
+"name": "F1 The Movie (2025) F1 เดอะ มูฟวี่",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/F1-The-Movie-2025-F1-เดอะ-มูฟวี่.png",
+"url": "https://main.24playerhd.com/newplaylist/f104349c0ec457ab4c3749fc/f104349c0ec457ab4c3749fc.m3u8",
+"referer": ""
+},
+{
+"name": "F1 The Movie (2025) F1 เดอะ มูฟวี่",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/F1-The-Movie-2025-F1-เดอะ-มูฟวี่.png",
+"url": "https://main.24playerhd.com/newplaylist/588bb4d877ef3bb2a9f366a3/588bb4d877ef3bb2a9f366a3.m3u8",
+"referer": ""
+},
+{
+"name": "Clown in a Cornfield (2025) คืนวิปลาสแห่งเคตเทิลสปริงส์",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Clown-in-a-Cornfield-2025-คืนวิปลาสแห่งเคตเทิลสปริงส์.png",
+"url": "https://main.24playerhd.com/newplaylist/1c0e90f44402270a09dafb49/1c0e90f44402270a09dafb49.m3u8",
+"referer": ""
+},
+{
+"name": "Gold Rush Gang (2025) เขาชุมทอง คะนองชุมโจร",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Gold-Rush-Gang-2025-เขาชุมทอง-คะนองชุมโจร.png",
+"url": "https://main.24playerhd.com/newplaylist/e3cf7b53ee83d191ee3c3c6c/e3cf7b53ee83d191ee3c3c6c.m3u8",
+"referer": ""
+},
+{
+"name": "Fall for Me (2025) ลวงรักทรยศ",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Fall-for-Me-2025-ลวงรักทรยศ.png",
+"url": "https://main.24playerhd.com/newplaylist/a8c850a305bac16a7bb94391/a8c850a305bac16a7bb94391.m3u8",
+"referer": ""
+},
+{
+"name": "Fall for Me (2025) ลวงรักทรยศ",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Fall-for-Me-2025-ลวงรักทรยศ.png",
+"url": "https://main.24playerhd.com/newplaylist/c96067d1094736504880a667/c96067d1094736504880a667.m3u8",
+"referer": ""
+},
+{
+"name": "One Hit Wonder (2025) บทเพลงนี้ ไม่ลืมเธอ",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/One-Hit-Wonder-2025-บทเพลงนี้-ไม่ลืมเธอ.png",
+"url": "https://main.24playerhd.com/newplaylist/98b7cdbf73ad78a1eec08b8d/98b7cdbf73ad78a1eec08b8d.m3u8",
+"referer": ""
+},
+{
+"name": "One Hit Wonder (2025) บทเพลงนี้ ไม่ลืมเธอ",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/One-Hit-Wonder-2025-บทเพลงนี้-ไม่ลืมเธอ.png",
+"url": "https://main.24playerhd.com/newplaylist/e8945a659d6a1939f41e6f46/e8945a659d6a1939f41e6f46.m3u8",
+"referer": ""
+},
+{
+"name": "Shanghai Knight (2025) ศึกอาชาเซี่ยงไฮ้",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Shanghai-Knight-2025-ศึกอาชาเซี่ยงไฮ้.png",
+"url": "https://main.24playerhd.com/newplaylist/11b1f53175ed8745c626f016/11b1f53175ed8745c626f016.m3u8",
+"referer": ""
+},
+{
+"name": "Mission Impossible 8 The Final Reckoning (2025) มิชชั่น อิมพอสซิเบิ้ล ปิดปฏิบัติการล่าพิกัดมรณะ",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Mission-Impossible-8-The-Final-Reckoning-2025-มิชชั่น-อิมพอสซิเบิ้ล-ปิดปฏิบัติการล่าพิกัดมรณะ.png",
+"url": "https://main.24playerhd.com/newplaylist/1ac1c9d37f840785233e86c3/1ac1c9d37f840785233e86c3.m3u8",
+"referer": ""
+},
+{
+"name": "Mission Impossible 8 The Final Reckoning (2025) มิชชั่น อิมพอสซิเบิ้ล ปิดปฏิบัติการล่าพิกัดมรณะ",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Mission-Impossible-8-The-Final-Reckoning-2025-มิชชั่น-อิมพอสซิเบิ้ล-ปิดปฏิบัติการล่าพิกัดมรณะ.png",
+"url": "https://main.24playerhd.com/newplaylist/cbfb6a4afd2f26823e9285a8/cbfb6a4afd2f26823e9285a8.m3u8",
+"referer": ""
+},
+{
+"name": "Hidden in the Kunlun (2025) ปริศนาแห่งคุนหลุน",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Hidden-in-the-Kunlun-2025-ปริศนาแห่งคุนหลุน.png",
+"url": "https://main.24playerhd.com/newplaylist/2470217e8dea11b7fcb3a9d2/2470217e8dea11b7fcb3a9d2.m3u8",
+"referer": ""
+},
+{
+"name": "Hallow Road (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Hallow-Road-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/da11cb8fa09f37b28431ce36/da11cb8fa09f37b28431ce36.m3u8",
+"referer": ""
+},
+{
+"name": "The Damned (2024) อาถรรพ์คำสาปพายุหิมะ",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/The-Damned-2024-อาถรรพ์คำสาปพายุหิมะ.png",
+"url": "https://main.24playerhd.com/newplaylist/80df919a1a71ea8c476c7f34/80df919a1a71ea8c476c7f34.m3u8",
+"referer": ""
+},
+{
+"name": "Tha Rae The Exorcist (2025) ท่าแร่",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Tha-Rae-The-Exorcist-2025-ท่าแร่.png",
+"url": "https://main.24playerhd.com/newplaylist/dd7d3db252acca508c9d5c6f/dd7d3db252acca508c9d5c6f.m3u8",
+"referer": ""
+},
+{
+"name": "Sorry Baby (2025) ยิ้มไว้..ในวันที่โลกไม่สวย",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Sorry-Baby-2025-ยิ้มไว้.ในวันที่โลกไม่สวย.png",
+"url": "https://main.24playerhd.com/newplaylist/74ce852f09b7cd35f948a43c/74ce852f09b7cd35f948a43c.m3u8",
+"referer": ""
+},
+{
+"name": "Death of a Unicorn (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Death-of-a-Unicorn-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/802e2be5ec4cca426cdead3d/802e2be5ec4cca426cdead3d.m3u8",
+"referer": ""
+},
+{
+"name": "Blood Brothers Bara Naga (2025) เลือดเดือด ฝ่าองค์กรทมิฬ",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Blood-Brothers-Bara-Naga-2025-เลือดเดือด-ฝ่าองค์กรทมิฬ.png",
+"url": "https://main.24playerhd.com/newplaylist/8672d73ade5812d65613b34b/8672d73ade5812d65613b34b.m3u8",
+"referer": ""
+},
+{
+"name": "Blood Brothers Bara Naga (2025) เลือดเดือด ฝ่าองค์กรทมิฬ",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Blood-Brothers-Bara-Naga-2025-เลือดเดือด-ฝ่าองค์กรทมิฬ.png",
+"url": "https://main.24playerhd.com/newplaylist/d581c1492363d6e467500273/d581c1492363d6e467500273.m3u8",
+"referer": ""
+},
+{
+"name": "One of Them Days (2025) เพื่อนรัก หักค่าเช่า",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/02/One-of-Them-Days-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/053b641ba9e9ab6981645bce/053b641ba9e9ab6981645bce.m3u8",
+"referer": ""
+},
+{
+"name": "One of Them Days (2025) เพื่อนรัก หักค่าเช่า",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/02/One-of-Them-Days-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/e41f7b241a08a7e1e9cd15f4/e41f7b241a08a7e1e9cd15f4.m3u8",
+"referer": ""
+},
+{
+"name": "Night Always Comes (2025) คืนวันอันตราย",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Night-Always-Comes-2025-คืนวันอันตราย.png",
+"url": "https://main.24playerhd.com/newplaylist/8989d9f05eea67c390f68874/8989d9f05eea67c390f68874.m3u8",
+"referer": ""
+},
+{
+"name": "Night Always Comes (2025) คืนวันอันตราย",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Night-Always-Comes-2025-คืนวันอันตราย.png",
+"url": "https://main.24playerhd.com/newplaylist/06674dcfd0c24096f3e3d675/06674dcfd0c24096f3e3d675.m3u8",
+"referer": ""
+},
+{
+"name": "The Naked Gun (2025) มือปราบปืนเปลือย",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/The-Naked-Gun-2025-มือปราบปืนเปลือย.png",
+"url": "https://main.24playerhd.com/newplaylist/a211a860d6c3d00371f470d3/a211a860d6c3d00371f470d3.m3u8",
+"referer": ""
+},
+{
+"name": "The Naked Gun (2025) มือปราบปืนเปลือย",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/The-Naked-Gun-2025-มือปราบปืนเปลือย.png",
+"url": "https://main.24playerhd.com/newplaylist/9f2c84bc373c87940011dbea/9f2c84bc373c87940011dbea.m3u8",
+"referer": ""
+},
+{
+"name": "Under Ninja (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Under-Ninja-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/1df9435fa43b8a9a7544a361/1df9435fa43b8a9a7544a361.m3u8",
+"referer": ""
+},
+{
+"name": "Eddington (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Eddington-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/56b14d825e9301bd6f375109/56b14d825e9301bd6f375109.m3u8",
+"referer": ""
+},
+{
+"name": "Isolated (2025) ตัดขาด",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Isolated-2025-ตัดขาด.png",
+"url": "https://main.24playerhd.com/newplaylist/93d0a674382cb2d525a5a0f7/93d0a674382cb2d525a5a0f7.m3u8",
+"referer": ""
+},
+{
+"name": "Ultimate Mission (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Ultimate-Mission-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/b779eea387ea997f6fb0e3ab/b779eea387ea997f6fb0e3ab.m3u8",
+"referer": ""
+},
+{
+"name": "Halabala (2025) ฮาลาบาลา ป่าจิตหลุด",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Halabala-2025-ฮาลาบาลา-ป่าจิตหลุด.png",
+"url": "https://main.24playerhd.com/newplaylist/d9d9d1f7f521fb0512be1103/d9d9d1f7f521fb0512be1103.m3u8",
+"referer": ""
+},
+{
+"name": "Love or Lie (2025) ฮักสัปปะลี่กับคดีสีชมพู",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Love-or-Lie-2025-ฮักสัปปะลี่กับคดีสีชมพู.png",
+"url": "https://main.24playerhd.com/newplaylist/e8c28e528ca69f92def2b345/e8c28e528ca69f92def2b345.m3u8",
+"referer": ""
+},
+{
+"name": "Credit Knife People (2025) ชายผู้ให้ยืมดาบ",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Credit-Knife-People-2025-ชายผู้ให้ยืมดาบ.png",
+"url": "https://main.24playerhd.com/newplaylist/b6b643c471a4ec0a21b855ee/b6b643c471a4ec0a21b855ee.m3u8",
+"referer": ""
+},
+{
+"name": "Jiangziya (2025) สังหารขุนพลชิงแผนภูมิวงศ์เทวา",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Jiangziya-2025-สังหารขุนพลชิงแผนภูมิวงศ์เทวา.png",
+"url": "https://main.24playerhd.com/newplaylist/dd5ff0022ae1985bbc9a64d2/dd5ff0022ae1985bbc9a64d2.m3u8",
+"referer": ""
+},
+{
+"name": "The Last Goodbye (2025) คำลาครั้งสุดท้าย",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/The-Last-Goodbye-2025-คำลาครั้งสุดท้าย.png",
+"url": "https://main.24playerhd.com/newplaylist/4e3c387a207c361409a20b0d/4e3c387a207c361409a20b0d.m3u8",
+"referer": ""
+},
+{
+"name": "My Magic Prophecy (2025) ทำนายทายทัพ",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/My-Magic-Prophecy-2025-ทำนายทายทัพ.jpg",
+"url": "https://main.24playerhd.com/newplaylist/aaa084f7f41a50976afeca14/aaa084f7f41a50976afeca14.m3u8",
+"referer": ""
+},
+{
+"name": "Freakier Friday (2025) ศุกร์สยอง สี่ร่างสลับรุ่น",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Freakier-Friday-2025-ศุกร์สยอง-สี่ร่างสลับรุ่น.png",
+"url": "https://main.24playerhd.com/newplaylist/f52d6a5360b83de687fa0cae/f52d6a5360b83de687fa0cae.m3u8",
+"referer": ""
+},
+{
+"name": "Freakier Friday (2025) ศุกร์สยอง สี่ร่างสลับรุ่น",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Freakier-Friday-2025-ศุกร์สยอง-สี่ร่างสลับรุ่น.png",
+"url": "https://main.24playerhd.com/newplaylist/83dd92409d38159153f1eab9/83dd92409d38159153f1eab9.m3u8",
+"referer": ""
+},
+{
+"name": "Sugar Mill (2025) โรงงานผีดุ",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Sugar-Mill-2025-โรงงานผีดุ.png",
+"url": "https://main.24playerhd.com/newplaylist/316021452a7abbef9bb5707a/316021452a7abbef9bb5707a.m3u8",
+"referer": ""
+},
+{
+"name": "Black Bag (2025) ปฏิบัติการลับสองหน้า",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Black-Bag-2025-ปฏิบัติการลับสองหน้า.png",
+"url": "https://main.24playerhd.com/newplaylist/48e003614b70e13632800342/48e003614b70e13632800342.m3u8",
+"referer": ""
+},
+{
+"name": "Creation of the Gods II Demon Force (2025) กำเนิดเทพเจ้า ตอน มหาศึกเทพยุทธ",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Creation-of-the-Gods-2-Demon-Force-2025-กำเนิดเทพเจ้า-ตอน-มหาศึกเทพยุทธ.png",
+"url": "https://main.24playerhd.com/newplaylist/39ad20e0cb9568ee334211cb/39ad20e0cb9568ee334211cb.m3u8",
+"referer": ""
+},
+{
+"name": "The Pickup (2025) เดอะพิคอัพ",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/The-Pickup-2025-เดอะพิคอัพ.png",
+"url": "https://main.24playerhd.com/newplaylist/ebfb3e22d052e12aa2c510c0/ebfb3e22d052e12aa2c510c0.m3u8",
+"referer": ""
+},
+{
+"name": "The Pickup (2025) เดอะพิคอัพ",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/The-Pickup-2025-เดอะพิคอัพ.png",
+"url": "https://main.24playerhd.com/newplaylist/3754425b1482cd72e67714cc/3754425b1482cd72e67714cc.m3u8",
+"referer": ""
+},
+{
+"name": "28 Years Later (2025) 28 ปีให้หลัง เชื้อเขมือบคน",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/28-Years-Later-2025-28-ปีให้หลัง-เชื้อเขมือบคน.png",
+"url": "https://main.24playerhd.com/newplaylist/0a6daaa712ea887b975b0d96/0a6daaa712ea887b975b0d96.m3u8",
+"referer": ""
+},
+{
+"name": "28 Years Later (2025) 28 ปีให้หลัง เชื้อเขมือบคน",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/28-Years-Later-2025-28-ปีให้หลัง-เชื้อเขมือบคน.png",
+"url": "https://main.24playerhd.com/newplaylist/60d26bf80b9e4a8cc86b914a/60d26bf80b9e4a8cc86b914a.m3u8",
+"referer": ""
+},
+{
+"name": "Jurassic World Rebirth (2025) จูราสสิค เวิลด์ กำเนิดชีวิตใหม่",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Jurassic-World-Rebirth-2025-จูราสสิค-เวิลด์-กำเนิดชีวิตใหม่.png",
+"url": "https://main.24playerhd.com/newplaylist/64b6ea1cdecfd90a2b810476/64b6ea1cdecfd90a2b810476.m3u8",
+"referer": ""
+},
+{
+"name": "Thug Life (2025) ชีวิตอันธพาล",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Thug-Life-2025-ชีวิตอันธพาล.png",
+"url": "https://main.24playerhd.com/newplaylist/4024184d85a41e8a87885920/4024184d85a41e8a87885920.m3u8",
+"referer": ""
+},
+{
+"name": "Detective Dee The Ghosts in Weird Town (2025) ตี๋เหรินเจี๋ย เมืองผีซากศพ",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Detective-Dee-The-Ghosts-in-Weird-Town-2025-ตี๋เหรินเจี๋ย-เมืองผีซากศพ.png",
+"url": "https://main.24playerhd.com/newplaylist/2fcd0ad0a3037b64bc89f499/2fcd0ad0a3037b64bc89f499.m3u8",
+"referer": ""
+},
+{
+"name": "The Ritual (2025) ไล่มันออกจากร่าง",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/The-Ritual-2025-ไล่มันออกจากร่าง.png",
+"url": "https://main.24playerhd.com/newplaylist/f4508a3b894d90326c15cb2c/f4508a3b894d90326c15cb2c.m3u8",
+"referer": ""
+},
+{
+"name": "Final Destination Bloodlines (2025) ไฟนอล เดสติเนชั่น",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Final-Destination-Bloodlines-2025-ไฟนอล-เดสติเนชั่น-ทายาทโกงตาย.png",
+"url": "https://main.24playerhd.com/newplaylist/00bc5ca72b976a94723e8fbb/00bc5ca72b976a94723e8fbb.m3u8",
+"referer": ""
+},
+{
+"name": "Final Destination Bloodlines (2025) ไฟนอล เดสติเนชั่น",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Final-Destination-Bloodlines-2025-ไฟนอล-เดสติเนชั่น-ทายาทโกงตาย.png",
+"url": "https://main.24playerhd.com/newplaylist/1a280dc278d6e411bf95b91e/1a280dc278d6e411bf95b91e.m3u8",
+"referer": ""
+},
+{
+"name": "My Oxford Year (2025) อ็อกซ์ฟอร์ดในฝันของสาวอเมริกัน",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/My-Oxford-Year-2025-อ็อกซ์ฟอร์ดในฝันของสาวอเมริกัน.png",
+"url": "https://main.24playerhd.com/newplaylist/1607cee1ceec6d3079709f1b/1607cee1ceec6d3079709f1b.m3u8",
+"referer": ""
+},
+{
+"name": "Number 2 (2025) นัมเบอร์ทู",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/Number-2-2025-นัมเบอร์ทู.png",
+"url": "https://main.24playerhd.com/newplaylist/96b6123b546b899ab5cf77c9/96b6123b546b899ab5cf77c9.m3u8",
+"referer": ""
+},
+{
+"name": "The Wedding Banquet (2025) เดอะ เวดดิง แบงควิต",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/The-Wedding-Banquet-2025-เดอะ-เวดดิง-แบงควิต.png",
+"url": "https://main.24playerhd.com/newplaylist/c1cc24f8611b0eed96540993/c1cc24f8611b0eed96540993.m3u8",
+"referer": ""
+},
+{
+"name": "An Honest Life (2025) ชีวิตซื่อ",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/An-Honest-Life-2025-ชีวิตซื่อ.png",
+"url": "https://main.24playerhd.com/newplaylist/5495795857b3a75c19052d27/5495795857b3a75c19052d27.m3u8",
+"referer": ""
+},
+{
+"name": "An Honest Life (2025) ชีวิตซื่อ",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/An-Honest-Life-2025-ชีวิตซื่อ.png",
+"url": "https://main.24playerhd.com/newplaylist/34e1c9f612c382f876333b2a/34e1c9f612c382f876333b2a.m3u8",
+"referer": ""
+},
+{
+"name": "The Stone (2025) เดอะ สโตน พระแท้ คนเก๊",
+"info": "HD",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/08/The-Stone-2025-เดอะ-สโตน-พระแท้-คนเก๊.png",
+"url": "https://main.24playerhd.com/newplaylist/09e2bd0055172e2236835dae/09e2bd0055172e2236835dae.m3u8",
+"referer": ""
+},
+{
+"name": "Untold (2025) ซ่อนเร้น",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Untold-2025-ซ่อนเร้น.png",
+"url": "https://main.24playerhd.com/newplaylist/05cc3c9c1a2e0363fe6cf0b6/05cc3c9c1a2e0363fe6cf0b6.m3u8",
+"referer": ""
+},
+{
+"name": "Soul Land Sword Master (2025) ตำนานจอมยุทธ์ภูตถังซาน วิถีจิตแห่งดาบ",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Soul-Land-Sword-Master-2025-ตำนานจอมยุทธ์ภูตถังซาน-วิถีจิตแห่งดาบ.png",
+"url": "https://main.24playerhd.com/newplaylist/13be3230c6e41db1cffe4689/13be3230c6e41db1cffe4689.m3u8",
+"referer": ""
+},
+{
+"name": "War of the Worlds (2025) สงครามโลก",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/War-of-the-Worlds-2025-สงครามโลก.png",
+"url": "https://main.24playerhd.com/newplaylist/d4320ac853876cf681483c37/d4320ac853876cf681483c37.m3u8",
+"referer": ""
+},
+{
+"name": "Shadow Force (2025) ดับเบิลจารชน โคตรคนไร้เงา",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Shadow-Force-2025-ดับเบิลจารชน-โคตรคนไร้เงา.png",
+"url": "https://main.24playerhd.com/newplaylist/c3a3edb02fc2b273c2092d21/c3a3edb02fc2b273c2092d21.m3u8",
+"referer": ""
+},
+{
+"name": "Shadow Force (2025) ดับเบิลจารชน โคตรคนไร้เงา",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Shadow-Force-2025-ดับเบิลจารชน-โคตรคนไร้เงา.png",
+"url": "https://main.24playerhd.com/newplaylist/a865e82f980aff5f74881fea/a865e82f980aff5f74881fea.m3u8",
+"referer": ""
+},
+{
+"name": "Bring Her Back (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Bring-Her-Back-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/1abc1980869b91975418b4f9/1abc1980869b91975418b4f9.m3u8",
+"referer": ""
+},
+{
+"name": "Never a Thief (2025) ทะลวงแผนโจร",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Never-a-Thief-2025-ทะลวงแผนโจร.png",
+"url": "https://main.24playerhd.com/newplaylist/a04370c9b9cb78618269a642/a04370c9b9cb78618269a642.m3u8",
+"referer": ""
+},
+{
+"name": "Locked (2025) ล็อก ล่อมาตาย",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Locked-2025-ล็อก-ล่อมาตาย.png",
+"url": "https://main.24playerhd.com/newplaylist/47608a333e361c73fd8e28ac/47608a333e361c73fd8e28ac.m3u8",
+"referer": ""
+},
+{
+"name": "Happy Gilmore 2 (2025) แฮปปี้ กิลมอร์ 2",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Happy-Gilmore-2-2025-แฮปปี้-กิลมอร์-2.png",
+"url": "https://main.24playerhd.com/newplaylist/d5e64bf9bb4633d1d4f64fe7/d5e64bf9bb4633d1d4f64fe7.m3u8",
+"referer": ""
+},
+{
+"name": "Happy Gilmore 2 (2025) แฮปปี้ กิลมอร์ 2",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Happy-Gilmore-2-2025-แฮปปี้-กิลมอร์-2.png",
+"url": "https://main.24playerhd.com/newplaylist/b67f19fb655ff6105f6e2ca4/b67f19fb655ff6105f6e2ca4.m3u8",
+"referer": ""
+},
+{
+"name": "Figth Break Sphere 4 (2025) สัประยุทธ์ทะลุฟ้า 4",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Figth-Break-Sphere-4-2025-สัประยุทธ์ทะลุฟ้า-4.png",
+"url": "https://main.24playerhd.com/newplaylist/ea96737d9cf9f1f27d9bdaa8/ea96737d9cf9f1f27d9bdaa8.m3u8",
+"referer": ""
+},
+{
+"name": "Figth Break Sphere 3 (2025) สัประยุทธ์ทะลุฟ้า 3",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Figth-Break-Sphere-3-2025-สัประยุทธ์ทะลุฟ้า-3.png",
+"url": "https://main.24playerhd.com/newplaylist/702521ad575dba8890a4f8a9/702521ad575dba8890a4f8a9.m3u8",
+"referer": ""
+},
+{
+"name": "The Legend of Ochi (2025) โอชิ อสูรขี้อ้อน พา ‘น้อน’ กลับบ้าน",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/The-Legend-of-Ochi-2025-โอชิ-อสูรขี้อ้อน-พา-น้อน-กลับบ้าน.png",
+"url": "https://main.24playerhd.com/newplaylist/cd677831920e6a0ce4ea45ca/cd677831920e6a0ce4ea45ca.m3u8",
+"referer": ""
+},
+{
+"name": "11 Hearts Before You (2025) รัก 11 ครั้ง ก่อนเจอเธอ",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/11-Hearts-Before-You-2025-รัก-11-ครั้ง-ก่อนเจอเธอ.png",
+"url": "https://main.24playerhd.com/newplaylist/afc7d9db0682a6b16a2a6003/afc7d9db0682a6b16a2a6003.m3u8",
+"referer": ""
+},
+{
+"name": "Baiyun Ghost House (2025) ไป๋อวิ๋นไจ ร้านพิศวง",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Baiyun-Ghost-House-2025-ไป๋อวิ๋นไจ-ร้านพิศวง.png",
+"url": "https://main.24playerhd.com/newplaylist/f2b80f9a2ff0a05aa2fbfa95/f2b80f9a2ff0a05aa2fbfa95.m3u8",
+"referer": ""
+},
+{
+"name": "The Fantastic Four First Steps (2025) เดอะ แฟนแทสติก 4 จุดเริ่มต้นปฐมบทใหม่",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/The-Fantastic-Four-First-Steps-2025-เดอะ-แฟนแทสติก-4-จุดเริ่มต้นปฐมบทใหม่.png",
+"url": "https://main.24playerhd.com/newplaylist/4f2068078ffe65ecc6564fc7/4f2068078ffe65ecc6564fc7.m3u8",
+"referer": ""
+},
+{
+"name": "The Red Envelope (2025) ซองแดงแต่งผี",
+"info": "HD",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/The-Red-Envelope-2025-ซองแดงแต่งผี.png",
+"url": "https://main.24playerhd.com/newplaylist/1712e730229435c6afd8dcc8/1712e730229435c6afd8dcc8.m3u8",
+"referer": ""
+},
+{
+"name": "Lilo & Stitch (2025) ลิโล่ & สติทช์",
+"info": "HD",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Lilo-Stitch-2025-ลิโล่-สติทช์.png",
+"url": "https://main.24playerhd.com/newplaylist/eb7c0731f9df805c7e91bf01/eb7c0731f9df805c7e91bf01.m3u8",
+"referer": ""
+},
+{
+"name": "Veil Of Chu (2025) สุสานเจ้าสาวเมืองฉู่",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Veil-Of-Chu-2025-สุสานเจ้าสาวเมืองฉู่.png",
+"url": "https://main.24playerhd.com/newplaylist/f99a70ee77a81fbb4d4536a6/f99a70ee77a81fbb4d4536a6.m3u8",
+"referer": ""
+},
+{
+"name": "A Normal Woman (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/A-Normal-Woman-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/74bbbf933f39fceb44bd35c4/74bbbf933f39fceb44bd35c4.m3u8",
+"referer": ""
+},
+{
+"name": "Karate Kid Legends (2025) คาราเต้ คิด ผนึกพลังตำนานนักสู้",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Karate-Kid-Legends-2025-คาราเต้-คิด-ผนึกพลังตำนานนักสู้.png",
+"url": "https://main.24playerhd.com/newplaylist/4337d43deb32f9ae9bde5022/4337d43deb32f9ae9bde5022.m3u8",
+"referer": ""
+},
+{
+"name": "Karate Kid Legends (2025) คาราเต้ คิด ผนึกพลังตำนานนักสู้",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Karate-Kid-Legends-2025-คาราเต้-คิด-ผนึกพลังตำนานนักสู้.png",
+"url": "https://main.24playerhd.com/newplaylist/842f0d8092c9f870701d63b2/842f0d8092c9f870701d63b2.m3u8",
+"referer": ""
+},
+{
+"name": "Dora and the Search for Sol Dorado (2025) ดอร่ากับการตามหาพระอาทิตย์สีทอง",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Dora-and-the-Search-for-Sol-Dorado-2025-ดอร่ากับการตามหาพระอาทิตย์สีทอง.png",
+"url": "https://main.24playerhd.com/newplaylist/cb2798c0f1c7b4f12350b632/cb2798c0f1c7b4f12350b632.m3u8",
+"referer": ""
+},
+{
+"name": "Alarum (2025)",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/01/Alarum-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/dded6ffba7b93b61d66e401f/dded6ffba7b93b61d66e401f.m3u8",
+"referer": ""
+},
+{
+"name": "Alarum (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/01/Alarum-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/8e16b7596f18a9df05c7ea2b/8e16b7596f18a9df05c7ea2b.m3u8",
+"referer": ""
+},
+{
+"name": "Drop (2025) รับคำสั่งตาย",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Drop-2025-รับคำสั่งตาย.png",
+"url": "https://main.24playerhd.com/newplaylist/39dc0340080889f31c46c834/39dc0340080889f31c46c834.m3u8",
+"referer": ""
+},
+{
+"name": "Another Simple Favor (2025) เพื่อนหาย อย่าหา 2",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Another-Simple-Favor-2025-เพื่อนหาย-อย่าหา-2.png",
+"url": "https://main.24playerhd.com/newplaylist/39367f844594cf54f004da01/39367f844594cf54f004da01.m3u8",
+"referer": ""
+},
+{
+"name": "Another Simple Favor (2025) เพื่อนหาย อย่าหา 2",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Another-Simple-Favor-2025-เพื่อนหาย-อย่าหา-2.png",
+"url": "https://main.24playerhd.com/newplaylist/b362c1e809392afc2400882c/b362c1e809392afc2400882c.m3u8",
+"referer": ""
+},
+{
+"name": "Graveyard Horror (2025) 4ป่าช้า",
+"info": "HD",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Graveyard-Horror-2025-4ป่าช้า.png",
+"url": "https://main.24playerhd.com/newplaylist/bd84811aa8d1c35a3d56ef13/bd84811aa8d1c35a3d56ef13.m3u8",
+"referer": ""
+},
+{
+"name": "Lifeline (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Lifeline-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/35a30dce6dfabb8681808e26/35a30dce6dfabb8681808e26.m3u8",
+"referer": ""
+},
+{
+"name": "A Widow’s Game (2025) กลเกมแม่ม่าย",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/A-Widows-Game-2025-กลเกมแม่ม่าย.png",
+"url": "https://main.24playerhd.com/newplaylist/5678c64034191519109cb431/5678c64034191519109cb431.m3u8",
+"referer": ""
+},
+{
+"name": "A Widow’s Game (2025) กลเกมแม่ม่าย",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/A-Widows-Game-2025-กลเกมแม่ม่าย.png",
+"url": "https://main.24playerhd.com/newplaylist/e329d7a39402585a8b4bc508/e329d7a39402585a8b4bc508.m3u8",
+"referer": ""
+},
+{
+"name": "Wall to Wall (2025) ฝันร้าย 84 ตร.ม.",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Wall-to-Wall-2025-ฝันร้าย-84-ตร.ม.png",
+"url": "https://main.24playerhd.com/newplaylist/c8ae1ab1a0b039950b4d47fa/c8ae1ab1a0b039950b4d47fa.m3u8",
+"referer": ""
+},
+{
+"name": "Wall to Wall (2025) ฝันร้าย 84 ตร.ม.",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Wall-to-Wall-2025-ฝันร้าย-84-ตร.ม.png",
+"url": "https://main.24playerhd.com/newplaylist/0cd30c26ac4b81f3f00ea267/0cd30c26ac4b81f3f00ea267.m3u8",
+"referer": ""
+},
+{
+"name": "Almost Family (2025) กว่าจะเป็นครอบครัว",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Almost-Family-2025-กว่าจะเป็นครอบครัว.png",
+"url": "https://main.24playerhd.com/newplaylist/ea00d121ea66dcb21a16ceb5/ea00d121ea66dcb21a16ceb5.m3u8",
+"referer": ""
+},
+{
+"name": "Lilim (2025) ซ่อนในเงามืด",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Lilim-2025-ซ่อนในเงามืด.png",
+"url": "https://main.24playerhd.com/newplaylist/145420084485fe4b45f4caf0/145420084485fe4b45f4caf0.m3u8",
+"referer": ""
+},
+{
+"name": "The Amateur (2025) ร้ายสมัครเล่น",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/The-Amateur-2025-ร้ายสมัครเล่น.png",
+"url": "https://main.24playerhd.com/newplaylist/291a48eca334b47af422f3f5/291a48eca334b47af422f3f5.m3u8",
+"referer": ""
+},
+{
+"name": "The Amateur (2025) ร้ายสมัครเล่น",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/The-Amateur-2025-ร้ายสมัครเล่น.png",
+"url": "https://main.24playerhd.com/newplaylist/fdd1a377cebc7342dcbdd8b0/fdd1a377cebc7342dcbdd8b0.m3u8",
+"referer": ""
+},
+{
+"name": "Trainwreck Balloon Boy (2025) อภิมหาวายป่วง บอลลูนบอย",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Trainwreck-Balloon-Boy-2025-อภิมหาวายป่วง-บอลลูนบอย.png",
+"url": "https://main.24playerhd.com/newplaylist/ee304153a968664f747ef068/ee304153a968664f747ef068.m3u8",
+"referer": ""
+},
+{
+"name": "Trainwreck Balloon Boy (2025) อภิมหาวายป่วง บอลลูนบอย",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Trainwreck-Balloon-Boy-2025-อภิมหาวายป่วง-บอลลูนบอย.png",
+"url": "https://main.24playerhd.com/newplaylist/0f709b1d2f6ccf1a86fb6c38/0f709b1d2f6ccf1a86fb6c38.m3u8",
+"referer": ""
+},
+{
+"name": "Apocalypse in the Tropics (2025) วันสิ้นโลกในเขตร้อน",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Apocalypse-in-the-Tropics-2025-วันสิ้นโลกในเขตร้อน.png",
+"url": "https://main.24playerhd.com/newplaylist/383eda1b36bdfb598789b6af/383eda1b36bdfb598789b6af.m3u8",
+"referer": ""
+},
+{
+"name": "Mountainhead (2025) เมาน์เทนเฮด",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Mountainhead-2025-เมาน์เทนเฮด.png",
+"url": "https://main.24playerhd.com/newplaylist/73f0e597e92dd4c2b94a1e36/73f0e597e92dd4c2b94a1e36.m3u8",
+"referer": ""
+},
+{
+"name": "Mountainhead (2025) เมาน์เทนเฮด",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Mountainhead-2025-เมาน์เทนเฮด.png",
+"url": "https://main.24playerhd.com/newplaylist/15aa87b93b5abfc2538c37a0/15aa87b93b5abfc2538c37a0.m3u8",
+"referer": ""
+},
+{
+"name": "Detective Chinatown 1900 (2025) แก๊งม่วนป่วนอเมริกา",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Detective-Chinatown-1900-2025-แก๊งม่วนป่วนอเมริกา.png",
+"url": "https://main.24playerhd.com/newplaylist/8ac08fd391ae7435c79cdec9/8ac08fd391ae7435c79cdec9.m3u8",
+"referer": ""
+},
+{
+"name": "The Noisy Mansion (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/The-Noisy-Mansion-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/3fbf95192d4e08f8c1d78496/3fbf95192d4e08f8c1d78496.m3u8",
+"referer": ""
+},
+{
+"name": "Borderline (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Borderline-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/a24382023220f40409f4be3d/a24382023220f40409f4be3d.m3u8",
+"referer": ""
+},
+{
+"name": "The Guardians Of Zhu Yin (2025) เมืองโบราณจู๋อิน",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/The-Guardians-Of-Zhu-Yin-2025-เมืองโบราณจู๋อิน.png",
+"url": "https://main.24playerhd.com/newplaylist/6aa190505572087ad88e436b/6aa190505572087ad88e436b.m3u8",
+"referer": ""
+},
+{
+"name": "Abandoned Mountain Soul Chilling (2025) ภูเขาวังเวงยามราตรี",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Abandoned-Mountain-Soul-Chilling-2025-ภูเขาวังเวงยามราตรี.png",
+"url": "https://main.24playerhd.com/newplaylist/8380e92c4120bf8d8f90054a/8380e92c4120bf8d8f90054a.m3u8",
+"referer": ""
+},
+{
+"name": "The Phoenician Scheme (2025) แผนลับซ่อนร้าย",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/The-Phoenician-Scheme-2025-แผนลับซ่อนร้าย.png",
+"url": "https://main.24playerhd.com/newplaylist/a33cb18a899a225a3a4b8c7f/a33cb18a899a225a3a4b8c7f.m3u8",
+"referer": ""
+},
+{
+"name": "Almost Cops (2025) คู่สืบ​ คู่อันตราย",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Almost-Cops-2025-คู่สืบ%E2%80%8B-คู่อันตราย.png",
+"url": "https://main.24playerhd.com/newplaylist/8f132034d7c3f07cb8007210/8f132034d7c3f07cb8007210.m3u8",
+"referer": ""
+},
+{
+"name": "Almost Cops (2025) คู่สืบ​ คู่อันตราย",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Almost-Cops-2025-คู่สืบ%E2%80%8B-คู่อันตราย.png",
+"url": "https://main.24playerhd.com/newplaylist/938adec2dc35796ddb968c2a/938adec2dc35796ddb968c2a.m3u8",
+"referer": ""
+},
+{
+"name": "Madea’s Destination Wedding (2025) ป้าลุยแหลกแหกวิวาห์ป่วน",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Madeas-Destination-Wedding-2025-ป้าลุยแหลกแหกวิวาห์ป่วน.png",
+"url": "https://main.24playerhd.com/newplaylist/e284c1e39a3ebca769be802e/e284c1e39a3ebca769be802e.m3u8",
+"referer": ""
+},
+{
+"name": "Madea’s Destination Wedding (2025) ป้าลุยแหลกแหกวิวาห์ป่วน",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Madeas-Destination-Wedding-2025-ป้าลุยแหลกแหกวิวาห์ป่วน.png",
+"url": "https://main.24playerhd.com/newplaylist/f9e8d249f44f1c6ddf9700b4/f9e8d249f44f1c6ddf9700b4.m3u8",
+"referer": ""
+},
+{
+"name": "Aap Jaisa Koi (2025) ใครสักคนที่เหมือนเธอ",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Aap-Jaisa-Koi-2025-ใครสักคนที่เหมือนเธอ.png",
+"url": "https://main.24playerhd.com/newplaylist/6cbf4bf084bc4b13607cf56f/6cbf4bf084bc4b13607cf56f.m3u8",
+"referer": ""
+},
+{
+"name": "Aap Jaisa Koi (2025) ใครสักคนที่เหมือนเธอ",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Aap-Jaisa-Koi-2025-ใครสักคนที่เหมือนเธอ.png",
+"url": "https://main.24playerhd.com/newplaylist/677f8089aee6efa1c363e5c8/677f8089aee6efa1c363e5c8.m3u8",
+"referer": ""
+},
+{
+"name": "The Legend of the Condor Heroes The Gallants (2025) มังกรหยก จอมยุทธ์ผู้ยิ่งใหญ่",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/The-Legend-of-the-Condor-Heroes-The-Gallants-2025-มังกรหยก-จอมยุทธ์ผู้ยิ่งใหญ่.png",
+"url": "https://main.24playerhd.com/newplaylist/24ce41ae6089ab73197bfe77/24ce41ae6089ab73197bfe77.m3u8",
+"referer": ""
+},
+{
+"name": "The Legend of the Condor Heroes The Gallants (2025) มังกรหยก จอมยุทธ์ผู้ยิ่งใหญ่",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/The-Legend-of-the-Condor-Heroes-The-Gallants-2025-มังกรหยก-จอมยุทธ์ผู้ยิ่งใหญ่.png",
+"url": "https://main.24playerhd.com/newplaylist/c33ba57e95a7f3e7e8be95c7/c33ba57e95a7f3e7e8be95c7.m3u8",
+"referer": ""
+},
+{
+"name": "Invincible Swordsman (2025) เดชคัมภีร์เทวดา",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Invincible-Swordsman-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/07c80f3329bcdc7475374748/07c80f3329bcdc7475374748.m3u8",
+"referer": ""
+},
+{
+"name": "Invincible Swordsman (2025) เดชคัมภีร์เทวดา",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Invincible-Swordsman-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/7d7d3aeb7f932c156bcdb758/7d7d3aeb7f932c156bcdb758.m3u8",
+"referer": ""
+},
+{
+"name": "Thantakan (2025) ทัณฑกาล",
+"info": "HD",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Thantakan-2025-ทัณฑกาล.png",
+"url": "https://main.24playerhd.com/newplaylist/1a5d919a999ffcfb3a7bdb72/1a5d919a999ffcfb3a7bdb72.m3u8",
+"referer": ""
+},
+{
+"name": "Brick (2025) กำแพง",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Brick-2025-กำแพง.png",
+"url": "https://main.24playerhd.com/newplaylist/cd28c324efab4b80320b8c0f/cd28c324efab4b80320b8c0f.m3u8",
+"referer": ""
+},
+{
+"name": "Ziam (2025) ปากกัดตีนถีบ",
+"info": "HD",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Ziam-2025-ปากกัดตีนถีบ.png",
+"url": "https://main.24playerhd.com/newplaylist/152ab368d70abf432fdd0459/152ab368d70abf432fdd0459.m3u8",
+"referer": ""
+},
+{
+"name": "Trainwreck The Real Project X (2025) อภิมหาวายป่วง คืนซ่าส์ปาร์ตี้หลุดโลกของจริง",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Trainwreck-The-Real-Project-X-2025-อภิมหาวายป่วง-คืนซ่าส์ปาร์ตี้หลุดโลกของจริง.png",
+"url": "https://main.24playerhd.com/newplaylist/5f1df47e197133486fc45c16/5f1df47e197133486fc45c16.m3u8",
+"referer": ""
+},
+{
+"name": "Trainwreck The Real Project X (2025) อภิมหาวายป่วง คืนซ่าส์ปาร์ตี้หลุดโลกของจริง",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Trainwreck-The-Real-Project-X-2025-อภิมหาวายป่วง-คืนซ่าส์ปาร์ตี้หลุดโลกของจริง.png",
+"url": "https://main.24playerhd.com/newplaylist/00e5f0f6d6be3708ea38b7a8/00e5f0f6d6be3708ea38b7a8.m3u8",
+"referer": ""
+},
+{
+"name": "On Swift Horses (2025) เกมรักซ้อนเงา",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/On-Swift-Horses-2025-เกมรักซ้อนเงา.png",
+"url": "https://main.24playerhd.com/newplaylist/b276680d0c70202fbff1b05f/b276680d0c70202fbff1b05f.m3u8",
+"referer": ""
+},
+{
+"name": "Ice Road Vengeance (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Ice-Road-Vengeance-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/cbf16da303a9909c557886c3/cbf16da303a9909c557886c3.m3u8",
+"referer": ""
+},
+{
+"name": "Bring Her Back (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Bring-Her-Back-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/bab198d57c80c5005b31cad0/bab198d57c80c5005b31cad0.m3u8",
+"referer": ""
+},
+{
+"name": "Uppu Kappurambu (2025) สุสานอลวน เมืองอลเวง",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Uppu-Kappurambu-2025-สุสานอลวน-เมืองอลเวง.png",
+"url": "https://main.24playerhd.com/newplaylist/ddd7d944ac1e7a581ab00505/ddd7d944ac1e7a581ab00505.m3u8",
+"referer": ""
+},
+{
+"name": "High Rollers (2025) แผนปล้นคนหักเหลี่ยม ทะลวงกาสิโนเดือด",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/High-Rollers-2025-แผนปล้นคนหักเหลี่ยม-ทะลวงกาสิโนเดือด.png",
+"url": "https://main.24playerhd.com/newplaylist/5dc315ebc5b5ab29a3dbaa13/5dc315ebc5b5ab29a3dbaa13.m3u8",
+"referer": ""
+},
+{
+"name": "High Rollers (2025) แผนปล้นคนหักเหลี่ยม ทะลวงกาสิโนเดือด",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/High-Rollers-2025-แผนปล้นคนหักเหลี่ยม-ทะลวงกาสิโนเดือด.png",
+"url": "https://main.24playerhd.com/newplaylist/ce10a923f2ab29b461988493/ce10a923f2ab29b461988493.m3u8",
+"referer": ""
+},
+{
+"name": "Heads of State (2025) ผู้นำสายบู๊กู้วิกฤต",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Heads-of-State-2025-ผู้นำสายบู๊กู้วิกฤต.png",
+"url": "https://main.24playerhd.com/newplaylist/2177ab94cdc9b443f853857c/2177ab94cdc9b443f853857c.m3u8",
+"referer": ""
+},
+{
+"name": "Heads of State (2025) ผู้นำสายบู๊กู้วิกฤต",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Heads-of-State-2025-ผู้นำสายบู๊กู้วิกฤต.png",
+"url": "https://main.24playerhd.com/newplaylist/6892904b2fcdd068410db333/6892904b2fcdd068410db333.m3u8",
+"referer": ""
+},
+{
+"name": "Un-ex You (2025) จับแฟนเก่ามารักใหม่",
+"info": "HD",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Un-ex-You-2025-จับแฟนเก่ามารักใหม่.png",
+"url": "https://main.24playerhd.com/newplaylist/1afcf209b5fad5a43d5eb275/1afcf209b5fad5a43d5eb275.m3u8",
+"referer": ""
+},
+{
+"name": "The Old Guard 2 (2025) ดิ โอลด์ การ์ด 2",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/The-Old-Guard-2-2025-ดิ-โอลด์-การ์ด-2.png",
+"url": "https://main.24playerhd.com/newplaylist/623a7aafd6df870d86015d7d/623a7aafd6df870d86015d7d.m3u8",
+"referer": ""
+},
+{
+"name": "The Old Guard 2 (2025) ดิ โอลด์ การ์ด 2",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/The-Old-Guard-2-2025-ดิ-โอลด์-การ์ด-2.png",
+"url": "https://main.24playerhd.com/newplaylist/de55dbe20adaffff152bfab0/de55dbe20adaffff152bfab0.m3u8",
+"referer": ""
+},
+{
+"name": "From the World of John Wick Ballerina (2025) จักรวาลของ จอห์น วิค บัลเลรินา แค้นกว่านรก",
+"info": "HD",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/From-the-World-of-John-Wick-Ballerina-2025-จักรวาลของ-จอห์น-วิค-บัลเลรินา-แค้นกว่านรก.png",
+"url": "https://main.24playerhd.com/newplaylist/2c59bb8be3a9d3865276bf0e/2c59bb8be3a9d3865276bf0e.m3u8",
+"referer": ""
+},
+{
+"name": "Lulu Is a Rhinoceros (2025)",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Lulu-Is-a-Rhinoceros-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/9986ac865f120422e0b7c342/9986ac865f120422e0b7c342.m3u8",
+"referer": ""
+},
+{
+"name": "Lulu Is a Rhinoceros (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Lulu-Is-a-Rhinoceros-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/8157729069b9fe3beb617335/8157729069b9fe3beb617335.m3u8",
+"referer": ""
+},
+{
+"name": "Ligaw (2025)",
+"info": "HD",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Ligaw-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/0b28bdb98c60dea3a52713e5/0b28bdb98c60dea3a52713e5.m3u8",
+"referer": ""
+},
+{
+"name": "Shark Whisperer (2025) คนรักษ์ฉลาม",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Shark-Whisperer-2025-คนรักษ์ฉลาม.png",
+"url": "https://main.24playerhd.com/newplaylist/e2f9ed74205adc69f400230d/e2f9ed74205adc69f400230d.m3u8",
+"referer": ""
+},
+{
+"name": "Shark Whisperer (2025) คนรักษ์ฉลาม",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/07/Shark-Whisperer-2025-คนรักษ์ฉลาม.png",
+"url": "https://main.24playerhd.com/newplaylist/7158522151e9826cde5bfc19/7158522151e9826cde5bfc19.m3u8",
+"referer": ""
+},
+{
+"name": "Yadang The Snitch (2025) ทรชนคนสองหน้า",
+"info": "HD",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Yadang-The-Snitch-2025-ทรชนคนสองหน้า.png",
+"url": "https://main.24playerhd.com/newplaylist/8a45561a7c5e00ad4d22e53b/8a45561a7c5e00ad4d22e53b.m3u8",
+"referer": ""
+},
+{
+"name": "The Assessment (2025) ชีวิตลิขิตไม่ได้",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/The-Assessment-2025-ชีวิตลิขิตไม่ได้.png",
+"url": "https://main.24playerhd.com/newplaylist/abfbe30b725ef7cce5764b6b/abfbe30b725ef7cce5764b6b.m3u8",
+"referer": ""
+},
+{
+"name": "The Assessment (2025) ชีวิตลิขิตไม่ได้",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/The-Assessment-2025-ชีวิตลิขิตไม่ได้.png",
+"url": "https://main.24playerhd.com/newplaylist/d43bb584dbcaf75fc2704d73/d43bb584dbcaf75fc2704d73.m3u8",
+"referer": ""
+},
+{
+"name": "Summer of 69 (2025)",
+"info": "HD",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Summer-of-69-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/902d428801827a7588e8d740/902d428801827a7588e8d740.m3u8",
+"referer": ""
+},
+{
+"name": "Raid 2 (2025) เจ้าหน้าที่ระห่ำท้าทรชน 2",
+"info": "HD",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Raid-2-2025-เจ้าหน้าที่ระห่ำท้าทรชน-2.png",
+"url": "https://main.24playerhd.com/newplaylist/8850b51fb509a462d3dc5247/8850b51fb509a462d3dc5247.m3u8",
+"referer": ""
+},
+{
+"name": "Eternal Bond (2025) นาคบรรพ์",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Eternal-Bond-2025-นาคบรรพ์.png",
+"url": "https://main.24playerhd.com/newplaylist/7d52ccf049d5c4dbba5a8edb/7d52ccf049d5c4dbba5a8edb.m3u8",
+"referer": ""
+},
+{
+"name": "Huang Feihong The Black Yamen (2025) ที่ว่าการหวงเฟยหง",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Huang-Feihong-The-Black-Yamen-2025-ที่ว่าการหวงเฟยหง.png",
+"url": "https://main.24playerhd.com/newplaylist/16dc0de13e9ff93eaf586c49/16dc0de13e9ff93eaf586c49.m3u8",
+"referer": ""
+},
+{
+"name": "คราเคน เลื้อยสยอง 20,000 โยชน์ (2025)",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Kraken-2025-คราเคน-เลื้อยสยอง-20000-โยชน์.png",
+"url": "https://main.24playerhd.com/newplaylist/ac04ec7c5baf3166f5317db6/ac04ec7c5baf3166f5317db6.m3u8",
+"referer": ""
+},
+{
+"name": "Kraken (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Kraken-2025-คราเคน-เลื้อยสยอง-20000-โยชน์.png",
+"url": "https://main.24playerhd.com/newplaylist/01609283dd0b9ee9149e26d4/01609283dd0b9ee9149e26d4.m3u8",
+"referer": ""
+},
+{
+"name": "Blind Murder (2025) นักฆ่าตาบอด",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Blind-Murder-2025-นักฆ่าตาบอด.png",
+"url": "https://main.24playerhd.com/newplaylist/610359673adbd6bd0a3f7df5/610359673adbd6bd0a3f7df5.m3u8",
+"referer": ""
+},
+{
+"name": "Fountain of Youth (2025)",
+"info": "HD/EN",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Fountain-of-Youth-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/b344100ee11322c90629762f/b344100ee11322c90629762f.m3u8",
+"referer": ""
+},
+{
+"name": " ร้ายสมัครเล่น (2025)",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/The-Amateur-2025-ร้ายสมัครเล่น.png",
+"url": "https://main.24playerhd.com/newplaylist/0daff60fc3439429100378fd/0daff60fc3439429100378fd.m3u8",
+"referer": ""
+},
+{
+"name": "ไฟนอล เดสติเนชั่น (2025)",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Final-Destination-Bloodlines-2025-ไฟนอล-เดสติเนชั่น-ทายาทโกงตาย.png",
+"url": "https://main.24playerhd.com/newplaylist/b93d89343c07ec12208b1f3b/b93d89343c07ec12208b1f3b.m3u8",
+"referer": ""
+},
+{
+"name": "Retro (2025) แค้นข้ามเวลา",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Retro-2025-แค้นข้ามเวลา.png",
+"url": "https://main.24playerhd.com/newplaylist/88454339b04b15e6da3fe312/88454339b04b15e6da3fe312.m3u8",
+"referer": ""
+},
+{
+"name": "คาเลนดาร์คิลเลอร์ วันสั่งตาย (2025)",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/01/The-Calendar-Killer-2025-คาเลนดาร์คิลเลอร์-วันสั่งตาย.png",
+"url": "https://main.24playerhd.com/newplaylist/1b5fd4d95c2691866e9c8db4/1b5fd4d95c2691866e9c8db4.m3u8",
+"referer": ""
+},
+{
+"name": "The Calendar Killer (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/01/The-Calendar-Killer-2025-คาเลนดาร์คิลเลอร์-วันสั่งตาย.png",
+"url": "https://main.24playerhd.com/newplaylist/0c59d7e80af91b9b6bcbb2fc/0c59d7e80af91b9b6bcbb2fc.m3u8",
+"referer": ""
+},
+{
+"name": "Luccas World (2025) โลกของลุคก้า",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/02/Luccas-World-2025-โลกของลุคก้า.png",
+"url": "https://main.24playerhd.com/newplaylist/ba2cd037ae8be61cb9d364f8/ba2cd037ae8be61cb9d364f8.m3u8",
+"referer": ""
+},
+{
+"name": "เซลล์ขยันพันธุ์เดือด (2024)",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Cells-at-Work-2024-เซลล์ขยันพันธุ์เดือด.png",
+"url": "https://main.24playerhd.com/newplaylist/5e556dac0baff6628fa54422/5e556dac0baff6628fa54422.m3u8",
+"referer": ""
+},
+{
+"name": "Cells at Work (2024)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Cells-at-Work-2024-เซลล์ขยันพันธุ์เดือด.png",
+"url": "https://main.24playerhd.com/newplaylist/c28bf1465828c0ff47cbf645/c28bf1465828c0ff47cbf645.m3u8",
+"referer": ""
+},
+{
+"name": "Drug Storm (2025) พายุยาเสพติด",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Drug-Storm-2025-พายุยาเสพติด.png",
+"url": "https://main.24playerhd.com/newplaylist/a89dccdb74a0d256df92b464/a89dccdb74a0d256df92b464.m3u8",
+"referer": ""
+},
+{
+"name": "Clash (2025) พุ่งชนคนกีฬา",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Clash-2025-พุ่งชนคนกีฬา.png",
+"url": "https://main.24playerhd.com/newplaylist/4da6388c0f1a20c2f3aa9d36/4da6388c0f1a20c2f3aa9d36.m3u8",
+"referer": ""
+},
+{
+"name": "The Surfer (2024) กูจะเซิร์ฟ",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/The-Surfer-2024-กูจะเซิร์ฟ.png",
+"url": "https://main.24playerhd.com/newplaylist/24b44219d1358ecde3d06823/24b44219d1358ecde3d06823.m3u8",
+"referer": ""
+},
+{
+"name": "Echo Valley (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Echo-Valley-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/e478fbef774e38967fdb04b6/e478fbef774e38967fdb04b6.m3u8",
+"referer": ""
+},
+{
+"name": "ภารกิจด้นสด ปลดล็อกสกิลรั่ว (2025)",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Deep-Cover-2025-ภารกิจด้นสด-ปลดล็อกสกิลรั่ว.png",
+"url": "https://main.24playerhd.com/newplaylist/2ea8fcf0c2fe03f1b5d0444c/2ea8fcf0c2fe03f1b5d0444c.m3u8",
+"referer": ""
+},
+{
+"name": "Deep Cover (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Deep-Cover-2025-ภารกิจด้นสด-ปลดล็อกสกิลรั่ว.png",
+"url": "https://main.24playerhd.com/newplaylist/8c76088c96246ae49cdf0b2d/8c76088c96246ae49cdf0b2d.m3u8",
+"referer": ""
+},
+{
+"name": "Punch Drunk Love (2023)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Punch-Drunk-Love-2023.png",
+"url": "https://main.24playerhd.com/newplaylist/0577138c4a06281a53491584/0577138c4a06281a53491584.m3u8",
+"referer": ""
+},
+{
+"name": "A Reason to Live (2011)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/A-Reason-to-Live-2011.png",
+"url": "https://main.24playerhd.com/newplaylist/f3be12b02331a55300bb0b87/f3be12b02331a55300bb0b87.m3u8",
+"referer": ""
+},
+{
+"name": "เชียร์ส ทู ไลฟ์ (2024)",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Cheers-to-Life-2024-เชียร์ส-ทู-ไลฟ์.png",
+"url": "https://main.24playerhd.com/newplaylist/6419ab864a1ad0dd24ba5fb8/6419ab864a1ad0dd24ba5fb8.m3u8",
+"referer": ""
+},
+{
+"name": "Cheers to Life (2024)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Cheers-to-Life-2024-เชียร์ส-ทู-ไลฟ์.png",
+"url": "https://main.24playerhd.com/newplaylist/4b9e82c1e59b1dcb80c437bd/4b9e82c1e59b1dcb80c437bd.m3u8",
+"referer": ""
+},
+{
+"name": "Our Times (2025) ข้ามเวลาของสองเรา",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Our-Times-2025-ข้ามเวลาของสองเรา.png",
+"url": "https://main.24playerhd.com/newplaylist/712a736cf5ced288dd7211c0/712a736cf5ced288dd7211c0.m3u8",
+"referer": ""
+},
+{
+"name": "How to Train Your Dragon (2025) อภินิหารไวกิ้งพิชิตมังกร",
+"info": "พากย์ไทยโรง",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/How-to-Train-Your-Dragon-2025-อภินิหารไวกิ้งพิชิตมังกร.png",
+"url": "https://main.24playerhd.com/newplaylist/1825a5cc6e66ba28c608d269/1825a5cc6e66ba28c608d269.m3u8",
+"referer": ""
+},
+{
+"name": "The Demon’s Bride (2025) รันตี แต่งผี ปลุกปีศาจ",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/The-Demons-Bride-2025-รันตี-แต่งผี-ปลุกปีศาจ.png",
+"url": "https://main.24playerhd.com/newplaylist/dd36371e547176bf541a3a34/dd36371e547176bf541a3a34.m3u8",
+"referer": ""
+},
+{
+"name": "Flat Girls (2025) แฟลตเกิร์ล ชั้นห่างระหว่าง เ ร า",
+"info": "HD/TH",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Flat-Girls-2025-แฟลตเกิร์ล-ชั้นห่างระหว่าง-เ-ร-า.png",
+"url": "https://main.24playerhd.com/newplaylist/d791664c5220d7448c8412b5/d791664c5220d7448c8412b5.m3u8",
+"referer": ""
+},
+{
+"name": "สโนว์ไวท์ (2025)",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Snow-White-2025-สโนว์ไวท์.png",
+"url": "https://main.24playerhd.com/newplaylist/fcf3a974ed866a5e5651adca/fcf3a974ed866a5e5651adca.m3u8",
+"referer": ""
+},
+{
+"name": "Snow White (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Snow-White-2025-สโนว์ไวท์.png",
+"url": "https://main.24playerhd.com/newplaylist/82d2ca6cc5263373815ab99d/82d2ca6cc5263373815ab99d.m3u8",
+"referer": ""
+},
+{
+"name": "Snake (2025) นางพญาอสรพิษ",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Snake-2025-นางพญาอสรพิษ.png",
+"url": "https://main.24playerhd.com/newplaylist/ab4289f618d4ad2987cd989d/ab4289f618d4ad2987cd989d.m3u8",
+"referer": ""
+},
+{
+"name": "Monk Will You Marry Monk? (2025) แต่งMonk ฉบับสุดท้าย",
+"info": "HD/TH",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Monk-Will-You-Marry-Monk-2025-แต่งMonk-ฉบับสุดท้าย.png",
+"url": "https://main.24playerhd.com/newplaylist/b92fd328e92ffd509c7dbaa7/b92fd328e92ffd509c7dbaa7.m3u8",
+"referer": ""
+},
+{
+"name": "Broke (2025) ขุมเยือกแข็ง",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Broke-2025-ขุมเยือกแข็ง.png",
+"url": "https://main.24playerhd.com/newplaylist/00d1e5e3aaf1189d796e5386/00d1e5e3aaf1189d796e5386.m3u8",
+"referer": ""
+},
+{
+"name": "Ocean with David Attenborough (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Ocean-with-David-Attenborough-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/b9e02726ce3e6eed74d0efaf/b9e02726ce3e6eed74d0efaf.m3u8",
+"referer": ""
+},
+{
+"name": "ด็อกแมน (2025)",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Dog-Man-2025-ด็อกแมน.png",
+"url": "https://main.24playerhd.com/newplaylist/4f4ad8080b2777bd8fbb4bd0/4f4ad8080b2777bd8fbb4bd0.m3u8",
+"referer": ""
+},
+{
+"name": "Dog Man (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Dog-Man-2025-ด็อกแมน.png",
+"url": "https://main.24playerhd.com/newplaylist/048b62307674db79925a98d2/048b62307674db79925a98d2.m3u8",
+"referer": ""
+},
+{
+"name": "Ant Mutation Crisis (2025) มดมรณะกลายพันธุ์",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Ant-Mutation-Crisis-2025-มดมรณะกลายพันธุ์.png",
+"url": "https://main.24playerhd.com/newplaylist/e995be3a71e4735261fab191/e995be3a71e4735261fab191.m3u8",
+"referer": ""
+},
+{
+"name": "Jaat (2025) เดือดล้างอิทธิพล",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Jaat-2025-เดือดล้างอิทธิพล.png",
+"url": "https://main.24playerhd.com/newplaylist/685c8eea9a229db770e2478a/685c8eea9a229db770e2478a.m3u8",
+"referer": ""
+},
+{
+"name": "Bhool Chuk Maaf (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Bhool-Chuk-Maaf-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/4791cc1e810255e0f2cafd0d/4791cc1e810255e0f2cafd0d.m3u8",
+"referer": ""
+},
+{
+"name": "The Alto Knights (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/The-Alto-Knights-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/4b7397bbf7b04c4fa372e7a3/4b7397bbf7b04c4fa372e7a3.m3u8",
+"referer": ""
+},
+{
+"name": "Predator Killer of Killers (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Predator-Killer-of-Killers-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/27262776148c38779f2f1f60/27262776148c38779f2f1f60.m3u8",
+"referer": ""
+},
+{
+"name": "น็อกเอาท์ (2025)",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/K.O.-2025-น็อกเอาท์.png",
+"url": "https://main.24playerhd.com/newplaylist/550763acbd3c0aa0b4e6340c/550763acbd3c0aa0b4e6340c.m3u8",
+"referer": ""
+},
+{
+"name": "K.O. (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/K.O.-2025-น็อกเอาท์.png",
+"url": "https://main.24playerhd.com/newplaylist/6561d7a481b76a9061042ab6/6561d7a481b76a9061042ab6.m3u8",
+"referer": ""
+},
+{
+"name": "ฟางเส้นสุดท้าย (2025)",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Straw-2025-ฟางเส้นสุดท้าย.png",
+"url": "https://main.24playerhd.com/newplaylist/cd0eb54e11f9459773a15ba1/cd0eb54e11f9459773a15ba1.m3u8",
+"referer": ""
+},
+{
+"name": "Straw (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Straw-2025-ฟางเส้นสุดท้าย.png",
+"url": "https://main.24playerhd.com/newplaylist/1d7a49be974528786ef66ba6/1d7a49be974528786ef66ba6.m3u8",
+"referer": ""
+},
+{
+"name": "Angry Rescue (2025) กู้ภัยตัวตึง",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Angry-Rescue-2025-กู้ภัยตัวตึง.png",
+"url": "https://main.24playerhd.com/newplaylist/a5b79df589bb4504e6ab919d/a5b79df589bb4504e6ab919d.m3u8",
+"referer": ""
+},
+{
+"name": "Pets (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Pets-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/5dd533eb280eb5393dd89381/5dd533eb280eb5393dd89381.m3u8",
+"referer": ""
+},
+{
+"name": "จบทั้งทีต้องไปตี้ที่มาญอร์ก้า (2025)",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Graduation-Trip-Mallorca-2025-จบทั้งทีต้องไปตี้ที่มาญอร์ก้า.png",
+"url": "https://main.24playerhd.com/newplaylist/08d2c0c6d103ddd775d25e23/08d2c0c6d103ddd775d25e23.m3u8",
+"referer": ""
+},
+{
+"name": "Graduation Trip Mallorca (2025) จบทั้งทีต้องไปตี้ที่มาญอร์ก้า",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Graduation-Trip-Mallorca-2025-จบทั้งทีต้องไปตี้ที่มาญอร์ก้า.png",
+"url": "https://main.24playerhd.com/newplaylist/c8e353741db94bf6c3c98e99/c8e353741db94bf6c3c98e99.m3u8",
+"referer": ""
+},
+{
+"name": "อัจฉริยะคนบัญชีเพชฌฆาต 2 (2025)",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/The-Accountant-2-2025-อัจฉริยะคนบัญชีเพชฌฆาต-2.png",
+"url": "https://main.24playerhd.com/newplaylist/8ddd3db9f33a0287db214610/8ddd3db9f33a0287db214610.m3u8",
+"referer": ""
+},
+{
+"name": "The Accountant 2 (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/The-Accountant-2-2025-อัจฉริยะคนบัญชีเพชฌฆาต-2.png",
+"url": "https://main.24playerhd.com/newplaylist/49f6f9a5113e7f9fe8e96eb0/49f6f9a5113e7f9fe8e96eb0.m3u8",
+"referer": ""
+},
+{
+"name": "Bloodblade in the Snow (2025) ดาบพิฆาตกลางหิมะ",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Bloodblade-in-the-Snow-2025-ดาบพิฆาตกลางหิมะ.png",
+"url": "https://main.24playerhd.com/newplaylist/accf2da167b9b48f5130d82b/accf2da167b9b48f5130d82b.m3u8",
+"referer": ""
+},
+{
+"name": "An Abundance of Dunes (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/An-Abundance-of-Dunes-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/0b14309074f08b7382442d40/0b14309074f08b7382442d40.m3u8",
+"referer": ""
+},
+{
+"name": "Sinners (2025) ซินเนอร์ส",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Sinners-2025-ซินเนอร์ส.png",
+"url": "https://main.24playerhd.com/newplaylist/5707f4370958c12390c85b43/5707f4370958c12390c85b43.m3u8",
+"referer": ""
+},
+{
+"name": "Mumu (2025) รักที่ไม่เอื้อนเอ่ย",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Mumu-2025-รักที่ไม่เอื้อนเอ่ย.png",
+"url": "https://main.24playerhd.com/newplaylist/7787a1aee2d5295cffca015c/7787a1aee2d5295cffca015c.m3u8",
+"referer": ""
+},
+{
+"name": "Lulu Is a Rhinoceros (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/Lulu-Is-a-Rhinoceros-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/8157729069b9fe3beb617335/8157729069b9fe3beb617335.m3u8",
+"referer": ""
+},
+{
+"name": "The Unbreakable Boy (2025) เด็กชายหัวใจไม่แพ้",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/06/The-Unbreakable-Boy-2025-เด็กชายหัวใจไม่แพ้.png",
+"url": "https://main.24playerhd.com/newplaylist/d0bb67f463f57f7464e80429/d0bb67f463f57f7464e80429.m3u8",
+"referer": ""
+},
+{
+"name": "Holy Night Demon Hunters (2025) ฅนต่อยผี",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Holy-Night-Demon-Hunters-2025-ฅนต่อยผี.png",
+"url": "https://main.24playerhd.com/newplaylist/0b385370bbf2c9f998bfb8c7/0b385370bbf2c9f998bfb8c7.m3u8",
+"referer": ""
+},
+{
+"name": "Lost in Starlight (2025) เลือนหายในแสงดาว",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Lost-in-Starlight-2025-เลือนหายในแสงดาว.png",
+"url": "https://main.24playerhd.com/newplaylist/eadac911baf7637108bffc5b/eadac911baf7637108bffc5b.m3u8",
+"referer": ""
+},
+{
+"name": "กลเกมแม่ม่าย (2025)",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/A-Widows-Game-2025-กลเกมแม่ม่าย.png",
+"url": "https://main.24playerhd.com/newplaylist/5678c64034191519109cb431/5678c64034191519109cb431.m3u8",
+"referer": ""
+},
+{
+"name": "A Widow’s Game (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/A-Widows-Game-2025-กลเกมแม่ม่าย.png",
+"url": "https://main.24playerhd.com/newplaylist/e329d7a39402585a8b4bc508/e329d7a39402585a8b4bc508.m3u8",
+"referer": ""
+},
+{
+"name": "หัวใจรู้เอง (2025)",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/The-Heart-Knows-2025-หัวใจรู้เอง.png",
+"url": "https://main.24playerhd.com/newplaylist/1eac1a467b2ae2b8b1d50259/1eac1a467b2ae2b8b1d50259.m3u8",
+"referer": ""
+},
+{
+"name": "The Heart Knows (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/The-Heart-Knows-2025-หัวใจรู้เอง.png",
+"url": "https://main.24playerhd.com/newplaylist/7bd101b5a729dc1956714098/7bd101b5a729dc1956714098.m3u8",
+"referer": ""
+},
+{
+"name": "Good Bad Ugly (2025) ดี ชั่ว ก็ลุยดะ",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Good-Bad-Ugly-2025-ดี-ชั่ว-ก็ลุยดะ.png",
+"url": "https://main.24playerhd.com/newplaylist/e9a86b8278dfca8ad7cba7bc/e9a86b8278dfca8ad7cba7bc.m3u8",
+"referer": ""
+},
+{
+"name": "Everything About My Wife (2025) แผนลวงรัก",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Everything-About-My-Wife-2025-แผนลวงรัก.png",
+"url": "https://main.24playerhd.com/newplaylist/fe4946a0c54569b442225c11/fe4946a0c54569b442225c11.m3u8",
+"referer": ""
+},
+{
+"name": "กัปตัน อเมริกา ศึกฮีโร่จักรวาลใหม่ (2025)",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/02/Captain-America-Brave-New-World-2025-กัปตัน-อเมริกา-ศึกฮีโร่จักรวาลใหม่-1.png",
+"url": "https://main.24playerhd.com/newplaylist/21be93ff1a33fb9d2ed68df8/21be93ff1a33fb9d2ed68df8.m3u8",
+"referer": ""
+},
+{
+"name": "Captain America Brave New World (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/02/Captain-America-Brave-New-World-2025-กัปตัน-อเมริกา-ศึกฮีโร่จักรวาลใหม่-1.png",
+"url": "https://main.24playerhd.com/newplaylist/f85307f3c919185d98447a84/f85307f3c919185d98447a84.m3u8",
+"referer": ""
+},
+{
+"name": "Ex Ex Lovers (2025) อดีตแฟนเก่า",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Ex-Ex-Lovers-2025-อดีตแฟนเก่า.png",
+"url": "https://main.24playerhd.com/newplaylist/6e6909c9f0b5d848d24159e7/6e6909c9f0b5d848d24159e7.m3u8",
+"referer": ""
+},
+{
+"name": "Until Dawn (2025) ต้องรอดก่อนย่ำรุ่ง",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Until-Dawn-2025-ต้องรอดก่อนย่ำรุ่ง.png",
+"url": "https://main.24playerhd.com/newplaylist/30f62c1a18e42851cda19097/30f62c1a18e42851cda19097.m3u8",
+"referer": ""
+},
+{
+"name": "Sikandar (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Sikandar-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/7ea09dcff6073521ce0d985f/7ea09dcff6073521ce0d985f.m3u8",
+"referer": ""
+},
+{
+"name": "Steel Rose (2025) กุหลาบสายฟ้า",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Steel-Rose-2025-กุหลาบสายฟ้า.png",
+"url": "https://main.24playerhd.com/newplaylist/e6e07a6338dd2dfcf161efde/e6e07a6338dd2dfcf161efde.m3u8",
+"referer": ""
+},
+{
+"name": "Art of the Devil Beginning (2025) พนอ",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/01/Art-of-the-Devil-Beginning-2025-พนอ.png",
+"url": "https://main.24playerhd.com/newplaylist/27f2eea731744d8a864e5c5a/27f2eea731744d8a864e5c5a.m3u8",
+"referer": ""
+},
+{
+"name": "A Working Man (2025) นรกหยุดนรก",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/A-Working-Man-2025-นรกหยุดนรก.png",
+"url": "https://main.24playerhd.com/newplaylist/36b174cc0a0065c3a29ea60b/36b174cc0a0065c3a29ea60b.m3u8",
+"referer": ""
+},
+{
+"name": "A Working Man (2025) นรกหยุดนรก",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/A-Working-Man-2025-นรกหยุดนรก.png",
+"url": "https://main.24playerhd.com/newplaylist/36b174cc0a0065c3a29ea60b/36b174cc0a0065c3a29ea60b.m3u8",
+"referer": ""
+},
+{
+"name": "The Bayou (2025) มฤตยูงาบ",
+"info": "พากย์ไทย",
+"image": "https://media.themoviedb.org/t/p/w440_and_h660_face/v3KHHM2Mn4U8tgDv3YUkYY57vcZ.jpg",
+"url": "https://main.24playerhd.com/newplaylist/615f03f86d1f3dda6a238ce9/615f03f86d1f3dda6a238ce9.m3u8",
+"referer": ""
+},
+{
+"name": "The Bayou (2025) มฤตยูงาบ",
+"info": "ซับไทย",
+"image": "https://media.themoviedb.org/t/p/w440_and_h660_face/v3KHHM2Mn4U8tgDv3YUkYY57vcZ.jpg",
+"url": "https://main.24playerhd.com/newplaylist/615f03f86d1f3dda6a238ce9/615f03f86d1f3dda6a238ce9.m3u8",
+"referer": ""
+},
+{
+"name": "The Crow (2024) อีกาพญายม",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/The-Crow-2024-อีกาพญายม.png",
+"url": "https://main.24playerhd.com/newplaylist/b09126699cc146571e77d4a6/b09126699cc146571e77d4a6.m3u8",
+"referer": ""
+},
+{
+"name": "The Crow (2024) อีกาพญายม",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/The-Crow-2024-อีกาพญายม.png",
+"url": "https://main.24playerhd.com/newplaylist/b09126699cc146571e77d4a6/b09126699cc146571e77d4a6.m3u8",
+"referer": ""
+},
+{
+"name": "The Ugly Stepsister (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/The-Ugly-Stepsister-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/9b9bfb87d23bb088c73731cb/9b9bfb87d23bb088c73731cb.m3u8",
+"referer": ""
+},
+{
+"name": "Snow White (2025) สโนว์ไวท์",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Snow-White-2025-สโนว์ไวท์.png",
+"url": "https://main.24playerhd.com/newplaylist/1bd66b1cd61988940cb48b66/1bd66b1cd61988940cb48b66.m3u8",
+"referer": ""
+},
+{
+"name": "Snow White (2025) สโนว์ไวท์",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Snow-White-2025-สโนว์ไวท์.png",
+"url": "https://main.24playerhd.com/newplaylist/1bd66b1cd61988940cb48b66/1bd66b1cd61988940cb48b66.m3u8",
+"referer": ""
+},
+{
+"name": "A Minecraft Movie (2025) ไมน์คราฟต์ มูฟวี่",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/A-Minecraft-Movie-2025-ไมน์คราฟต์-มูฟวี่.png",
+"url": "https://main.24playerhd.com/newplaylist/1665e5b013cc5472128215f5/1665e5b013cc5472128215f5.m3u8",
+"referer": ""
+},
+{
+"name": "A Minecraft Movie (2025) ไมน์คราฟต์ มูฟวี่",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/A-Minecraft-Movie-2025-ไมน์คราฟต์-มูฟวี่.png",
+"url": "https://main.24playerhd.com/newplaylist/1665e5b013cc5472128215f5/1665e5b013cc5472128215f5.m3u8",
+"referer": ""
+},
+{
+"name": "Batman Ninja vs Yakuza League (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Batman-Ninja-vs-Yakuza-League-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/00b17fcf647a99393c673577/00b17fcf647a99393c673577.m3u8",
+"referer": ""
+},
+{
+"name": "Blind Murder (2025) นักฆ่าตาบอด",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Blind-Murder-2025-นักฆ่าตาบอด.png",
+"url": "https://main.24playerhd.com/newplaylist/610359673adbd6bd0a3f7df5/610359673adbd6bd0a3f7df5.m3u8",
+"referer": ""
+},
+{
+"name": "The Mystery Of The Silk (2025) ปริศนาผ้าไหม",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/The-Mystery-Of-The-Silk-2025-ปริศนาผ้าไหม.png",
+"url": "https://main.24playerhd.com/newplaylist/9cba9be19cf00f5c4960aed4/9cba9be19cf00f5c4960aed4.m3u8",
+"referer": ""
+},
+{
+"name": "The Old Way (2025) กระสุนเดียว ชี้ตาย",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/The-Old-Way-2025-กระสุนเดียว-ชี้ตาย.png",
+"url": "https://main.24playerhd.com/newplaylist/f882a3222fa1afae20264a51/f882a3222fa1afae20264a51.m3u8",
+"referer": ""
+},
+{
+"name": "Night of Deception (2025) คืนลวง",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Night-of-Deception-2025-คืนลวง.png",
+"url": "https://main.24playerhd.com/newplaylist/05915afd901e1019e6b5263a/05915afd901e1019e6b5263a.m3u8",
+"referer": ""
+},
+{
+"name": "Bad Influence (2025) วัยรักอันตราย",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Bad-Influence-2025-วัยรักอันตราย.png",
+"url": "https://main.24playerhd.com/newplaylist/ea878654d6a66a9cdc70aee6/ea878654d6a66a9cdc70aee6.m3u8",
+"referer": ""
+},
+{
+"name": "Bad Influence (2025) วัยรักอันตราย",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Bad-Influence-2025-วัยรักอันตราย.png",
+"url": "https://main.24playerhd.com/newplaylist/ea878654d6a66a9cdc70aee6/ea878654d6a66a9cdc70aee6.m3u8",
+"referer": ""
+},
+{
+"name": "Nonnas (2025) รักนะย่ายายจ๋า",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Nonnas-2025-รักนะย่ายายจ๋า.png",
+"url": "https://main.24playerhd.com/newplaylist/bf0b34fc77551817fad1586a/bf0b34fc77551817fad1586a.m3u8",
+"referer": ""
+},
+{
+"name": "Nonnas (2025) รักนะย่ายายจ๋า",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Nonnas-2025-รักนะย่ายายจ๋า.png",
+"url": "https://main.24playerhd.com/newplaylist/bf0b34fc77551817fad1586a/bf0b34fc77551817fad1586a.m3u8",
+"referer": ""
+},
+{
+"name": "Holy Night Demon Hunters (2025) ฅนต่อยผี",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Holy-Night-Demon-Hunters-2025-ฅนต่อยผี.png",
+"url": "https://main.24playerhd.com/newplaylist/c77e05ec12ced134bf105c36/c77e05ec12ced134bf105c36.m3u8",
+"referer": ""
+},
+{
+"name": "Lost Bullet 3",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Last-Bullet-2025-แรงทะลุกระสุน-3.png",
+"url": "https://main.24playerhd.com/newplaylist/449127cc06dbce1b37d737e8/449127cc06dbce1b37d737e8.m3u8",
+"referer": ""
+},
+{
+"name": "Lost Bullet 3",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Last-Bullet-2025-แรงทะลุกระสุน-3.png",
+"url": "https://main.24playerhd.com/newplaylist/8316c67d69ead9c08faaef0e/8316c67d69ead9c08faaef0e.m3u8",
+"referer": ""
+},
+{
+"name": "The Assessment (2025) ชีวิตลิขิตไม่ได้",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/The-Assessment-2025-ชีวิตลิขิตไม่ได้.png",
+"url": "https://main.24playerhd.com/newplaylist/abfbe30b725ef7cce5764b6b/abfbe30b725ef7cce5764b6b.m3u8",
+"referer": ""
+},
+{
+"name": "The Assessment (2025) ชีวิตลิขิตไม่ได้",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/The-Assessment-2025-ชีวิตลิขิตไม่ได้.png",
+"url": "https://main.24playerhd.com/newplaylist/abfbe30b725ef7cce5764b6b/abfbe30b725ef7cce5764b6b.m3u8",
+"referer": ""
+},
+{
+"name": "The Match (2025)",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/The-Match-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/1ec7756206ec7c9e715f53d4/1ec7756206ec7c9e715f53d4.m3u8",
+"referer": ""
+},
+{
+"name": "The Match (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/The-Match-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/1ec7756206ec7c9e715f53d4/1ec7756206ec7c9e715f53d4.m3u8",
+"referer": ""
+},
+{
+"name": "Warfare (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Warfare-2025-1.png",
+"url": "https://main.24playerhd.com/newplaylist/867a709ef6bbe1ce44989e98/867a709ef6bbe1ce44989e98.m3u8",
+"referer": ""
+},
+{
+"name": "The Seat (2025) ที่นั่งหนึ่งเดียว",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/The-Seat-2025-ที่นั่งหนึ่งเดียว.png",
+"url": "https://main.24playerhd.com/newplaylist/81108465e5506135951ff4a3/81108465e5506135951ff4a3.m3u8",
+"referer": ""
+},
+{
+"name": "Chhaava (2025) มหาราชาหัวใจสิงห์",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Chhaava-2025-มหาราชาหัวใจสิงห์.png",
+"url": "https://main.24playerhd.com/newplaylist/377b5253759fafa306a825c8/377b5253759fafa306a825c8.m3u8",
+"referer": ""
+},
+{
+"name": "Britain and the Blitz (2025) ยุทธการเดอะบลิตซ์พิชิตอังกฤษ",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Britain-and-the-Blitz-2025-ยุทธการเดอะบลิตซ์พิชิตอังกฤษ.png",
+"url": "https://main.24playerhd.com/newplaylist/bdcfd6614ed914cd2ad6d894/bdcfd6614ed914cd2ad6d894.m3u8",
+"referer": ""
+},
+{
+"name": "Drop (2025) รับคำสั่งตาย",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Drop-2025-รับคำสั่งตาย.png",
+"url": "https://main.24playerhd.com/newplaylist/39dc0340080889f31c46c834/39dc0340080889f31c46c834.m3u8",
+"referer": ""
+},
+{
+"name": "Detective Chinatown 1900 (2025) แก๊งม่วนป่วนอเมริกา",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Detective-Chinatown-1900-2025-แก๊งม่วนป่วนอเมริกา.png",
+"url": "https://main.24playerhd.com/newplaylist/5ff788ba17b79bd93945679d/5ff788ba17b79bd93945679d.m3u8",
+"referer": ""
+},
+{
+"name": "The Day the Earth Blew Up A Looney Tunes Movie (2024) ลูนี่ย์ ทูนส์ มูฟวี่ วันซอมบี้บุกโลก",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/The-Day-the-Earth-Blew-Up-A-Looney-Tunes-Movie-2024-ลูนี่ย์-ทูนส์-มูฟวี่-วันซอมบี้บุกโลก.png",
+"url": "https://main.24playerhd.com/newplaylist/3c0142afccf4903555a1b5d0/3c0142afccf4903555a1b5d0.m3u8",
+"referer": ""
+},
+{
+"name": "Detective Di Renjie The Deadly Monk (2025) ตี๋เหรินเจี๋ยกับนักบวชมรณะ",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Detective-Di-Renjie-The-Deadly-Monk-2025-ตี๋เหรินเจี๋ยกับนักบวชมรณะ.png",
+"url": "https://main.24playerhd.com/newplaylist/5ff788ba17b79bd93945679d/5ff788ba17b79bd93945679d.m3u8",
+"referer": ""
+},
+{
+"name": "WANTED (2025) ประกาศจับเจียงหู",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/WANTED-2025-ประกาศจับเจียงหู.png",
+"url": "https://main.24playerhd.com/newplaylist/7bedfc9f18d6dba94960b205/7bedfc9f18d6dba94960b205.m3u8",
+"referer": ""
+},
+{
+"name": "Another Simple Favor (2025) เพื่อนหาย อย่าหา 2",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Another-Simple-Favor-2025-เพื่อนหาย-อย่าหา-2.png",
+"url": "https://main.24playerhd.com/newplaylist/39367f844594cf54f004da01/39367f844594cf54f004da01.m3u8",
+"referer": ""
+},
+{
+"name": "Another Simple Favor (2025) เพื่อนหาย อย่าหา 2",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Another-Simple-Favor-2025-เพื่อนหาย-อย่าหา-2.png",
+"url": "https://main.24playerhd.com/newplaylist/39367f844594cf54f004da01/39367f844594cf54f004da01.m3u8",
+"referer": ""
+},
+{
+"name": "The Legend of the Condor Heroes The Gallants (2025) มังกรหยก จอมยุทธ์ผู้ยิ่งใหญ่",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/The-Legend-of-the-Condor-Heroes-The-Gallants-2025-มังกรหยก-จอมยุทธ์ผู้ยิ่งใหญ่.png",
+"url": "https://main.24playerhd.com/newplaylist/8ac7c16c07c06bab46fb77a6/8ac7c16c07c06bab46fb77a6.m3u8",
+"referer": ""
+},
+{
+"name": "The Legend of the Condor Heroes The Gallants (2025) มังกรหยก จอมยุทธ์ผู้ยิ่งใหญ่",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/The-Legend-of-the-Condor-Heroes-The-Gallants-2025-มังกรหยก-จอมยุทธ์ผู้ยิ่งใหญ่.png",
+"url": "https://main.24playerhd.com/newplaylist/8ac7c16c07c06bab46fb77a6/8ac7c16c07c06bab46fb77a6.m3u8",
+"referer": ""
+},
+{
+"name": "GTO Revival (2024) คุณครูพันธุ์หายาก",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/GTO-Revival-2024-คุณครูพันธุ์หายาก.png",
+"url": "https://main.24playerhd.com/newplaylist/4fb5ceb1800abd36b3ff73f2/4fb5ceb1800abd36b3ff73f2.m3u8",
+"referer": ""
+},
+{
+"name": "The Biggest Fan (2025) แฟนพันธุ์แท้",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/The-Biggest-Fan-2025-แฟนพันธุ์แท้.png",
+"url": "https://main.24playerhd.com/newplaylist/7799ab9462e70046820b6d21/7799ab9462e70046820b6d21.m3u8",
+"referer": ""
+},
+{
+"name": "Exterritorial (2025) พลิกแผนลับลวงระทึก",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Exterritorial-2025-พลิกแผนลับลวงระทึก.png",
+"url": "https://main.24playerhd.com/newplaylist/02cca90a7e2414b61c643703/02cca90a7e2414b61c643703.m3u8",
+"referer": ""
+},
+{
+"name": "Exterritorial (2025) พลิกแผนลับลวงระทึก",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/Exterritorial-2025-พลิกแผนลับลวงระทึก.png",
+"url": "https://main.24playerhd.com/newplaylist/02cca90a7e2414b61c643703/02cca90a7e2414b61c643703.m3u8",
+"referer": ""
+},
+{
+"name": "GATAO Like Father Like Son (2024) เจ้าพ่อ เชื้อร้ายไม่ทิ้งแถว",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/GATAO-Like-Father-Like-Son-2024-เจ้าพ่อ-เชื้อร้ายไม่ทิ้งแถว.png",
+"url": "https://main.24playerhd.com/newplaylist/c14374bf479f719878c2d860/c14374bf479f719878c2d860.m3u8",
+"referer": ""
+},
+{
+"name": "The Rose of Versailles (2025) กุหลาบแวร์ซายส์",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/The-Rose-of-Versailles-2025-กุหลาบแวร์ซายส์.png",
+"url": "https://main.24playerhd.com/newplaylist/038df4b3766d7357eb398048/038df4b3766d7357eb398048.m3u8",
+"referer": ""
+},
+{
+"name": "The Rose of Versailles (2025) กุหลาบแวร์ซายส์",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/The-Rose-of-Versailles-2025-กุหลาบแวร์ซายส์.png",
+"url": "https://main.24playerhd.com/newplaylist/038df4b3766d7357eb398048/038df4b3766d7357eb398048.m3u8",
+"referer": ""
+},
+{
+"name": "The Demon Hunter (2025) นักล่าวิญญาณ",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/05/The-Demon-Hunter-2025-นักล่าวิญญาณ.png",
+"url": "https://main.24playerhd.com/newplaylist/8e4417bd977043876c37dc3a/8e4417bd977043876c37dc3a.m3u8",
+"referer": ""
+},
+{
+"name": "Freaky Tales (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Freaky-Tales-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/290ee9765feb67959fac4b51/290ee9765feb67959fac4b51.m3u8",
+"referer": ""
+},
+{
+"name": "Money Games (2025) ขบวนการปราบเงินตุ๋น",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Money-Games-2025-ขบวนการปราบเงินตุ๋น.png",
+"url": "https://main.24playerhd.com/newplaylist/b1f79acddca468431d2b5587/b1f79acddca468431d2b5587.m3u8",
+"referer": ""
+},
+{
+"name": "Figth Break Sphere ภาค 4",
+"info": "ซับไทย",
+"image": "https://main.24playerhd.com/wp-content/uploads/2025/04/Figth-Break-Sphere-4-2025-สัประยุทธ์ทะลุฟ้า-4.png",
+"url": "https://main.24playerhd.com/newplaylist/a1afb49f7985a08ec316ac9b/a1afb49f7985a08ec316ac9b.m3u8",
+"referer": ""
+},
+{
+"name": "Novocaine (2025) มิสเตอร์โคตรคนทรหด",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Novocaine-2025-มิสเตอร์โคตรคนทรหด.png",
+"url": "https://main.24playerhd.com/newplaylist/c957074102de6739a0f7c00a/c957074102de6739a0f7c00a.m3u8",
+"referer": ""
+},
+{
+"name": "Novocaine (2025) มิสเตอร์โคตรคนทรหด",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Novocaine-2025-มิสเตอร์โคตรคนทรหด.png",
+"url": "https://main.24playerhd.com/newplaylist/c957074102de6739a0f7c00a/c957074102de6739a0f7c00a.m3u8",
+"referer": ""
+},
+{
+"name": "Figth Break Sphere ภาค 3",
+"info": "ซับไทย",
+"image": "https://main.24playerhd.com/wp-content/uploads/2025/04/Figth-Break-Sphere-3-2025-สัประยุทธ์ทะลุฟ้า-3.png",
+"url": "https://main.24playerhd.com/newplaylist/702521ad575dba8890a4f8a9/702521ad575dba8890a4f8a9.m3u8",
+"referer": ""
+},
+{
+"name": "Havoc (2025) ฝ่าหายนะครองเมือง",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Havoc-2025-ฝ่าหายนะครองเมือง.png",
+"url": "https://main.24playerhd.com/newplaylist/ac6c9eb592e6f281af432f91/ac6c9eb592e6f281af432f91.m3u8",
+"referer": ""
+},
+{
+"name": "Havoc (2025) ฝ่าหายนะครองเมือง",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Havoc-2025-ฝ่าหายนะครองเมือง.png",
+"url": "https://main.24playerhd.com/newplaylist/ac6c9eb592e6f281af432f91/ac6c9eb592e6f281af432f91.m3u8",
+"referer": ""
+},
+{
+"name": "Jewel Thief The Heist Begins (2025) จอมโจรอัญมณี เริ่มแผนโจรกรรม",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Jewel-Thief-The-Heist-Begins-2025-จอมโจรอัญมณี-เริ่มแผนโจรกรรม.png",
+"url": "https://main.24playerhd.com/newplaylist/0b933cabc9dd17182c53c274/0b933cabc9dd17182c53c274.m3u8",
+"referer": ""
+},
+{
+"name": "Jewel Thief The Heist Begins (2025) จอมโจรอัญมณี เริ่มแผนโจรกรรม",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Jewel-Thief-The-Heist-Begins-2025-จอมโจรอัญมณี-เริ่มแผนโจรกรรม.png",
+"url": "https://main.24playerhd.com/newplaylist/0b933cabc9dd17182c53c274/0b933cabc9dd17182c53c274.m3u8",
+"referer": ""
+},
+{
+"name": "The Accountant 2 (2025) อัจฉริยะคนบัญชีเพชฌฆาต 2",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/The-Accountant-2-2025-อัจฉริยะคนบัญชีเพชฌฆาต-2.png",
+"url": "https://main.24playerhd.com/newplaylist/3cb567017670e34f3ab65632/3cb567017670e34f3ab65632.m3u8",
+"referer": ""
+},
+{
+"name": "Wolf Girl (2025) หมาป่าสาว",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Wolf-Girl-2025-หมาป่าสาว.png",
+"url": "https://main.24playerhd.com/newplaylist/83b6ca6d6b1258f974b2dffd/83b6ca6d6b1258f974b2dffd.m3u8",
+"referer": ""
+},
+{
+"name": "Ash (2025) แอช ดาวมฤตยู",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Ash-2025-แอช-ดาวมฤตยู.png",
+"url": "https://main.24playerhd.com/newplaylist/9e1ee1e5a3361b3cc4c10f7c/9e1ee1e5a3361b3cc4c10f7c.m3u8",
+"referer": ""
+},
+{
+"name": "Ash (2025) แอช ดาวมฤตยู",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Ash-2025-แอช-ดาวมฤตยู.png",
+"url": "https://main.24playerhd.com/newplaylist/9e1ee1e5a3361b3cc4c10f7c/9e1ee1e5a3361b3cc4c10f7c.m3u8",
+"referer": ""
+},
+{
+"name": "Locked (2025) ล็อก ล่อมาตาย",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Locked-2025-ล็อก-ล่อมาตาย.png",
+"url": "https://main.24playerhd.com/newplaylist/8e698bbdf68b118c28f664ec/8e698bbdf68b118c28f664ec.m3u8",
+"referer": ""
+},
+{
+"name": "Monster of Er Long Lake (2025) สัตว์ประหลาดแห่งทะเลสาบเอ๋อหลง",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Monster-of-Er-Long-Lake-2025-สัตว์ประหลาดแห่งทะเลสาบเอ๋อหลง-1.png",
+"url": "https://main.24playerhd.com/newplaylist/e456dcfc556045ecfec5063e/e456dcfc556045ecfec5063e.m3u8",
+"referer": ""
+},
+{
+"name": "Bullet Train Explosion (2025) ระเบิดรถด่วนขบวนระห่ำ",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Bullet-Train-Explosion-2025-ระเบิดรถด่วนขบวนระห่ำ.png",
+"url": "https://main.24playerhd.com/newplaylist/a61ec38e5f6bae95134f2521/a61ec38e5f6bae95134f2521.m3u8",
+"referer": ""
+},
+{
+"name": "Bullet Train Explosion (2025) ระเบิดรถด่วนขบวนระห่ำ",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Bullet-Train-Explosion-2025-ระเบิดรถด่วนขบวนระห่ำ.png",
+"url": "https://main.24playerhd.com/newplaylist/a61ec38e5f6bae95134f2521/a61ec38e5f6bae95134f2521.m3u8",
+"referer": ""
+},
+{
+"name": "Guanshan Grand Guardian (2025) กวนซานไท่เป่า",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Guanshan-Grand-Guardian-2025-กวนซานไท่เป่า.png",
+"url": "https://main.24playerhd.com/newplaylist/b0efb7c174a849a4aa95c4f7/b0efb7c174a849a4aa95c4f7.m3u8",
+"referer": ""
+},
+{
+"name": "Pangolin Kulu's Journey (2025) การเดินทางของคูลู",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Pangolin-Kulus-Journey-2025-การเดินทางของคูลู.png",
+"url": "https://main.24playerhd.com/newplaylist/e0d1e3b6a576c710da507fae/e0d1e3b6a576c710da507fae.m3u8",
+"referer": ""
+},
+{
+"name": "12 Hours of Terror (2025) สายน้ำลับ 12 ชั่วโมงหลอน",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/12-Hours-of-Terror-2025-สายน้ำลับ-12-ชั่วโมงหลอน-1.png",
+"url": "https://main.24playerhd.com/newplaylist/36cb3cd5cd388f9f90d64d15/36cb3cd5cd388f9f90d64d15.m3u8",
+"referer": ""
+},
+{
+"name": "Sinners (2025) ซินเนอร์ส",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Sinners-2025-ซินเนอร์ส.png",
+"url": "https://main.24playerhd.com/newplaylist/56e50b68ef7022a6e77718f3/56e50b68ef7022a6e77718f3.m3u8",
+"referer": ""
+},
+{
+"name": "iHostage (2025) จับตัวประกันสนั่นเมือง",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/iHostage-2025-จับตัวประกันสนั่นเมือง.png",
+"url": "https://main.24playerhd.com/newplaylist/83e93aa732ff119e593269f4/83e93aa732ff119e593269f4.m3u8",
+"referer": ""
+},
+{
+"name": "iHostage (2025) จับตัวประกันสนั่นเมือง",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/iHostage-2025-จับตัวประกันสนั่นเมือง.png",
+"url": "https://main.24playerhd.com/newplaylist/83e93aa732ff119e593269f4/83e93aa732ff119e593269f4.m3u8",
+"referer": ""
+},
+{
+"name": "Lifeline (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Lifeline-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/35a30dce6dfabb8681808e26/35a30dce6dfabb8681808e26.m3u8",
+"referer": ""
+},
+{
+"name": "Sampung Utos Kay Josh (2025) ฉีกบัญญัติ แหวกศรัทธา",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Sampung-Utos-Kay-Josh-2025-ฉีกบัญญัติ-แหวกศรัทธา.png",
+"url": "https://main.24playerhd.com/newplaylist/c61e97553afdc2cf9f5751d4/c61e97553afdc2cf9f5751d4.m3u8",
+"referer": ""
+},
+{
+"name": "Mickey 17 (2025) มิกกี้ 17",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Mickey-17-2025-มิกกี้-17-1.png",
+"url": "https://main.24playerhd.com/newplaylist/d30288ae796ac9aed3bb6485/d30288ae796ac9aed3bb6485.m3u8",
+"referer": ""
+},
+{
+"name": "Mickey 17 (2025) มิกกี้ 17",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Mickey-17-2025-มิกกี้-17-1.png",
+"url": "https://main.24playerhd.com/newplaylist/d30288ae796ac9aed3bb6485/d30288ae796ac9aed3bb6485.m3u8",
+"referer": ""
+},
+{
+"name": "Graveyard Horror (2025) 4ป่าช้า",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Graveyard-Horror-2025-4ป่าช้า.png",
+"url": "https://main.24playerhd.com/newplaylist/bd84811aa8d1c35a3d56ef13/bd84811aa8d1c35a3d56ef13.m3u8",
+"referer": ""
+},
+{
+"name": "The Moogai (2024) ผีลักลูกคน",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/The-Moogai-2024-ผีลักลูกคน.png",
+"url": "https://main.24playerhd.com/newplaylist/de2e5cbcf32b29d5c079250d/de2e5cbcf32b29d5c079250d.m3u8",
+"referer": ""
+},
+{
+"name": "Shrinking Tee (2025) ธี่หด",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Shrinking-Tee-2025-ธี่หด.png",
+"url": "https://main.24playerhd.com/newplaylist/e5b2805985852adc5d97078d/e5b2805985852adc5d97078d.m3u8",
+"referer": ""
+},
+{
+"name": "Frozen Hot Boys (2025) แก๊งหิมะเดือด",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Frozen-Hot-Boys-2025-แก๊งหิมะเดือด.png",
+"url": "https://main.24playerhd.com/newplaylist/125e0e4909af71cff3a0e419/125e0e4909af71cff3a0e419.m3u8",
+"referer": ""
+},
+{
+"name": "G20 (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/G20-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/2c8eb81ccb5e5ab8affe0b41/2c8eb81ccb5e5ab8affe0b41.m3u8",
+"referer": ""
+},
+{
+"name": "Strange Memories (2025) ความทรงจำพิศวง",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Strange-Memories-2025-ความทรงจำพิศวง.png",
+"url": "https://main.24playerhd.com/newplaylist/03a93043e2ae76c022be235a/03a93043e2ae76c022be235a.m3u8",
+"referer": ""
+},
+{
+"name": "Dragon (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Dragon-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/7ff7c4597aa21c4b56d08b56/7ff7c4597aa21c4b56d08b56.m3u8",
+"referer": ""
+},
+{
+"name": "Officer on Duty (2025) เจ้าหน้าที่",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Officer-on-Duty-2025-เจ้าหน้าที่.png",
+"url": "https://main.24playerhd.com/newplaylist/4862aa2dec12f802bc271437/4862aa2dec12f802bc271437.m3u8",
+"referer": ""
+},
+{
+"name": "In the Lost Lands (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/In-the-Lost-Lands-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/0b24856cc1bdaf665cb058a6/0b24856cc1bdaf665cb058a6.m3u8",
+"referer": ""
+},
+{
+"name": "The Dad Quest (2025) ภารกิจคุณพ่อ",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/The-Dad-Quest-2025-ภารกิจคุณพ่อ.png",
+"url": "https://main.24playerhd.com/newplaylist/d9eb2311fa818bde6f7d54c9/d9eb2311fa818bde6f7d54c9.m3u8",
+"referer": ""
+},
+{
+"name": "King of Painting (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/King-of-Painting-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/b6fe9756787083dce87875c9/b6fe9756787083dce87875c9.m3u8",
+"referer": ""
+},
+{
+"name": "The Monkey (2025) จ๋อจัดตาย",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/The-Monkey-2025-จ๋อจัดตาย-1.png",
+"url": "https://main.24playerhd.com/newplaylist/26c348f2cf70a85396de0cd7/26c348f2cf70a85396de0cd7.m3u8",
+"referer": ""
+},
+{
+"name": "The Monkey (2025) จ๋อจัดตาย",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/The-Monkey-2025-จ๋อจัดตาย-1.png",
+"url": "https://main.24playerhd.com/newplaylist/26c348f2cf70a85396de0cd7/26c348f2cf70a85396de0cd7.m3u8",
+"referer": ""
+},
+{
+"name": "Last Breath (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Last-Breath-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/9b91db79d889d0c3032c23f4/9b91db79d889d0c3032c23f4.m3u8",
+"referer": ""
+},
+{
+"name": "Fog of War (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Fog-of-War-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/cf8db630a6fbd697ecfbb2ec/cf8db630a6fbd697ecfbb2ec.m3u8",
+"referer": ""
+},
+{
+"name": "Test (2025) เกมวัดใจ",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Test-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/9cca449cd580cccc0998bede/9cca449cd580cccc0998bede.m3u8",
+"referer": ""
+},
+{
+"name": "Test (2025) เกมวัดใจ",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Test-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/9cca449cd580cccc0998bede/9cca449cd580cccc0998bede.m3u8",
+"referer": ""
+},
+{
+"name": "Banger (2025) ดีเจนอกเครื่องแบบ",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Banger-2025-ดีเจนอกเครื่องแบบ.png",
+"url": "https://main.24playerhd.com/newplaylist/631aa40c795ac19d834cbf9c/631aa40c795ac19d834cbf9c.m3u8",
+"referer": ""
+},
+{
+"name": "Banger (2025) ดีเจนอกเครื่องแบบ",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Banger-2025-ดีเจนอกเครื่องแบบ.png",
+"url": "https://main.24playerhd.com/newplaylist/631aa40c795ac19d834cbf9c/631aa40c795ac19d834cbf9c.m3u8",
+"referer": ""
+},
+{
+"name": "Bleed For Past (2025) ราชานักวาด",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Bleed-For-Past-2025-รุ่นเก๋า-1.png",
+"url": "https://main.24playerhd.com/newplaylist/bba2a327e2d5b653c01a744f/bba2a327e2d5b653c01a744f.m3u8",
+"referer": ""
+},
+{
+"name": "Control Freak (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Control-Freak-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/6ddc96f8ecba076a0cf8b4ab/6ddc96f8ecba076a0cf8b4ab.m3u8",
+"referer": ""
+},
+{
+"name": "Promised Hearts (2025) หลักฐานสัญญาใจ",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Promised-Hearts-2025-หลักฐานสัญญาใจ.png",
+"url": "https://main.24playerhd.com/newplaylist/b913763f4bb295018b76c353/b913763f4bb295018b76c353.m3u8",
+"referer": ""
+},
+{
+"name": "Promised Hearts (2025) หลักฐานสัญญาใจ",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/Promised-Hearts-2025-หลักฐานสัญญาใจ.png",
+"url": "https://main.24playerhd.com/newplaylist/b913763f4bb295018b76c353/b913763f4bb295018b76c353.m3u8",
+"referer": ""
+},
+{
+"name": "VidaaMuyarchi (2025) ผู้ชายใจไม่พ่าย",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/04/VidaaMuyarchi-2025-ผู้ชายใจไม่พ่าย.png",
+"url": "https://main.24playerhd.com/newplaylist/0601618a644c1eb93b50acfd/0601618a644c1eb93b50acfd.m3u8",
+"referer": ""
+},
+{
+"name": "Ne Zha ภาค 2",
+"info": "พากย์ไทย",
+"image": "https://main.24playerhd.com/wp-content/uploads/2025/03/Ne-Zha-2-2025-นาจา-2-1.png",
+"url": "https://main.24playerhd.com/newplaylist/f6c16a27e09b2393475ab4bf/f6c16a27e09b2393475ab4bf.m3u8",
+"referer": ""
+},
+{
+"name": "The Ranger (2025) หลังม่านเมฆ",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/The-Ranger-2025-หลังม่านเมฆ.png",
+"url": "https://main.24playerhd.com/newplaylist/6be91e18c8b29d98177dac97/6be91e18c8b29d98177dac97.m3u8",
+"referer": ""
+},
+{
+"name": "Alexander and the Terrible Horrible No Good Very Bad Road Trip (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Alexander-and-the-Terrible-Horrible-No-Good-Very-Bad-Road-Trip-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/5bfd0dfb0a70459c10d5b80a/5bfd0dfb0a70459c10d5b80a.m3u8",
+"referer": ""
+},
+{
+"name": "The Life List (2025) รายการชีวิต",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/The-Life-List-2025-รายการชีวิต.png",
+"url": "https://main.24playerhd.com/newplaylist/e7e1c0eb0cabe168e43b8190/e7e1c0eb0cabe168e43b8190.m3u8",
+"referer": ""
+},
+{
+"name": "The Life List (2025) รายการชีวิต",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/The-Life-List-2025-รายการชีวิต.png",
+"url": "https://main.24playerhd.com/newplaylist/e7e1c0eb0cabe168e43b8190/e7e1c0eb0cabe168e43b8190.m3u8",
+"referer": ""
+},
+{
+"name": "Carjackers (2025) คาร์แจ็กเกอร์ส",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Carjackers-2025-คาร์แจ็กเกอร์ส.png",
+"url": "https://main.24playerhd.com/newplaylist/79f422653140e42875d0546c/79f422653140e42875d0546c.m3u8",
+"referer": ""
+},
+{
+"name": "Carjackers (2025) คาร์แจ็กเกอร์ส",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Carjackers-2025-คาร์แจ็กเกอร์ส.png",
+"url": "https://main.24playerhd.com/newplaylist/79f422653140e42875d0546c/79f422653140e42875d0546c.m3u8",
+"referer": ""
+},
+{
+"name": "Deva (2025) ข้าชื่อเทพ",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Deva-2025-ข้าชื่อเทพ.png",
+"url": "https://main.24playerhd.com/newplaylist/ea491edca06ba48da63dedb5/ea491edca06ba48da63dedb5.m3u8",
+"referer": ""
+},
+{
+"name": "Holland (2025)",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Holland-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/d20f7a98c6dd2189c53089a1/d20f7a98c6dd2189c53089a1.m3u8",
+"referer": ""
+},
+{
+"name": "Holland (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Holland-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/d20f7a98c6dd2189c53089a1/d20f7a98c6dd2189c53089a1.m3u8",
+"referer": ""
+},
+{
+"name": "Nemesis (2025) สัตว์ประหลาดเนเมซิส",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Nemesis-2025-สัตว์ประหลาดเนเมซิส-1.png",
+"url": "https://main.24playerhd.com/newplaylist/02cfbe016705be71389229ac/02cfbe016705be71389229ac.m3u8",
+"referer": ""
+},
+{
+"name": "Red Blood Rescue (2025) นักสู้กู้ภัย",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Red-Blood-Rescue-2025-นักสู้กู้ภัย.png",
+"url": "https://main.24playerhd.com/newplaylist/1799b0edd0faf8ba63f41d02/1799b0edd0faf8ba63f41d02.m3u8",
+"referer": ""
+},
+{
+"name": "Journey to the West The Helltown of Heaven (2025) ไซอิ๋ว เมืองนรกบนสวรรค์",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Journey-to-the-West-The-Helltown-of-Heaven-2025-ไซอิ๋ว-เมืองนรกบนสวรรค์.png",
+"url": "https://main.24playerhd.com/newplaylist/8b7c996a0af42b89252f6712/8b7c996a0af42b89252f6712.m3u8",
+"referer": ""
+},
+{
+"name": "Con Mum (2025) แม่นักตุ๋น",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Con-Mum-2025-แม่นักตุ๋น.png",
+"url": "https://main.24playerhd.com/newplaylist/f112944d7ef513188dd5cd4d/f112944d7ef513188dd5cd4d.m3u8",
+"referer": ""
+},
+{
+"name": "Companion (2025) คอมแพเนียน",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/02/Companion-2025-คอมแพเนียน.png",
+"url": "https://main.24playerhd.com/newplaylist/53691ceae086231e8e3fb513/53691ceae086231e8e3fb513.m3u8",
+"referer": ""
+},
+{
+"name": "Companion (2025) คอมแพเนียน",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/02/Companion-2025-คอมแพเนียน.png",
+"url": "https://main.24playerhd.com/newplaylist/53691ceae086231e8e3fb513/53691ceae086231e8e3fb513.m3u8",
+"referer": ""
+},
+{
+"name": "Beat the Tiger (2025) นักล่าเสือ",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Beat-the-Tiger-2025-นักล่าเสือ.png",
+"url": "https://main.24playerhd.com/newplaylist/5f3f89a6a16b4a63ca58d108/5f3f89a6a16b4a63ca58d108.m3u8",
+"referer": ""
+},
+{
+"name": "The Hunt Down (2024) ล่าพยัคฆ์",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/The-Hunt-Down-2024-ล่าพยัคฆ์-1.png",
+"url": "https://main.24playerhd.com/newplaylist/5f3f89a6a16b4a63ca58d108/5f3f89a6a16b4a63ca58d108.m3u8",
+"referer": ""
+},
+{
+"name": "Popeye's Revenge (2025)",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Popeyes-Revenge-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/58dc80e25e94e1e71f132d9c/58dc80e25e94e1e71f132d9c.m3u8",
+"referer": ""
+},
+{
+"name": "Betting With Ghost (2024) ผีพารวย",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Betting-With-Ghost-2024-ผีพารวย.png",
+"url": "https://main.24playerhd.com/newplaylist/13008f41f978658590028367/13008f41f978658590028367.m3u8",
+"referer": ""
+},
+{
+"name": "Cleaner (2025) ไต่ระทึกตึกนรก",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Cleaner-2025-ไต่ระทึกตึกนรก.png",
+"url": "https://main.24playerhd.com/newplaylist/48e2c5a741110e471c386257/48e2c5a741110e471c386257.m3u8",
+"referer": ""
+},
+{
+"name": "Revelations (2025) นิมิตสวรรค์",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Revelations-2025-นิมิตสวรรค์.png",
+"url": "https://main.24playerhd.com/newplaylist/75454d84bd150749be368d70/75454d84bd150749be368d70.m3u8",
+"referer": ""
+},
+{
+"name": "Revelations (2025) นิมิตสวรรค์",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Revelations-2025-นิมิตสวรรค์.png",
+"url": "https://main.24playerhd.com/newplaylist/75454d84bd150749be368d70/75454d84bd150749be368d70.m3u8",
+"referer": ""
+},
+{
+"name": "Little Siberia (2025) ลิตเติ้ล​ ไซบีเรีย",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Little-Siberia-2025-ลิตเติ้ล​-ไซบีเรีย.png",
+"url": "https://main.24playerhd.com/newplaylist/5040f5541ea8e6708e787df1/5040f5541ea8e6708e787df1.m3u8",
+"referer": ""
+},
+{
+"name": "Little Siberia (2025) ลิตเติ้ล​ ไซบีเรีย",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Little-Siberia-2025-ลิตเติ้ล​-ไซบีเรีย.png",
+"url": "https://main.24playerhd.com/newplaylist/5040f5541ea8e6708e787df1/5040f5541ea8e6708e787df1.m3u8",
+"referer": ""
+},
+{
+"name": "O'Dessa (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/ODessa-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/e02d827b471f560d9644b2aa/e02d827b471f560d9644b2aa.m3u8",
+"referer": ""
+},
+{
+"name": "Tyler Perry's Duplicity (2025) การหลอกลวงของไทเลอร์ เพอร์รี่",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Tyler-Perrys-Duplicity-2025-การหลอกลวงของไทเลอร์-เพอร์รี่.png",
+"url": "https://main.24playerhd.com/newplaylist/b0c84cc9f1f80f862fe15dfc/b0c84cc9f1f80f862fe15dfc.m3u8",
+"referer": ""
+},
+{
+"name": "Tyler Perry's Duplicity (2025) การหลอกลวงของไทเลอร์ เพอร์รี่",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Tyler-Perrys-Duplicity-2025-การหลอกลวงของไทเลอร์-เพอร์รี่.png",
+"url": "https://main.24playerhd.com/newplaylist/b0c84cc9f1f80f862fe15dfc/b0c84cc9f1f80f862fe15dfc.m3u8",
+"referer": ""
+},
+{
+"name": "Borderline (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Borderline-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/a24382023220f40409f4be3d/a24382023220f40409f4be3d.m3u8",
+"referer": ""
+},
+{
+"name": "Qimen Mechanism Volume (2025) กลไกฉีเหมิน",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Qimen-Mechanism-Volume-2025-กลไกฉีเหมิน-1.png",
+"url": "https://main.24playerhd.com/newplaylist/5dc1a6a5451845a0cbfed4e2/5dc1a6a5451845a0cbfed4e2.m3u8",
+"referer": ""
+},
+{
+"name": "Dark Nuns (2025) ไล่มันกลับลงหลุม",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Dark-Nuns-2025-ไล่มันกลับลงหลุม.png",
+"url": "https://main.24playerhd.com/newplaylist/5a1408195bfd7cd9472295d0/5a1408195bfd7cd9472295d0.m3u8",
+"referer": ""
+},
+{
+"name": "Attack on Titan the Movie The Last Attack (2024) ผ่าพิภพไททัน การจู่โจมครั้งสุดท้าย",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Attack-on-Titan-the-Movie-The-Last-Attack-2024-ผ่าพิภพไททัน-การจู่โจมครั้งสุดท้าย.png",
+"url": "https://main.24playerhd.com/newplaylist/61ebdb46fa801fe06f104c29/61ebdb46fa801fe06f104c29.m3u8",
+"referer": ""
+},
+{
+"name": "Emergency (2025) ฉุกเฉิน",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Emergency-2025-ฉุกเฉิน.png",
+"url": "https://main.24playerhd.com/newplaylist/159b31354af87ed58145e61f/159b31354af87ed58145e61f.m3u8",
+"referer": ""
+},
+{
+"name": "Be Happy (2025) จังหวะฝัน วันสุขใจ",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Be-Happy-2025-จังหวะฝัน-วันสุขใจ.png",
+"url": "https://main.24playerhd.com/newplaylist/398feb43e9df3b1df7a80172/398feb43e9df3b1df7a80172.m3u8",
+"referer": ""
+},
+{
+"name": "The Electric State (2025) ท่องแดนจักรกล",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/The-Electric-State-2025-ท่องแดนจักรกล.png",
+"url": "https://main.24playerhd.com/newplaylist/0cd13a0146a2c8c226b6f61c/0cd13a0146a2c8c226b6f61c.m3u8",
+"referer": ""
+},
+{
+"name": "The Electric State (2025) ท่องแดนจักรกล",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/The-Electric-State-2025-ท่องแดนจักรกล.png",
+"url": "https://main.24playerhd.com/newplaylist/0cd13a0146a2c8c226b6f61c/0cd13a0146a2c8c226b6f61c.m3u8",
+"referer": ""
+},
+{
+"name": "Cold Wallet (2025) โคลด์ วอลเล็ต",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Cold-Wallet-2025-โคลด์-วอลเล็ต.png",
+"url": "https://main.24playerhd.com/newplaylist/d67e337ccad6cca242c8c679/d67e337ccad6cca242c8c679.m3u8",
+"referer": ""
+},
+{
+"name": "Wish You Were Here (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Wish-You-Were-Here-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/5822f52ab76806c4f4465cf0/5822f52ab76806c4f4465cf0.m3u8",
+"referer": ""
+},
+{
+"name": "Bridget Jones Mad About the Boy (2025) บริดเจ็ท โจนส์ หลงหนุ่มหนักมาก",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Bridget-Jones-Mad-About-the-Boy-2025-บริดเจ็ท-โจนส์-หลงหนุ่มหนักมาก.png",
+"url": "https://hot.24playerhd.com/newplaylist/Failed to connect to MySQL - Too many connections/Failed to connect to MySQL - Too many connections.m3u8",
+"referer": ""
+},
+{
+"name": "Memoir of a Snail (2025) มนุษย์ทากหัวใจผจญภัย",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Memoir-of-a-Snail-2025-มนุษย์ทากหัวใจผจญภัย.png",
+"url": "https://main.24playerhd.com/newplaylist/df86b4f3f208a1572ba9eb7f/df86b4f3f208a1572ba9eb7f.m3u8",
+"referer": ""
+},
+{
+"name": "Spy Puzzle (2025) ปริศนาสายลับ",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Spy-Puzzle-2025-ปริศนาสายลับ-1.png",
+"url": "https://main.24playerhd.com/newplaylist/b73ee28f1b69f04204af0770/b73ee28f1b69f04204af0770.m3u8",
+"referer": ""
+},
+{
+"name": "Bring Them Down (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Bring-Them-Down-2025-1.png",
+"url": "https://main.24playerhd.com/newplaylist/6784d00051045481fee4e03c/6784d00051045481fee4e03c.m3u8",
+"referer": ""
+},
+{
+"name": "Delicious (2025) โอชะ",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Delicious-2025-โอชะ.png",
+"url": "https://main.24playerhd.com/newplaylist/702e8cc5c52282d903ed2026/702e8cc5c52282d903ed2026.m3u8",
+"referer": ""
+},
+{
+"name": "Delicious (2025) โอชะ",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Delicious-2025-โอชะ.png",
+"url": "https://main.24playerhd.com/newplaylist/702e8cc5c52282d903ed2026/702e8cc5c52282d903ed2026.m3u8",
+"referer": ""
+},
+{
+"name": "Nadaaniyan (2025) หัวใจติดกับ รักผิดแผน",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Nadaaniyan-2025-หัวใจติดกับ-รักผิดแผน.png",
+"url": "https://main.24playerhd.com/newplaylist/781db1a6860032f312213326/781db1a6860032f312213326.m3u8",
+"referer": ""
+},
+{
+"name": "Nadaaniyan (2025) หัวใจติดกับ รักผิดแผน",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Nadaaniyan-2025-หัวใจติดกับ-รักผิดแผน.png",
+"url": "https://main.24playerhd.com/newplaylist/781db1a6860032f312213326/781db1a6860032f312213326.m3u8",
+"referer": ""
+},
+{
+"name": "Plankton The Movie (2025) แพลงค์ตอน เดอะ มูฟวี่",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Plankton-The-Movie-2025-แพลงค์ตอน-เดอะ-มูฟวี่-1.png",
+"url": "https://main.24playerhd.com/newplaylist/f3f21cf73faf0aadbb9c6be9/f3f21cf73faf0aadbb9c6be9.m3u8",
+"referer": ""
+},
+{
+"name": "Plankton The Movie (2025) แพลงค์ตอน เดอะ มูฟวี่",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Plankton-The-Movie-2025-แพลงค์ตอน-เดอะ-มูฟวี่-1.png",
+"url": "https://main.24playerhd.com/newplaylist/f3f21cf73faf0aadbb9c6be9/f3f21cf73faf0aadbb9c6be9.m3u8",
+"referer": ""
+},
+{
+"name": "Tiger Squad (2025) หน่วยจู่โจมพยัคฆ์เวหา",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Tiger-Squad-2025-หน่วยจู่โจมพยัคฆ์เวหา.png",
+"url": "https://main.24playerhd.com/newplaylist/e3b273574c8d364fff1a2899/e3b273574c8d364fff1a2899.m3u8",
+"referer": ""
+},
+{
+"name": "Picture This (2025) โฟกัสรักให้ชัดสักที",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Picture-This-2025-โฟกัสรักให้ชัดสักที.png",
+"url": "https://main.24playerhd.com/newplaylist/604598501a66e32426e0b4b6/604598501a66e32426e0b4b6.m3u8",
+"referer": ""
+},
+{
+"name": "Picture This (2025) โฟกัสรักให้ชัดสักที",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Picture-This-2025-โฟกัสรักให้ชัดสักที.png",
+"url": "https://main.24playerhd.com/newplaylist/604598501a66e32426e0b4b6/604598501a66e32426e0b4b6.m3u8",
+"referer": ""
+},
+{
+"name": "Larissa The Other Side of Anitta (2025) ลาริสสา อีกด้านของอนิตต้า",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Larissa-The-Other-Side-of-Anitta-2025-ลาริสสา-อีกด้านของอนิตต้า.png",
+"url": "https://main.24playerhd.com/newplaylist/4b3d4827696168309fc92ff9/4b3d4827696168309fc92ff9.m3u8",
+"referer": ""
+},
+{
+"name": "Hazard (2024)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Hazard-2024.png",
+"url": "https://main.24playerhd.com/newplaylist/7388d84b598379984beb2639/7388d84b598379984beb2639.m3u8",
+"referer": ""
+},
+{
+"name": "Sky Force (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Sky-Force-2025-1.png",
+"url": "https://main.24playerhd.com/newplaylist/e5c3247aaf3501180ad7c960/e5c3247aaf3501180ad7c960.m3u8",
+"referer": ""
+},
+{
+"name": "Uppercut (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Uppercut-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/6cc1d738340e5ecb1c2a5651/6cc1d738340e5ecb1c2a5651.m3u8",
+"referer": ""
+},
+{
+"name": "The Royal We (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/The-Royal-We-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/7c524ceb0e70ffaa899ee1f1/7c524ceb0e70ffaa899ee1f1.m3u8",
+"referer": ""
+},
+{
+"name": "Kadhalikka Neramillai (2025) ไม่มีเวลารัก",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Kadhalikka-Neramillai-2025-ไม่มีเวลารัก.png",
+"url": "https://main.24playerhd.com/newplaylist/0e279af76d9c12e75d8c1fae/0e279af76d9c12e75d8c1fae.m3u8",
+"referer": ""
+},
+{
+"name": "Dragon Seduction (2025) เจ้ามังกรแห่งท้องทะเล",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Dragon-Seduction-2025-เจ้ามังกรแห่งท้องทะเล-1.png",
+"url": "https://main.24playerhd.com/newplaylist/8321b72e8c9da34938949109/8321b72e8c9da34938949109.m3u8",
+"referer": ""
+},
+{
+"name": "Special Monster (2025) โคตรสัตว์ประหลาด",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Special-Monster-2025-โคตรสัตว์ประหลาด.png",
+"url": "https://main.24playerhd.com/newplaylist/d30cafbf3f994420c57c35c9/d30cafbf3f994420c57c35c9.m3u8",
+"referer": ""
+},
+{
+"name": "Sunray Fallen Soldier (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Sunray-Fallen-Soldier-2025-1.png",
+"url": "https://main.24playerhd.com/newplaylist/ab76137e3497d285d5946f94/ab76137e3497d285d5946f94.m3u8",
+"referer": ""
+},
+{
+"name": "Fight or Flight (2025)",
+"info": "ซับไทย",
+"image": "https://media.themoviedb.org/t/p/w440_and_h660_face/v3KHHM2Mn4U8tgDv3YUkYY57vcZ.jpg",
+"url": "https://main.24playerhd.com/newplaylist/059682f2e3fb724ade858ec2/059682f2e3fb724ade858ec2.m3u8",
+"referer": ""
+},
+{
+"name": "Daaku Maharaaj (2025) ดากู มหาราช",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Daaku-Maharaaj-2025-ดากู-มหาราช.png",
+"url": "https://main.24playerhd.com/newplaylist/958d36ef89483f5c4da25ce6/958d36ef89483f5c4da25ce6.m3u8",
+"referer": ""
+},
+{
+"name": "Extras for Chasing The Dragon (2025) หน่วยล่าท้าคอร์รัปชั่น",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/Extras-for-Chasing-The-Dragon-2025-หน่วยล่าท้าคอร์รัปชั่น-1.png",
+"url": "https://main.24playerhd.com/newplaylist/24152f710430ef7fec4a7b90/24152f710430ef7fec4a7b90.m3u8",
+"referer": ""
+},
+{
+"name": "The Witch Revangea (2024)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/03/The-Witch-Revangea-2024.png",
+"url": "https://main.24playerhd.com/newplaylist/2e770bec016e229eb5b358ed/2e770bec016e229eb5b358ed.m3u8",
+"referer": ""
+},
+{
+"name": "CounterStrike (2025) ฝ่านรกกองโจร",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/02/CounterStrike-2025-ฝ่านรกกองโจร.png",
+"url": "https://main.24playerhd.com/newplaylist/80845516306b0e107027c8cf/80845516306b0e107027c8cf.m3u8",
+"referer": ""
+},
+{
+"name": "Squad 36 (2025) หน่วย 36 ตำรวจมือพระกาฬ",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/02/Squad-36-2025-หน่วย-36-ตำรวจมือพระกาฬ-1.png",
+"url": "https://main.24playerhd.com/newplaylist/81a5a6ef4822260dc8b94549/81a5a6ef4822260dc8b94549.m3u8",
+"referer": ""
+},
+{
+"name": "Squad 36 (2025) หน่วย 36 ตำรวจมือพระกาฬ",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/02/Squad-36-2025-หน่วย-36-ตำรวจมือพระกาฬ-1.png",
+"url": "https://main.24playerhd.com/newplaylist/81a5a6ef4822260dc8b94549/81a5a6ef4822260dc8b94549.m3u8",
+"referer": ""
+},
+{
+"name": "Demon City (2025) เมืองอสูร",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/02/Demon-City-2025-เมืองอสูร.png",
+"url": "https://main.24playerhd.com/newplaylist/2dd18914ff13ed23ab79e09d/2dd18914ff13ed23ab79e09d.m3u8",
+"referer": ""
+},
+{
+"name": "Demon City (2025) เมืองอสูร",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/02/Demon-City-2025-เมืองอสูร.png",
+"url": "https://main.24playerhd.com/newplaylist/2dd18914ff13ed23ab79e09d/2dd18914ff13ed23ab79e09d.m3u8",
+"referer": ""
+},
+{
+"name": "Sosyal Climbers (2025) ตกกระไดพลอยรวย",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/02/Sosyal-Climbers-2025-ตกกระไดพลอยรวย-1.png",
+"url": "https://main.24playerhd.com/newplaylist/3a849441b6aa6bfae30fafce/3a849441b6aa6bfae30fafce.m3u8",
+"referer": ""
+},
+{
+"name": "Sosyal Climbers (2025) ตกกระไดพลอยรวย",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/02/Sosyal-Climbers-2025-ตกกระไดพลอยรวย-1.png",
+"url": "https://main.24playerhd.com/newplaylist/3a849441b6aa6bfae30fafce/3a849441b6aa6bfae30fafce.m3u8",
+"referer": ""
+},
+{
+"name": "The Wrong Track (2025) เส้นทางพิสูจน์ใจ",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/02/The-Wrong-Track-2025-เส้นทางพิสูจน์ใจ.png",
+"url": "https://main.24playerhd.com/newplaylist/cfc55aeedf5ed08401c6c18d/cfc55aeedf5ed08401c6c18d.m3u8",
+"referer": ""
+},
+{
+"name": "The Wrong Track (2025) เส้นทางพิสูจน์ใจ",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/02/The-Wrong-Track-2025-เส้นทางพิสูจน์ใจ.png",
+"url": "https://main.24playerhd.com/newplaylist/cfc55aeedf5ed08401c6c18d/cfc55aeedf5ed08401c6c18d.m3u8",
+"referer": ""
+},
+{
+"name": "Anti Drug Operations (2025) ปฏิบัติการกวาดล้างยาเสพติด",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/02/Anti-Drug-Operations-2025-ปฏิบัติการกวาดล้างยาเสพติด.png",
+"url": "https://main.24playerhd.com/newplaylist/737e429b879b8c6411bf9778/737e429b879b8c6411bf9778.m3u8",
+"referer": ""
+},
+{
+"name": "Wolf Man (2025) มนุษย์หมาป่า",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/01/Wolf-Man-2025-1.png",
+"url": "https://main.24playerhd.com/newplaylist/8bd2dd1a8d55bddb0a20c39a/8bd2dd1a8d55bddb0a20c39a.m3u8",
+"referer": ""
+},
+{
+"name": "Wolf Man (2025) มนุษย์หมาป่า",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/01/Wolf-Man-2025-1.png",
+"url": "https://main.24playerhd.com/newplaylist/8bd2dd1a8d55bddb0a20c39a/8bd2dd1a8d55bddb0a20c39a.m3u8",
+"referer": ""
+},
+{
+"name": "The Story Of Detective Zhan Zhao (2025) ยอดนักสืบจั่นเจา",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/02/The-Story-Of-Detective-Zhan-Zhao-2025-ยอดนักสืบจั่นเจา.png",
+"url": "https://main.24playerhd.com/newplaylist/7bcf534cfa9164dc8f61dc24/7bcf534cfa9164dc8f61dc24.m3u8",
+"referer": ""
+},
+{
+"name": "Green Snake The Origin (2025) กำเนิดตำนานงูเขียว",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/02/Green-Snake-The-Origin-2025-กำเนิดตำนานงูเขียว.png",
+"url": "https://main.24playerhd.com/newplaylist/2f2ca67c18c547176d52407f/2f2ca67c18c547176d52407f.m3u8",
+"referer": ""
+},
+{
+"name": "The Cursed Village (2025) หยินซานหมู่บ้านต้องสาป",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/02/The-Cursed-Village-2025-หยินซานหมู่บ้านต้องสาป-1.png",
+"url": "https://main.24playerhd.com/newplaylist/50cff1b62843e0380a4ed154/50cff1b62843e0380a4ed154.m3u8",
+"referer": ""
+},
+{
+"name": "Den of Thieves 2 Pantera (2025)",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/01/Den-of-Thieves-2-Pantera-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/2efb42cffa2e72c88f9ad574/2efb42cffa2e72c88f9ad574.m3u8",
+"referer": ""
+},
+{
+"name": "Den of Thieves 2 Pantera (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/01/Den-of-Thieves-2-Pantera-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/2efb42cffa2e72c88f9ad574/2efb42cffa2e72c88f9ad574.m3u8",
+"referer": ""
+},
+{
+"name": "The Most Beautiful Girl in the World (2025) ผู้หญิงที่สวยที่สุดในโลก",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/02/The-Most-Beautiful-Girl-in-the-World-2025-ผู้หญิงที่สวยที่สุดในโลก.png",
+"url": "https://main.24playerhd.com/newplaylist/be61add8579d62ae04109d76/be61add8579d62ae04109d76.m3u8",
+"referer": ""
+},
+{
+"name": "Love Forever (2025) รักนิรันดร",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/02/Love-Forever-2025-รักนิรันดร.png",
+"url": "https://main.24playerhd.com/newplaylist/4efab05bf8d24622f06de3ed/4efab05bf8d24622f06de3ed.m3u8",
+"referer": ""
+},
+{
+"name": "Love Forever (2025) รักนิรันดร",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/02/Love-Forever-2025-รักนิรันดร.png",
+"url": "https://main.24playerhd.com/newplaylist/4efab05bf8d24622f06de3ed/4efab05bf8d24622f06de3ed.m3u8",
+"referer": ""
+},
+{
+"name": "Flight Risk (2025) นรกยึดไฟลต์",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/01/Flight-Risk-2025-นรกยึดไฟลต์-1.png",
+"url": "https://main.24playerhd.com/newplaylist/56a1953a97d099a7431036f2/56a1953a97d099a7431036f2.m3u8",
+"referer": ""
+},
+{
+"name": "Dhoom Dhaam (2025)",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/02/Dhoom-Dhaam-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/2dbf0cfb5e51af47cd5aabf9/2dbf0cfb5e51af47cd5aabf9.m3u8",
+"referer": ""
+},
+{
+"name": "Dhoom Dhaam (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/02/Dhoom-Dhaam-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/2dbf0cfb5e51af47cd5aabf9/2dbf0cfb5e51af47cd5aabf9.m3u8",
+"referer": ""
+},
+{
+"name": "The Gorge (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/02/The-Gorge-2025-1.png",
+"url": "https://main.24playerhd.com/newplaylist/d92c311233f8ba4034b2e00d/d92c311233f8ba4034b2e00d.m3u8",
+"referer": ""
+},
+{
+"name": "Umjolo There Is No Cure (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/02/Umjolo-There-Is-No-Cure-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/ca95a33479a129de5753843b/ca95a33479a129de5753843b.m3u8",
+"referer": ""
+},
+{
+"name": "My Fault London (2025) คำขอโทษ ลอนดอน",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/02/My-Fault-London-2025-คำขอโทษ-ลอนดอน-1.png",
+"url": "https://main.24playerhd.com/newplaylist/ede71f7f2b5355b656c09e35/ede71f7f2b5355b656c09e35.m3u8",
+"referer": ""
+},
+{
+"name": "My Fault London (2025) คำขอโทษ ลอนดอน",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/02/My-Fault-London-2025-คำขอโทษ-ลอนดอน-1.png",
+"url": "https://main.24playerhd.com/newplaylist/ede71f7f2b5355b656c09e35/ede71f7f2b5355b656c09e35.m3u8",
+"referer": ""
+},
+{
+"name": "La Dolce Villa (2025) วิลล่าแห่งรัก",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/02/La-Dolce-Villa-2025-วิลล่าแห่งรัก.png",
+"url": "https://main.24playerhd.com/newplaylist/3053e92109cde9a172d364c4/3053e92109cde9a172d364c4.m3u8",
+"referer": ""
+},
+{
+"name": "La Dolce Villa (2025) วิลล่าแห่งรัก",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/02/La-Dolce-Villa-2025-วิลล่าแห่งรัก.png",
+"url": "https://main.24playerhd.com/newplaylist/3053e92109cde9a172d364c4/3053e92109cde9a172d364c4.m3u8",
+"referer": ""
+},
+{
+"name": "The Witcher Sirens of the Deep (2025) เดอะ วิทเชอร์ นักล่าจอมอสูร ไซเรนแห่งทะเลลึก",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/02/The-Witcher-Sirens-of-the-Deep-2025-เดอะ-วิทเชอร์-นักล่าจอมอสูร-ไซเรนแห่งทะเลลึก.png",
+"url": "https://main.24playerhd.com/newplaylist/31ef51bf3ab318451c10c1a8/31ef51bf3ab318451c10c1a8.m3u8",
+"referer": ""
+},
+{
+"name": "The Witcher Sirens of the Deep (2025) เดอะ วิทเชอร์ นักล่าจอมอสูร ไซเรนแห่งทะเลลึก",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/02/The-Witcher-Sirens-of-the-Deep-2025-เดอะ-วิทเชอร์-นักล่าจอมอสูร-ไซเรนแห่งทะเลลึก.png",
+"url": "https://main.24playerhd.com/newplaylist/31ef51bf3ab318451c10c1a8/31ef51bf3ab318451c10c1a8.m3u8",
+"referer": ""
+},
+{
+"name": "Fake Dad (2025) พ่อปลอมปลอม",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/02/Fake-Dad-2025-พ่อปลอมปลอม.png",
+"url": "https://main.24playerhd.com/newplaylist/b3fc579f086ac18e1b73de7d/b3fc579f086ac18e1b73de7d.m3u8",
+"referer": ""
+},
+{
+"name": "Star Trek Section 31 (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/01/Star-Trek-Section-31-2025.png",
+"url": "https://main.24playerhd.com/newplaylist/e773f4046ea0e247055bb4fa/e773f4046ea0e247055bb4fa.m3u8",
+"referer": ""
+},
+{
+"name": "Henry Danger The Movie (2025)",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/01/Henry-Danger-The-Movie-2025-1.png",
+"url": "https://main.24playerhd.com/newplaylist/c8534b6fa3a063c90a731e2f/c8534b6fa3a063c90a731e2f.m3u8",
+"referer": ""
+},
+{
+"name": "Back in Action (2025) สายลับกลับมาลุย",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/01/Back-in-Action-2025-สายลับกลับมาลุย-1.png",
+"url": "https://main.24playerhd.com/newplaylist/ec03b0ca7e1153ae887f095f/ec03b0ca7e1153ae887f095f.m3u8",
+"referer": ""
+},
+{
+"name": "Back in Action (2025) สายลับกลับมาลุย",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/01/Back-in-Action-2025-สายลับกลับมาลุย-1.png",
+"url": "https://main.24playerhd.com/newplaylist/ec03b0ca7e1153ae887f095f/ec03b0ca7e1153ae887f095f.m3u8",
+"referer": ""
+},
+{
+"name": "The Calendar Killer (2025) คาเลนดาร์คิลเลอร์ วันสั่งตาย",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/01/The-Calendar-Killer-2025-คาเลนดาร์คิลเลอร์-วันสั่งตาย.png",
+"url": "https://main.24playerhd.com/newplaylist/1b5fd4d95c2691866e9c8db4/1b5fd4d95c2691866e9c8db4.m3u8",
+"referer": ""
+},
+{
+"name": "The Calendar Killer (2025) คาเลนดาร์คิลเลอร์ วันสั่งตาย",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/01/The-Calendar-Killer-2025-คาเลนดาร์คิลเลอร์-วันสั่งตาย.png",
+"url": "https://main.24playerhd.com/newplaylist/1b5fd4d95c2691866e9c8db4/1b5fd4d95c2691866e9c8db4.m3u8",
+"referer": ""
+},
+{
+"name": "Folk tales of Chu Maxian (2025) เรื่องเล่าขานตำนานชูหม่าเซียน",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/01/Folk-tales-of-Chu-Maxian-2025-เรื่องเล่าขานตำนานชูหม่าเซียน.png",
+"url": "https://main.24playerhd.com/newplaylist/46697a49cec26a27340f286c/46697a49cec26a27340f286c.m3u8",
+"referer": ""
+},
+{
+"name": "The Savior Of The World (2025) ปรมาจารย์สวรรค์อสูร",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/01/The-Savior-Of-The-World-2025-ปรมาจารย์สวรรค์อสูร.png",
+"url": "https://main.24playerhd.com/newplaylist/26e8b3a1499d88f3f5062b7e/26e8b3a1499d88f3f5062b7e.m3u8",
+"referer": ""
+},
+{
+"name": "Evil Of The Rat (2025) ราชาปีศาจหนู",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/01/Evil-Of-The-Rat-2025-ราชาปีศาจหนู.png",
+"url": "https://main.24playerhd.com/newplaylist/0774b5e77389f5eaae5061e0/0774b5e77389f5eaae5061e0.m3u8",
+"referer": ""
+},
+{
+"name": "Ad Vitam (2025) ปฏิบัติการเพื่อชีวิต",
+"info": "พากย์ไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/01/Ad-Vitam-2025-ปฏิบัติการเพื่อชีวิต.png",
+"url": "https://main.24playerhd.com/newplaylist/b033dd41b3e53faa460dc71e/b033dd41b3e53faa460dc71e.m3u8",
+"referer": ""
+},
+{
+"name": "Ad Vitam (2025) ปฏิบัติการเพื่อชีวิต",
+"info": "ซับไทย",
+"image": "https://www.123hdtv.com/wp-content/uploads/2025/01/Ad-Vitam-2025-ปฏิบัติการเพื่อชีวิต.png",
+"url": "https://main.24playerhd.com/newplaylist/b033dd41b3e53faa460dc71e/b033dd41b3e53faa460dc71e.m3u8",
+"referer": ""
+}
+]
+}

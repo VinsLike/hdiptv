@@ -1,0 +1,297 @@
+{ 
+"name":"Sport_one", 
+"author":"By yantech", 
+"image":"https://upload.wikimedia.org/wikipedia/commons/0/0f/The_Rock_vs_John_Cena.jpg",
+"info":"For yantech",
+"stations": 
+
+[
+
+{
+      "name": "Wired2Fish",
+      "image": "https://i.imgur.com/zAtt7oq.png",
+      "url": "https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=608a2c722957c9002c6a617b&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---"
+    },
+    {
+      "name": "Sports Fishing",
+      "image": "https://media.unreel.me/prod/freelivesports/logo/4f11d7b4-99e6-447e-b517-10dbb827a67c",
+      "url": "https://amg00585-amg00585c12-sportstribal-emea-5521.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-sportsfishing-sportstribalemea/playlist.m3u8?channel_name=SPORTS%20FISHING&content_genre=Fishing%2CSport&ic=IAB17%2CIAB17-13%2CIAB17-32&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]"
+    },
+    {
+      "name": "Bassmaster",
+      "image": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/9210a8fbeab66e9d1ce20c187804ee7d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1749678868866_BassmasterChannel_InfoHUDChannelIdentifier_260x147.png",
+      "url": "https://aka-live1050.delivery.roku.com/af838053-2a5b-4f25-92cd-4fae73ee7b64/t2-origin/out/v1/live.m3u8"
+    },
+    {
+      "name": "Bahrain Sports 1",
+      "image": "https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/BTVSportsLogo.png",
+      "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8"
+    },
+    {
+      "name": "Bahrain Sports 2",
+      "image": "https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/BTVSportsLogo.png",
+      "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8"
+    },
+    {
+      "name": "XTREM SPORTS",
+      "image": "https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/XTREMSPORTS.png",
+      "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8"
+    },
+    {
+      "name": "ACC Digital Network",
+      "image": "https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/accdn.png",
+      "url": "https://raycomsports-accdigitalnetwork-xumo.amagi.tv/ingress/linear/amg01258-raycomsports-accdigitalnetwork-xumo/playlist.m3u8"
+    },
+    {
+      "name": "MOTORVISION TV",
+      "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/motorvision-tv-rs.png",
+      "url": ""
+    },
+    {
+      "name": "MAVTV",
+      "image": "https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/mavtv.png",
+      "url": "https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8"
+    },
+    {
+      "name": "Sports First",
+      "image": "https://i.postimg.cc/mrJgP2w8/IMG-2383.png",
+      "url": "https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/409.m3u8"
+    },
+    {
+      "name": "Top Barça",
+      "image": "https://i.postimg.cc/gjyq27vk/IMG-2381.png",
+      "url": "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8"
+    },
+    {
+      "name": "Real Madrid TV",
+      "image": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/122DB51B-5AAB-4ED4-A961-6C531C82504E/3-1x1.png",
+      "url": ""
+    },
+    {
+      "name": "DfbplayTV",
+      "image": "https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/dfbplay.png",
+      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15795"
+    },
+    {
+      "name": "FIFA Plus",
+      "image": "https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/fifa+.png",
+      "url": "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8"
+    },
+    {
+      "name": "Goal TV",
+      "image": "https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/goaltv.png",
+      "url": "https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8"
+    },
+    {
+      "name": "Tennis Plus",
+      "image": "https://i.postimg.cc/pLp2cFWX/IMG-2652.png",
+      "url": "https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8"
+    },
+    {
+      "name": "Tennis Channel",
+      "image": "https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/tennis-channel.png",
+      "url": "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8"
+    },
+    {
+      "name": "Tennis Channel 2",
+      "image": "https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/tennis-channel2.png",
+      "url": ""
+    },
+    {
+      "name": "Nova Sport 1",
+      "image": "https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/novasport1.png",
+      "url": ""
+    },
+    {
+      "name": "Nova Sport 2",
+      "image": "https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/novasport2.png",
+      "url": ""
+    },
+    {
+      "name": "FOX SPORTS 1",
+      "image": "https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/Fox_Sports_1_logo.svg.png",
+      "url": ""
+    },
+    {
+      "name": "FOX SPORTS 2",
+      "image": "https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/Fox_sports_2_logo.svg.png",
+      "url": ""
+    },
+    {
+      "name": "FOX SPORTS 3",
+      "image": "https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/Fox_sports_3_logo.svg.png",
+      "url": ""
+    },
+    {
+      "name": "FOX SPORTS PREMIUM",
+      "image": "https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png",
+      "url": ""
+    },
+    {
+      "name": "SPORT 1",
+      "image": "https://www.sport1tv.cz/wp-content/uploads/2024/01/s1cz_logo_2020_01.png",
+      "url": ""
+    },
+    {
+      "name": "SPORT 2",
+      "image": "https://www.sport1tv.cz/wp-content/uploads/2024/01/s1cz_logo_2020_02.png",
+      "url": ""
+    },
+    {
+      "name": "CT SPORT",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/%C4%8CT_sport_logo.png",
+      "url": ""
+    },
+    {
+      "name": "EUROSPORT 1",
+      "image": "https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/Eurosport1.png",
+      "url": ""
+    },
+    {
+      "name": "EUROSPORT 2",
+      "image": "https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/Eurosport2.png",
+      "url": ""
+    },
+    {
+      "name": "JOJ SPORT",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Joj-sport-logo.png",
+      "url": ""
+    },
+    {
+      "name": "JOJ SPORT 2",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Joj-sport-logo.png",
+      "url": ""
+    },
+    {
+      "name": "RTVS SPORT",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/%C5%A0port_logo.svg/960px-%C5%A0port_logo.svg.png",
+      "url": ""
+    },
+    {
+      "name": "AUTO MOTOR AND SPORT",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Auto_motor_sport_channel_logo.png/500px-Auto_motor_sport_channel_logo.png",
+      "url": ""
+    },
+    {
+      "name": "Premiere Sports 1",
+      "image": "https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/premiersports.png",
+      "url": ""
+    },
+    {
+      "name": "Premiere Sports 2",
+      "image": "https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/premiersports.png",
+      "url": ""
+    },
+    {
+      "name": "Premiere Sports 3",
+      "image": "https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/premiersports.png",
+      "url": ""
+    },
+    {
+      "name": "Premiere Sports 4",
+      "image": "https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/premiersports.png",
+      "url": ""
+    },
+    {
+      "name": "Premiere Sports 5",
+      "image": "https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/premiersports.png",
+      "url": ""
+    },
+    {
+      "name": "FS1",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/960px-2015_Fox_Sports_1_logo.svg.png",
+      "url": ""
+    },
+    {
+      "name": "NBA TV",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/500px-NBA_TV.svg.png",
+      "url": ""
+    },
+    {
+      "name": "HBO Boxing",
+      "image": "https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/HBOBOXING.png",
+      "url": ""
+    },
+    {
+      "name": "beIN Sports HD",
+      "image": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",
+      "url": ""
+    },
+    {
+      "name": "beIN Sports 2 HD",
+      "image": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png",
+      "url": ""
+    },
+    {
+      "name": "beIN Sports 3 HD",
+      "image": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png",
+      "url": ""
+    },
+    {
+      "name": "Dazn laliga hypermotion 1",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/DAZN_Logo_Chalk.svg/500px-DAZN_Logo_Chalk.svg.png",
+      "url": ""
+    },
+    {
+      "name": "Dazn laliga hypermotion 2",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/DAZN_Logo_Chalk.svg/500px-DAZN_Logo_Chalk.svg.png",
+      "url": ""
+    },
+    {
+      "name": "Dazn Ringside",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/DAZN_Logo_Chalk.svg/500px-DAZN_Logo_Chalk.svg.png",
+      "url": "https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8"
+    },
+    {
+      "name": "Premiere Sports 01",
+      "image": "https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/premiersports.png",
+      "url": ""
+    },
+    {
+      "name": "Premiere Sports 02",
+      "image": "https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/premiersports.png",
+      "url": ""
+    },
+    {
+      "name": "BEIN SPORTS 1",
+      "image": "https://r2.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png",
+      "url": ""
+    },
+    {
+      "name": "BEIN SPORTS 2",
+      "image": "https://r2.thesportsdb.com/images/media/channel/logo/x7ynw61631279400.png",
+      "url": ""
+    },
+    {
+      "name": "BEIN SPORTS 3",
+      "image": "https://r2.thesportsdb.com/images/media/channel/logo/fwzxmq1631279374.png",
+      "url": ""
+    },
+    {
+      "name": "SpoTV 1",
+      "image": "https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/spotv.png",
+      "url": ""
+    },
+    {
+      "name": "SpoTV 2",
+      "image": "https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/spotv2.png",
+      "url": ""
+    },
+    {
+      "name": "SportTV 1",
+      "image": "https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/SporTV.png",
+      "url": ""
+    },
+    {
+      "name": "SportTV 2",
+      "image": "https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/SporTV2.png",
+      "url": ""
+    },
+    {
+      "name": "SportTV 3",
+      "image": "https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/SporTV3.png",
+      "url": ""
+    },
+
+]
+}

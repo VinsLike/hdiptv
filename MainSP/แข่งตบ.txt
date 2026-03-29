@@ -1,0 +1,118 @@
+{
+ "name": "By ส.วิศวะสื่อสาร",
+ "author": "BY yantech",
+ "info": "ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย",
+ "image": "https://i.postimg.cc/CKSb1R6H/Sport.jpg",
+ "stations": [
+
+
+
+{
+"name"		:		"SlapFIGHT: BOILING POINT Trailer",
+"info"		:		"",
+"image"		: 		"https://pandastatic.b-cdn.net/image/?url=https%3A%2F%2Fpandastorage.b-cdn.net%2Fpln%2FuploadedImage%2F35029986%2Fhqdefaultjpg_35029986_1696351473.jpg%3Fw%3D1280%26h%3D720%3Fw%3D1280%26h%3D720%3Fw%3D480%26h%3D",
+"url"		: 		"https://pandastorage.b-cdn.net/broadcast/37082062/hls/1696351499/720.m3u8",
+"referer"	: 		"https://www.dooballrealtime.com",
+"userAgent"	: 		"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+},
+
+{
+"name"		:		"SlapFIGHT: BOILING POINT",
+"info"		:		"",
+"image"		: 		"https://pandastatic.b-cdn.net/image/?url=https%3A%2F%2Fpandastorage.b-cdn.net%2Fpln%2FuploadedImage%2F26117387%2FSlapFIGHT_BoilingPoint_Thumbnailjpg_26117387_1696943863.jpg%3Fw%3D1280%26h%3D720%3Fw%3D1280%26h%3D720%3Fw%3D480%26h%3D",
+"url"		: 		"https://pandastorage.b-cdn.net/broadcast/37082103/hls/1697340737/720.m3u8",
+"referer"	: 		"https://www.dooballrealtime.com",
+"userAgent"	: 		"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+},
+
+{
+"name"		:		"SlapFIGHT: Collision Course ",
+"info"		:		"",
+"image"		: 		"https://pandastatic.b-cdn.net/image/?url=https%3A%2F%2Fpandastorage.b-cdn.net%2Fpln%2FuploadedImage%2F35029986%2Fhqdefaultjpg_35029986_1696351347.jpg%3Fw%3D1280%26h%3D720%3Fw%3D1280%26h%3D720%3Fw%3D480%26h%3D",
+"url"		: 		"https://pandastorage.b-cdn.net/broadcast/37082053/hls/1696351635/720.m3u8",
+"referer"	: 		"https://www.dooballrealtime.com",
+"userAgent"	: 		"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+},
+
+{
+"name"		:		"SlapFIGHT Invitational 10 Man",
+"info"		:		"",
+"image"		: 		"https://pandastatic.b-cdn.net/image/?url=https%3A%2F%2Fpandastorage.b-cdn.net%2Fpln%2FuploadedImage%2F35029986%2Fhqdefaultjpg_35029986_1696351301.jpg%3Fw%3D1280%26h%3D720%3Fw%3D1280%26h%3D720%3Fw%3D1280%26h%3D720%3Fw%3D480%26h%3D",
+"url"		: 		"https://pandastorage.b-cdn.net/broadcast/37082043/hls/1696351620/720.m3u8",
+"referer"	: 		"https://www.dooballrealtime.com",
+"userAgent"	: 		"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+},
+{
+"name"		:		"SlapFIGHT Invitational 10 Man",
+"info"		:		"",
+"image"		: 		"https://pandastatic.b-cdn.net/image/?url=https%3A%2F%2Fpandastorage.b-cdn.net%2Fpln%2FuploadedImage%2F35029986%2Fhqdefaultjpg_35029986_1696351167.jpg%3Fw%3D1280%26h%3D720%3Fw%3D1280%26h%3D720%3Fw%3D1280%26h%3D720%3Fw%3D480%26h%3D ",
+"url"		: 		" https://pandastorage.b-cdn.net/broadcast/37082034/hls/1696351588/720.m3u8",
+"referer"	: 		"https://www.dooballrealtime.com",
+"userAgent"	: 		"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+},
+{
+"name"		:		"SlapFIGHT Invitational 10 Man",
+"info"		:		"",
+"image"		: 		"https://pandastatic.b-cdn.net/image/?url=https%3A%2F%2Fpandastorage.b-cdn.net%2Fpln%2FuploadedImage%2F35029986%2Fhqdefaultjpg_35029986_1696351079.jpg%3Fw%3D1280%26h%3D720%3Fw%3D1280%26h%3D720%3Fw%3D1280%26h%3D720%3Fw%3D480%26h%3D ",
+"url"		: 		" https://pandastorage.b-cdn.net/broadcast/37082028/hls/1696351552/720.m3u8",
+"referer"	: 		"https://www.dooballrealtime.com",
+"userAgent"	: 		"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+},
+{
+"name"		:		"SlapFIGHT Invitational 10 Man",
+"info"		:		"",
+"image"		: 		" ",
+"url"		: 		"https://www.youtube.com/watch?v=pA10k0VdndI ",
+"referer"	: 		"https://www.dooballrealtime.com",
+"userAgent"	: 		"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+},
+{
+"name"		:		"SlapFIGHT Invitational 10 Man",
+"info"		:		"",
+"image"		: 		" ",
+"url"		: 		"https://video.primis.tech/uploads/cn1/video/users/hls/31190/video_664c5335a48c9035447144/vid67343bf64bdee635179912.mp4/chunklist_480.m3u8",
+"referer"	: 		"https://www.dooballrealtime.com",
+"userAgent"	: 		"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+},
+{
+"name"		:		"SlapFIGHT Invitational 10 Man",
+"info"		:		"",
+"image"		: 		" ",
+"url"		: 		"https://video.twimg.com/ext_tw_video/1615389615401099264/pu/pl/1280x720/8hk4YF75tTX5KcrM.m3u8",
+"referer"	: 		"https://www.dooballrealtime.com",
+"userAgent"	: 		"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+},
+{
+"name"		:		"SlapFIGHT Invitational 10 Man",
+"info"		:		"",
+"image"		: 		" ",
+"url"		: 		"https://cdn1337.google-streams.com:9314/v5/pthnh_-Q6MQXmV4BvJqKRA/1755349967/dd696383a8a28e3e2590cf23100d2c25/l3QlWOVgjpSXPnGln-LQNg/1755360647/live/dx-origin/hd-spotv_720/chunks.m3u8",
+"referer"	: 		"https://www.dooballrealtime.com",
+"userAgent"	: 		"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+},
+{
+     "name": "ป่าตองไฟท์ไนท์ เสือดำ ศิษย์หนุ่มน้อย vs เหยี่ยวดำ เกียรติ หมู่ 5",
+     "info": "วันที่ 25 มกราคม2567",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1705595914.jpg",
+     "url": "https://dkl-o53d.cdn.akamaiz.com/dookeela/tsp2/chunks.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+{
+"name"		:		"SlapFIGHT Invitational 10 Man",
+"info"		:		"",
+"image"		: 		"https://pandastatic.b-cdn.net/image/?url=https%3A%2F%2Fpandastorage.b-cdn.net%2Fpln%2FuploadedImage%2F35029986%2Fhqdefaultjpg_35029986_1696351079.jpg%3Fw%3D1280%26h%3D720%3Fw%3D1280%26h%3D720%3Fw%3D1280%26h%3D720%3Fw%3D480%26h%3D ",
+"url"		: 		"https://dkl-o53d.cdn.akamaiz.com/dookeela/trueballthai7/chunks.m3u8?nimblesessionid=55009460&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDI1IDI6MDA6MzMgUE0maGFzaF92YWx1ZT1vemNVaUtrc1AwdlVlbFczNmVhcmhnPT0mdmFsaWRtaW51dGVzPTEmaWQ9ZGRiZmEyOGUyOGFlZGRjMDI4YmE3OTI1MmFhNTJkYTMmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIy",
+"referer"	: 		"https://www.dooballrealtime.com",
+"userAgent"	: 		"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+},
+{
+"name":"TRUE SPORT 2",
+"image":"https://cms.dmpcdn.com/livetv/2023/12/15/74b6b5e0-9aea-11ee-ba6c-fd47adcb0961_webp_original.webp",
+"url":"https://freenote.biz/raw/wym3efbiri",
+"referer":"https://vvipscore.co/",
+"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "",
+"desktop": "true"},
+
+]
+}
+

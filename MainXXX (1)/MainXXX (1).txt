@@ -1,0 +1,154 @@
+{
+ "name": "ดูเล่นๆ อย่าเครียด",
+ "author":"fcuk",
+"image": "https://www.dropbox.com/s/vd7ipm4k5pyj413/Fake%20VIP.jpg?dl=1",
+	"imageScale" :"fitxy",
+"url":"https://www.dropbox.com/s/7u008quqousmf4x/vipjimenu.w3u?dl=1",
+	"groups":
+[
+{
+"name": "Good for heartGEN2",
+"url": "https://docs.google.com/uc?export=download&id=1oayMykI6HtIU3sDhnwXE7giaXzsDSDGp",
+"image": "https://i.postimg.cc/FR1fqZV2/Good-for-heart.jpg",
+"import": "false"
+},
+{
+"name": "xxx รวมมิตร",
+"url": "https://docs.google.com/uc?export=download&id=13g7T-jL4hfHvaQzrD4ArWH8SVDKBSLxo",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhkIbrKoa-kk1jY3vz_JihiDKWrtLsvrARsA&s",
+"import": "false"
+},
+{
+"name": "27. SEXY 1",
+"author": "",
+ "image": "https://img5.pic.in.th/file/secure-sv1/189e7cea0d7fbefbbe.jpg",
+"url": "https://docs.google.com/uc?id=1ub0GqrnkqCJyJLnME-JaQReh3Kj7YEcE",
+"import": "true"},
+{"name": "18+ 077",
+"author":"Gojek TV ห้ามขาย!",
+"url": "https://drive.google.com/uc?id=1JpDZ-NpxkQONf9uICD48glRfWyfCK8tF",
+"image": "https://i.postimg.cc/3wQbZ61F/09-Gojek-18.png",
+"stations": []},
+
+{
+"name":  "Vip Japan",
+"image": "https://img.freepik.com/free-vector/vip-with-crown-composition_1284-36184.jpg?semt=ais_hybrid&w=740&q=80",
+"url": "https://docs.google.com/uc?id=1D-ZR-jCTSSKiRYHoAfHk72EJSYdaGOaO",
+"import": false
+},
+{
+"name": "VVV",
+"author": "",
+ "image": "https://img2.pic.in.th/pic/av.jpg",
+"url": "https://docs.google.com/uc?id=1ub0GqrnkqCJyJLnME-JaQReh3Kj7YEcE",
+"import": "true"},
+
+{
+"name": "ช่องนี้ทำเอง",
+"image": "https://s.isanook.com/wo/0/ud/12/61053/s2.jpg?ip/crop/w670h402/q80/jpg",
+"url": "https://docs.google.com/uc?export=download&id=1bpGMiKEcVwi2oj4u_N71BvTE1DDaB9rV",
+"import": "true"
+},
+
+
+{
+"name": "Hot clip",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbVuimbnPcGS_ftmBt2Sq5DxUdNjtF6SBjvA&s",
+"url": "https://drive.google.com/uc?id=1GLwgitVyxw5dHSEscujnoS9EOn9RWpqf",
+"import": "true"
+},
+{
+"name": "Rate R",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGpQMwp5PZ2qcZ4J03rWDmT8ygFI4TTW0UAw&s",
+"url": "https://docs.google.com/uc?export=download&id=1oRwghw1SUB4uBP_zb_Z6zkpdEA6niw3d",
+"import": "true"
+},
+
+
+{
+"name": "📺 JAV",
+"image": "https://f.ptcdn.info/241/053/000/ov6xpm5gy7kzSWgu09e-o.gif",
+"url": "https://drive.google.com/uc?export=download&id=1NHd3Sqv5mc41chASgLsKegvZXpksouRF",
+"import": false
+},
+
+{
+"name": "แก่บ้ากาม",
+"image":"https://i.ytimg.com/vi/fRIMQkeUyBM/maxresdefault.jpg",
+"url": "https://docs.google.com/uc?export=download&id=1MBPVfIscHTWYZ9Q3jWl3FFioDeoY7l1e",
+"import": "false"
+},
+
+{
+"name": "Fighting XXX",
+"image": "https://drive.google.com/uc?id=1QhupTeKS76bWLsu4DUbtTWfH5kjiw9DK",
+"url": "https://drive.google.com/uc?id=1Sr-rEguHPM0ueKkCPDS_BLaZMuWoqYWq",
+"import": false
+},
+{
+"name": "Best JAV",
+"image": "https://www.appcreator24.com/srv/imgs/seccs/2547316_ico.png",
+"url": "https://dl.dropbox.com/scl/fi/6ctdg2u3pvpfxqwawfgdl/Best-JAV.m3u?rlkey=etsmrl6z56ru0xa0xoyxfcwi9&dl=1",
+"import": "true"
+},
+{
+"name": "10-ตู้ปันสุข ?",
+"image": "https://drive.google.com/uc?id=1JzojT6M77vOlKeEg4ZcT6XhJpqoeHvnq",
+"url": "https://tiny.cc/punsuk2022",
+"import": false
+},
+{
+"name": "Best 1",
+"image": "https://i.ibb.co/4WKJ600/Picsart-24-10-03-02-30-20-290.png",
+"url": "https://docs.google.com/uc?export=download&id=1iIQ7Il_mBZ946iBrTRQP5-g8hGYKd9bG",
+"import": "true"
+},
+
+{
+"name": "Best 2",
+"image": "http://xplatinmedia.com:8080/images/c453f1bbd6158d07f12dc5a094bc201d.png",
+"url": "https://docs.google.com/uc?export=download&id=1iBO0Ysejdg08myEkCH4qESqkchUQFD-s",
+"import": "true"
+},
+{
+"name":" Asia - หนังเอเชีย 
+","image": "https://img2.pic.in.th/pic/Design-Studio-2024-05-11-5.png",
+"url": "https://docs.google.com/uc?export=download&id=1pEVwSNukdh32NgoRlGZjoYTVsUaA_9N3",
+"import": false
+},  
+{
+"name":" Japan - หนังญี่ปุ่
+น ","image": "https://img5.pic.in.th/file/secure-sv1/Design-Studio-2024-05-11-4.png",
+"url": "https://docs.google.com/uc?export=download&id=121mru7ut6cm_XZDq1zY4CzMcg6FiPFyL",
+"import": false
+},  
+
+{
+"name":" Thai - หนังไทย ",
+"image": "https://img2.pic.in.th/pic/Design-Studio-2024-05-11-3.png",
+"url": "https://docs.google.com/uc?export=download&id=16w2Qh_YrlCKhEXRb4O-k3Jig4UY1TH_0",
+"import": false
+},  
+	
+{
+"name":" Western - หนังฝรั่ง
+","image": "https://img2.pic.in.th/pic/Design-Studio-2024-05-11-2.png",
+"url": "https://docs.google.com/uc?export=download&id=1EdbAF2HVg75d5HN9i-eZAaa07SNU6Jdl",
+"import": false
+},  
+	
+{
+"name":" All ","image": "https://img2.pic.in.th/pic/Design-Studio-2024-05-11-1.png",
+"url": "https://docs.google.com/uc?export=download&id=KZ4Q7gf3Im5HWwagdKL9xbPR4K1UAZ6",
+"import": false
+},  
+
+{
+"name": "Admin  ",
+"author": "ข้อมูลดิบ",
+"image": "https://aigencorp.com/wp-content/uploads/2024/07/data-analysis-document-ai-artificial-intelligence.jpg",
+"url": "https://docs.google.com/uc?export=download&id=1rbps4IQ50MKBpDVfVMQ7_YKmR4w824kg",
+"import": "true"
+},   
+
+]}

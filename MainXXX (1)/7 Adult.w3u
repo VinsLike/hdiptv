@@ -1,0 +1,23 @@
+﻿{
+"name": "Fighting XXX",
+"author": "BOMB645 หัวควย โง่! เสียเงินให้คนอื่นเขา ไม่มีวัวผสมเลย กร๊ากๆๆๆ",
+"url": "https://drive.google.com/uc?id=1Sr-rEguHPM0ueKkCPDS_BLaZMuWoqYWq", 
+"image": "https://drive.google.com/uc?id=1QhupTeKS76bWLsu4DUbtTWfH5kjiw9DK",
+"groups": [
+
+{
+"name": "Server 1",
+"image": "https://drive.google.com/uc?id=1k_8lgGXKWypMvFfeKHNt9wx-_n9JopWP",	
+"url": "https://drive.google.com/uc?id=1Cp3lp-xnmiHUf1v9EVDfTCb_oLrAET05",
+"import": false
+},
+
+{
+"name": "Server 2",
+"image": "https://drive.google.com/uc?id=1TRtoJyzD6yU_L1CB4bGnaGfX-ANEgf-P",	
+"url": "https://drive.google.com/uc?id=1ZUn05UPA-_ap7JjiQ-MJpNkYZS3R_cIq",
+"import": false
+},
+
+]
+}

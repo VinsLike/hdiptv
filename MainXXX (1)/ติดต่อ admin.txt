@@ -1,0 +1,20 @@
+{
+"name": "แจ้งปัญหาช่องดับ",
+"author": "แจ้งปัญหา",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Black_star_inc.jpg/800px-Black_star_inc.jpg",
+"url": "https://docs.google.com/uc?export=download&id=1rbps4IQ50MKBpDVfVMQ7_YKmR4w824kg",
+"groups": [
+
+
+{
+name:"ไลน์ แจ้งปัญหาช่องดับ",
+"image": "https://www.dropbox.com/scl/fi/xekal3nw5odm9on9l8tq2/2795.jpg?rlkey=1913v51676ee8qsdmy27l0mxu&st=tu10s2hu&dl=1",
+"url": "https://docs.google.com/uc?export=download&id=1rbps4IQ50MKBpDVfVMQ7_YKmR4w824kg",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+"playInNatPlayer": "true"
+},
+
+
+]
+}
+

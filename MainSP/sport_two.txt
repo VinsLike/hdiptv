@@ -1,0 +1,1086 @@
+{ 
+"name":"Sport_one", 
+"author":"By yantech", 
+"image":"https://upload.wikimedia.org/wikipedia/commons/0/0f/The_Rock_vs_John_Cena.jpg",
+"info":"For yantech",
+"stations": 
+
+[
+{
+      "name": "Hi FIGHT HD",
+      "image": "https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/HIFIGHT.png",
+      "url": "http://49.0.64.96:8007/HIFIGHT"
+    },
+    {
+      "name": "Prima Sport 1",
+      "image": "https://static.wikia.nocookie.net/tvfanon6528/images/6/6f/Prima_Sport_1_(vesna_2022).png",
+      "url": ""
+    },
+    {
+      "name": "Prima Sport 2",
+      "image": "https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_2_new.svg/revision/latest/scale-to-width-down/150?cb=20230125050049",
+      "url": ""
+    },
+    {
+      "name": "Prima Sport 3",
+      "image": "https://static.wikia.nocookie.net/logopedia/images/7/75/Prima_Sport_3_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050332",
+      "url": ""
+    },
+    {
+      "name": "Prima Sport 4",
+      "image": "https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_4_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050947",
+      "url": ""
+    },
+    {
+      "name": "Prima Sport 5",
+      "image": "https://static.wikia.nocookie.net/logopedia/images/3/3d/Prima_Sport_5_%28new%29.svg/revision/latest/scale-to-width-down/200?cb=20220416111908",
+      "url": ""
+    },
+    {
+      "name": "ESPN 1",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",
+      "url": "http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22002.ts"
+    },
+    {
+      "name": "ESPN 2",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",
+      "url": "http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22005.ts"
+    },
+    {
+      "name": "ESPN 3",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",
+      "url": "http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22008.ts"
+    },
+    {
+      "name": "ESPN 4",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",
+      "url": "http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22011.ts"
+    },
+    {
+      "name": "ESPN 5",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",
+      "url": "http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22014.ts"
+    },
+    {
+      "name": "ESPN 6",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",
+      "url": "http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts"
+    },
+    {
+      "name": "Sharjah Sports",
+      "image": "https://i.postimg.cc/wxSPC5Db/IMG-2977.png",
+      "url": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8"
+    },
+    {
+      "name": "FTF Sports",
+      "image": "https://i.postimg.cc/8P3RsZDh/IMG-2871.png",
+      "url": "https://1199970269.rsc.cdn77.org/FTF/FTF_SCTE_Ultra.m3u8"
+    },
+    {
+      "name": "Trace Sports",
+      "image": "https://i.postimg.cc/TPwGsdrc/IMG-2012.png",
+      "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8"
+    },
+    {
+      "name": "SkySportMotoGP",
+      "image": "https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportMotoGP.png",
+      "url": ""
+    },
+    {
+      "name": "SkySportF1",
+      "image": "https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportF1-HD.png",
+      "url": ""
+    },
+    {
+      "name": "BEIN SPORTS XTRA",
+      "image": "https://i.imgur.com/rmswJVo.png",
+      "url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8"
+    },
+    {
+      "name": "DAZN 1 TW",
+      "image": "https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/DAZN.png",
+      "url": "rtmp://f13h.mine.nu/sat/tv731"
+    },
+    {
+      "name": "DAZN 2 TW",
+      "image": "https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/DAZN.png",
+      "url": "rtmp://f13h.mine.nu/sat/tv741"
+    },
+    {
+      "name": "Hub Premier 1",
+      "image": "https://img2.pic.in.th/pic/hub-1.png",
+      "url": "http://fastopen.live:8080/MLS003/qZj4zbPNDn/112231"
+    },
+    {
+      "name": "Hub Premier 2",
+      "image": "https://img2.pic.in.th/pic/hub-2.png",
+      "url": "http://fastopen.live:8080/MLS003/qZj4zbPNDn/112229"
+    },
+    {
+      "name": "Hub Premier 3",
+      "image": "https://img2.pic.in.th/pic/hub-3.png",
+      "url": "http://fastopen.live:8080/MLS003/qZj4zbPNDn/112228"
+    },
+    {
+      "name": "Hub Premier 4",
+      "image": "https://img5.pic.in.th/file/secure-sv1/hub-4.png",
+      "url": "http://fastopen.live:8080/MLS003/qZj4zbPNDn/112227"
+    },
+    {
+      "name": "Hub Premier 5",
+      "image": "https://img2.pic.in.th/pic/hub-5.png",
+      "url": "http://fastopen.live:8080/MLS003/qZj4zbPNDn/112226"
+    },
+    {
+      "name": "Now Premier Sports 1",
+      "image": "https://i.imgur.com/l2dzMGa.png",
+      "url": "http://fastopen.live:8080/MLS003/qZj4zbPNDn/112200"
+    },
+    {
+      "name": "Now Premier Sports 2",
+      "image": "https://i.imgur.com/yVCWN1c.png",
+      "url": "http://fastopen.live:8080/MLS003/qZj4zbPNDn/112194"
+    },
+    {
+      "name": "Now Premier Sports 3",
+      "image": "https://i.imgur.com/oxakZgk.png",
+      "url": "http://fastopen.live:8080/MLS003/qZj4zbPNDn/112199"
+    },
+    {
+      "name": "Now Premier Sports 4",
+      "image": "https://i.imgur.com/evqQoh9.png",
+      "url": "http://fastopen.live:8080/MLS003/qZj4zbPNDn/112198"
+    },
+    {
+      "name": "Now Premier Sports 5",
+      "image": "https://i.imgur.com/eAsPUx2.png",
+      "url": "http://fastopen.live:8080/MLS003/qZj4zbPNDn/112197"
+    },
+    {
+      "name": "Now Premier Sports 6",
+      "image": "https://i.imgur.com/q2GQzb9.png",
+      "url": "http://fastopen.live:8080/MLS003/qZj4zbPNDn/112196"
+    },
+    {
+      "name": "Astro Grandstand",
+      "image": "https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Grandstand_%28Oct_2024%29.png/revision/latest?cb=20241121183356",
+      "url": ""
+    },
+    {
+      "name": "Astro Football",
+      "image": "https://static.wikia.nocookie.net/logopedia/images/7/70/Astro_Football_%28Oct_2024%29.png/revision/latest?cb=20241121183458",
+      "url": ""
+    },
+    {
+      "name": "Astro Premier League",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/800px-Astro_Premier_League_1_%282024%29.png",
+      "url": ""
+    },
+    {
+      "name": "Astro Premier League2",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Astro_Premier_League_2_%282024%29.png/800px-Astro_Premier_League_2_%282024%29.png",
+      "url": ""
+    },
+    {
+      "name": "ARENASPORT1",
+      "image": "https://dookeela.live/uploads/1664041294.png",
+      "url": ""
+    },
+    {
+      "name": "ARENASPORT2",
+      "image": "https://dookeela.live/uploads/1664041506.png",
+      "url": ""
+    },
+    {
+      "name": "ARENASPORT3",
+      "image": "https://dookeela.live/uploads/1664219377.png",
+      "url": ""
+    },
+    {
+      "name": "ARENASPORT4",
+      "image": "https://dookeela.live/uploads/1664132050.png",
+      "url": ""
+    },
+    {
+      "name": "ARENASPORT5",
+      "image": "https://r2.thesportsdb.com/images/media/channel/logo/2kuqly1643205772.png",
+      "url": ""
+    },
+    {
+      "name": "ARENASPORT6",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrJNXqiv7SY0D4bMxhBA-nbkxz5G3un_0BGg&s",
+      "url": ""
+    },
+    {
+      "name": "ARENASPORT7",
+      "image": "https://mtel.at/storage/assets/0035_Arena_sport_7_SR.png",
+      "url": ""
+    },
+    {
+      "name": "ARENASPORT8",
+      "image": "https://static.wikia.nocookie.net/logopedia/images/4/4e/ARENASPORT_8.png/revision/latest?cb=20221111132134",
+      "url": ""
+    },
+    {
+      "name": "ARENASPORT9",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxirM6Vw4I1-Kt3BHsoHYChvTM4Kw2eGIQnA&s",
+      "url": ""
+    },
+    {
+      "name": "ARENASPORT10",
+      "image": "https://static.wikia.nocookie.net/logopedia/images/8/89/As101.png/revision/latest?cb=20221111132559",
+      "url": ""
+    },
+    {
+      "name": "ArenaSportPremium1",
+      "image": "https://nstatic.net/img/tv/channels/m/arena-sport-premium-1.png",
+      "url": ""
+    },
+    {
+      "name": "ArenaSportPremium2",
+      "image": "https://nstatic.net/img/tv/channels/m/arena-sport-premium-2.png",
+      "url": ""
+    },
+    {
+      "name": "ArenaSportPremium3",
+      "image": "https://nstatic.net/img/tv/channels/m/arena-sport-premium-3.png",
+      "url": ""
+    },
+    {
+      "name": "BEIN1HD-FR",
+      "image": "https://rentapi.blackboxsys.net/images/png/fr-bein1hd.png",
+      "url": ""
+    },
+    {
+      "name": "BEIN2HD-FR",
+      "image": "https://rentapi.blackboxsys.net/images/png/fr-bein2hd.png",
+      "url": ""
+    },
+    {
+      "name": "BEIN3HD-FR",
+      "image": "https://rentapi.blackboxsys.net/images/png/fr-bein3hd.png",
+      "url": ""
+    },
+    {
+      "name": "beIN Sports 4 Max",
+      "image": "https://dookeela.live/uploads/1733601219.png",
+      "url": ""
+    },
+    {
+      "name": "beIN Sports 5 Max",
+      "image": "https://img.sport-tv-guide.live/images/tv-station-bein-sports-5-max-404.png",
+      "url": ""
+    },
+    {
+      "name": "beIN Sports 6 Max",
+      "image": "https://static.wikia.nocookie.net/logopedia/images/c/c7/BE_IN_SPORT_MAX_6_HD_2017.jpg/revision/latest/scale-to-width-down/1200?cb=20191022182510",
+      "url": ""
+    },
+    {
+      "name": "beIN Sports 7 Max",
+      "image": "https://dookeela.live/uploads/1733601777.png",
+      "url": ""
+    },
+    {
+      "name": "beIN Sports 8 Max",
+      "image": "https://dookeela.live/uploads/1733602058.png",
+      "url": ""
+    },
+    {
+      "name": "beIN Sports 9 Max",
+      "image": "https://dookeela.live/uploads/1733602083.png",
+      "url": ""
+    },
+    {
+      "name": "beIN Sports 10 Max",
+      "image": "https://dookeela.live/uploads/1733602113.png",
+      "url": ""
+    },
+    {
+      "name": "beIN Sports 1 Turkey",
+      "image": "https://dookeela.live/uploads/1664502528.png",
+      "url": ""
+    },
+    {
+      "name": "beIN Sports 2 Turkey",
+      "image": "https://dookeela.live/uploads/1664502539.png",
+      "url": ""
+    },
+    {
+      "name": "beIN Sports 3 Turkey",
+      "image": "https://dookeela.live/uploads/1664581228.png",
+      "url": ""
+    },
+    {
+      "name": "beIN Sports 4 Turkey",
+      "image": "https://dookeela.live/uploads/1664581241.png",
+      "url": ""
+    },
+    {
+      "name": "beIN SPORTS Max 1 Turkey",
+      "image": "https://dookeela2.live/uploads/1674393244.png",
+      "url": ""
+    },
+    {
+      "name": "beIN SPORTS Max 2 Turkey",
+      "image": "https://dookeela2.live/uploads/1679591572.png",
+      "url": ""
+    },
+    {
+      "name": "bein1",
+      "image": "https://api.bigwifegang.org/images/png/hd-bein1.png",
+      "url": ""
+    },
+    {
+      "name": "bein2",
+      "image": "https://api.bigwifegang.org/images/png/hd-bein2.png",
+      "url": ""
+    },
+    {
+      "name": "bein3",
+      "image": "https://api.bigwifegang.org/images/png/hd-bein3.png",
+      "url": ""
+    },
+    {
+      "name": "bein4",
+      "image": "https://api.bigwifegang.org/images/png/hd-bein4.png",
+      "url": ""
+    },
+    {
+      "name": "bein5",
+      "image": "https://api.bigwifegang.org/images/png/hd-bein5.png",
+      "url": ""
+    },
+    {
+      "name": "bein6",
+      "image": "https://api.bigwifegang.org/images/png/hd-bein6.png",
+      "url": ""
+    },
+    {
+      "name": "bein7",
+      "image": "https://api.bigwifegang.org/images/png/hd-bein7.png",
+      "url": ""
+    },
+    {
+      "name": "bein8",
+      "image": "https://api.bigwifegang.org/images/png/hd-bein8.png",
+      "url": ""
+    },
+    {
+      "name": "bein9",
+      "image": "https://api.bigwifegang.org/images/png/hd-bein9.png",
+      "url": ""
+    },
+    {
+      "name": "Canal 11 Protugal",
+      "image": "https://dookeela.live/uploads/1663979533.png",
+      "url": ""
+    },
+    {
+      "name": "Canalsport1",
+      "image": "https://api.bigwifegang.org/images/png/pl-canalsport1.png",
+      "url": ""
+    },
+    {
+      "name": "Canalsport2",
+      "image": "https://api.bigwifegang.org/images/png/pl-canalsport2.png",
+      "url": ""
+    },
+    {
+      "name": "Canalsport3",
+      "image": "https://api.bigwifegang.org/images/png/pl-canalsport3.png",
+      "url": ""
+    },
+    {
+      "name": "Canalsport4",
+      "image": "https://api.bigwifegang.org/images/png/pl-canalsport4.png",
+      "url": ""
+    },
+    {
+      "name": "Diemasport1",
+      "image": "https://ewsat.com/img/DIEMA_SPORT.png",
+      "url": ""
+    },
+    {
+      "name": "Diemasport2",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Ghi6oy-XfMk32rv1a9nzYhatStH2ouyYkA&s",
+      "url": ""
+    },
+    {
+      "name": "Diemasport3",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/DiemaSport3logo.png",
+      "url": ""
+    },
+    {
+      "name": "DIGISPORT1",
+      "image": "https://dookeela.live/uploads/1664126175.png",
+      "url": ""
+    },
+    {
+      "name": "DIGISPORT2",
+      "image": "https://dookeela.live/uploads/1667654703.png",
+      "url": ""
+    },
+    {
+      "name": "DIGISPORT3",
+      "image": "https://dookeela.live/uploads/1663980730.png",
+      "url": ""
+    },
+    {
+      "name": "DIGISPORT4",
+      "image": "https://dookeela.live/uploads/1667654714.png",
+      "url": ""
+    },
+    {
+      "name": "DAZN 1 | Spain",
+      "image": "https://dookeela.live/uploads/1715571844.png",
+      "url": ""
+    },
+    {
+      "name": "DAZN 2 | Spain",
+      "image": "https://dookeela.live/uploads/1715571857.png",
+      "url": ""
+    },
+    {
+      "name": "DAZN 3 | Spain",
+      "image": "https://dookeela.live/uploads/1737512608.png",
+      "url": ""
+    },
+    {
+      "name": "DAZN 4 | Spain",
+      "image": "https://dookeela.live/uploads/1737512619.png",
+      "url": ""
+    },
+    {
+      "name": "Eurosport 1 | Spain",
+      "image": "https://dookeela.live/uploads/1711566124.png",
+      "url": ""
+    },
+    {
+      "name": "Eurosport 2 | Spain",
+      "image": "https://dookeela.live/uploads/1711566136.png",
+      "url": ""
+    },
+    {
+      "name": "ESPN1",
+      "image": "https://api.bigwifegang.org/images/png/nl-espn1.png",
+      "url": ""
+    },
+    {
+      "name": "ESPN2",
+      "image": "https://api.bigwifegang.org/images/png/nl-espn2.png",
+      "url": ""
+    },
+    {
+      "name": "ESPN3",
+      "image": "https://api.bigwifegang.org/images/png/nl-espn3.png",
+      "url": ""
+    },
+    {
+      "name": "ESPN4",
+      "image": "https://api.bigwifegang.org/images/png/nl-espn4.png",
+      "url": ""
+    },
+    {
+      "name": "Foxsport501",
+      "image": "https://api.bigwifegang.org/images/png/au-fox501.png",
+      "url": ""
+    },
+    {
+      "name": "Foxsport502",
+      "image": "https://api.bigwifegang.org/images/png/au-fox502.png",
+      "url": ""
+    },
+    {
+      "name": "Foxsport503",
+      "image": "https://api.bigwifegang.org/images/png/au-fox503.png",
+      "url": ""
+    },
+    {
+      "name": "Foxsport504",
+      "image": "https://api.bigwifegang.org/images/png/au-fox504.png",
+      "url": ""
+    },
+    {
+      "name": "Foxsport505",
+      "image": "https://api.bigwifegang.org/images/png/au-fox505.png",
+      "url": ""
+    },
+    {
+      "name": "Foxsport506",
+      "image": "https://api.bigwifegang.org/images/png/au-fox506.png",
+      "url": ""
+    },
+    {
+      "name": "Foxsport507",
+      "image": "https://api.bigwifegang.org/images/png/au-fox507.png",
+      "url": ""
+    },
+    {
+      "name": "Hubsports1",
+      "image": "https://r2.thesportsdb.com/images/media/channel/logo/uan17t1655810451.png",
+      "url": ""
+    },
+    {
+      "name": "Hubsports2",
+      "image": "https://static.wikia.nocookie.net/logosfake/images/2/25/HubSports_2.png/revision/latest?cb=20190619114541",
+      "url": ""
+    },
+    {
+      "name": "Hubsports3",
+      "image": "https://r2.thesportsdb.com/images/media/channel/logo/tmpwbb1655810489.png",
+      "url": ""
+    },
+    {
+      "name": "Hubsports4",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsbc5IAykAh9OBNSvSTLM9L6Kq9mF_C43yw&s",
+      "url": ""
+    },
+    {
+      "name": "Hubsports5",
+      "image": "https://epg.pw/media/images/epg/2025/02/12/20250212042641983979_50.png",
+      "url": ""
+    },
+    {
+      "name": "Maxsport1",
+      "image": "https://r2.thesportsdb.com/images/media/channel/logo/er6tz11641505761.png",
+      "url": ""
+    },
+    {
+      "name": "Maxsport2",
+      "image": "https://r2.thesportsdb.com/images/media/channel/logo/8qhlj81641505795.png",
+      "url": ""
+    },
+    {
+      "name": "Maxsport3",
+      "image": "https://r2.thesportsdb.com/images/media/channel/logo/4j70fr1641505813.png",
+      "url": ""
+    },
+    {
+      "name": "Maxsport4",
+      "image": "https://r2.thesportsdb.com/images/media/channel/logo/o0kgrq1641505828.png",
+      "url": ""
+    },
+    {
+      "name": "Nowpremier1",
+      "image": "https://img5.pic.in.th/file/secure-sv1/now-1.png",
+      "url": ""
+    },
+    {
+      "name": "Nowpremier2",
+      "image": "https://img5.pic.in.th/file/secure-sv1/now-2.png",
+      "url": ""
+    },
+    {
+      "name": "Nowpremier3",
+      "image": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_425_305",
+      "url": ""
+    },
+    {
+      "name": "Nowpremier4",
+      "image": "https://img5.pic.in.th/file/secure-sv1/now-4.png",
+      "url": ""
+    },
+    {
+      "name": "Nowpremier5",
+      "image": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch625_425_305",
+      "url": ""
+    },
+    {
+      "name": "Nowpremier6",
+      "image": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch626_425_305",
+      "url": ""
+    },
+    {
+      "name": "Now Sports 1",
+      "image": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_425_305",
+      "url": ""
+    },
+    {
+      "name": "Now Sports 2",
+      "image": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_425_305",
+      "url": ""
+    },
+    {
+      "name": "Now Sports 3",
+      "image": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_425_305",
+      "url": ""
+    },
+    {
+      "name": "Now Sports 4",
+      "image": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_425_305",
+      "url": ""
+    },
+    {
+      "name": "Now Sports 5",
+      "image": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch635_425_305",
+      "url": ""
+    },
+    {
+      "name": "Now Sports 6",
+      "image": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch636_425_305",
+      "url": ""
+    },
+    {
+      "name": "Now Sports 7",
+      "image": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch637_425_305",
+      "url": ""
+    },
+    {
+      "name": "Novasport1",
+      "image": "https://api.bigwifegang.org/images/png/cz-novasport1.png",
+      "url": ""
+    },
+    {
+      "name": "Novasport2",
+      "image": "https://api.bigwifegang.org/images/png/cz-novasport2.png",
+      "url": ""
+    },
+    {
+      "name": "Novasport3",
+      "image": "https://api.bigwifegang.org/images/png/cz-novasport3.png",
+      "url": ""
+    },
+    {
+      "name": "Novasport4",
+      "image": "https://api.bigwifegang.org/images/png/cz-novasport5.png",
+      "url": ""
+    },
+    {
+      "name": "premiersport1",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",
+      "url": ""
+    },
+    {
+      "name": "premiersport2",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",
+      "url": ""
+    },
+    {
+      "name": "Rmcsport1",
+      "image": "https://api.bigwifegang.org/images/png/fr-rmcsport1.png",
+      "url": ""
+    },
+    {
+      "name": "Rmcsport2",
+      "image": "https://api.bigwifegang.org/images/png/fr-rmcsport2.png",
+      "url": ""
+    },
+    {
+      "name": "Rmcsport3",
+      "image": "https://api.bigwifegang.org/images/png/fr-rmcsport3.png",
+      "url": ""
+    },
+    {
+      "name": "Rmcsport4",
+      "image": "https://api.bigwifegang.org/images/png/fr-rmcsport4.png",
+      "url": ""
+    },
+    {
+      "name": "Sportklub1",
+      "image": "https://api.bigwifegang.org/images/png/rs-sportklub1.png",
+      "url": ""
+    },
+    {
+      "name": "Sportklub2",
+      "image": "https://api.bigwifegang.org/images/png/rs-sportklub2.png",
+      "url": ""
+    },
+    {
+      "name": "Sportklub3",
+      "image": "https://api.bigwifegang.org/images/png/rs-sportklub3.png",
+      "url": ""
+    },
+    {
+      "name": "Sportklub4",
+      "image": "https://api.bigwifegang.org/images/png/rs-sportklub4.png",
+      "url": ""
+    },
+    {
+      "name": "SPORTTV1",
+      "image": "https://dookeela.live/uploads/1663979709.png",
+      "url": ""
+    },
+    {
+      "name": "SPORTTV2",
+      "image": "https://dookeela.live/uploads/1663979801.png",
+      "url": ""
+    },
+    {
+      "name": "SPORTTV3",
+      "image": "https://dookeela.live/uploads/1663980327.png",
+      "url": ""
+    },
+    {
+      "name": "SPORTTV4",
+      "image": "https://dookeela.live/uploads/1664041351.png",
+      "url": ""
+    },
+    {
+      "name": "SPORTTV5",
+      "image": "https://dookeela.live/uploads/1664125991.png",
+      "url": ""
+    },
+    {
+      "name": "SSC 1 HD",
+      "image": "https://dookeela.live/uploads/1691933533.png",
+      "url": ""
+    },
+    {
+      "name": "SSC 2 HD",
+      "image": "https://dookeela.live/uploads/1691934908.png",
+      "url": ""
+    },
+    {
+      "name": "SSC 3 HD",
+      "image": "https://dookeela.live/uploads/1691934918.png",
+      "url": ""
+    },
+    {
+      "name": "SSC 4 HD",
+      "image": "https://dookeela.live/uploads/1691934931.png",
+      "url": ""
+    },
+    {
+      "name": "SSC 5 HD",
+      "image": "https://dookeela.live/uploads/1691934941.png",
+      "url": ""
+    },
+    {
+      "name": "SSC EXTRA 1",
+      "image": "https://dookeela.live/uploads/1691948780.png",
+      "url": ""
+    },
+    {
+      "name": "SSC EXTRA 2",
+      "image": "https://dookeela.live/uploads/1692334268.png",
+      "url": ""
+    },
+    {
+      "name": "SSC EXTRA 3",
+      "image": "https://dookeela.live/uploads/1716487143.png",
+      "url": ""
+    },
+    {
+      "name": "SkySportsNews",
+      "image": "https://dookeela.live/uploads/1715648168.png",
+      "url": ""
+    },
+    {
+      "name": "SkySportsAction",
+      "image": "https://dookeela.live/uploads/1712889189.png",
+      "url": ""
+    },
+    {
+      "name": "SkySportsCricket",
+      "image": "https://dookeela.live/uploads/1744742402.png",
+      "url": ""
+    },
+    {
+      "name": "SkySportsF1",
+      "image": "https://dookeela.live/uploads/1712888821.png",
+      "url": ""
+    },
+    {
+      "name": "SkySportsFootball",
+      "image": "https://dookeela.live/uploads/1664576894.png",
+      "url": ""
+    },
+    {
+      "name": "SkySportsGolf",
+      "image": "https://dookeela.live/uploads/1712888702.png",
+      "url": ""
+    },
+    {
+      "name": "SkySportsMix",
+      "image": "https://dookeela.live/uploads/1712889285.png",
+      "url": ""
+    },
+    {
+      "name": "SkySportsMainEvent",
+      "image": "https://dookeela.live/uploads/1712889285.png",
+      "url": ""
+    },
+    {
+      "name": "SkySportsPremierLeague",
+      "image": "https://dookeela.live/uploads/1696317833.png",
+      "url": ""
+    },
+    {
+      "name": "SkySportsRacing",
+      "image": "https://dookeela.live/uploads/1712889189.png",
+      "url": ""
+    },
+    {
+      "name": "SkySportBundesliga1",
+      "image": "https://ewsat.com/img/SKY_SPORT_BUNDESLIGA.png",
+      "url": ""
+    },
+    {
+      "name": "SkySportBundesliga2",
+      "image": "https://ewsat.com/img/SKY_SPORT_BUNDESLIGA.png",
+      "url": ""
+    },
+    {
+      "name": "SkySportBundesliga3",
+      "image": "https://ewsat.com/img/SKY_SPORT_BUNDESLIGA.png",
+      "url": ""
+    },
+    {
+      "name": "SkySportBundesliga4",
+      "image": "https://ewsat.com/img/SKY_SPORT_BUNDESLIGA.png",
+      "url": ""
+    },
+    {
+      "name": "SkySportBundesliga5",
+      "image": "https://ewsat.com/img/SKY_SPORT_BUNDESLIGA.png",
+      "url": ""
+    },
+    {
+      "name": "SkySportBundesliga6",
+      "image": "https://ewsat.com/img/SKY_SPORT_BUNDESLIGA.png",
+      "url": ""
+    },
+    {
+      "name": "SkySportDE1",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png",
+      "url": ""
+    },
+    {
+      "name": "SkySportDE2",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png",
+      "url": ""
+    },
+    {
+      "name": "SkySportDE3",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png",
+      "url": ""
+    },
+    {
+      "name": "SkySportDE4",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png",
+      "url": ""
+    },
+    {
+      "name": "SkySportDE5",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png",
+      "url": ""
+    },
+    {
+      "name": "SkySportDE6",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png",
+      "url": ""
+    },
+    {
+      "name": "SkySportDE7",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png",
+      "url": ""
+    },
+    {
+      "name": "SkySportDE8",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png",
+      "url": ""
+    },
+    {
+      "name": "SkySportDE9",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png",
+      "url": ""
+    },
+    {
+      "name": "SkySport1_NZ",
+      "image": "https://api.bigwifegang.org/images/png/nz-skysport1.png",
+      "url": ""
+    },
+    {
+      "name": "SkySport2_NZ",
+      "image": "https://api.bigwifegang.org/images/png/nz-skysport2.png",
+      "url": ""
+    },
+    {
+      "name": "SkySport3_NZ",
+      "image": "https://api.bigwifegang.org/images/png/nz-skysport3.png",
+      "url": ""
+    },
+    {
+      "name": "SkySport4_NZ",
+      "image": "https://api.bigwifegang.org/images/png/nz-skysport4.png",
+      "url": ""
+    },
+    {
+      "name": "SkySport5_NZ",
+      "image": "https://api.bigwifegang.org/images/png/nz-skysport5.png",
+      "url": ""
+    },
+    {
+      "name": "SkySport6_NZ",
+      "image": "https://api.bigwifegang.org/images/png/nz-skysport6.png",
+      "url": ""
+    },
+    {
+      "name": "SkySport7_NZ",
+      "image": "https://api.bigwifegang.org/images/png/nz-skysport7.png",
+      "url": ""
+    },
+    {
+      "name": "SkySport8_NZ",
+      "image": "https://api.bigwifegang.org/images/png/nz-skysport8.png",
+      "url": ""
+    },
+    {
+      "name": "SUPERSPORT ACTION",
+      "image": "http://smartstreams.org:25461/images/a291bc6983e8c863935c00407e5ededb.png",
+      "url": ""
+    },
+    {
+      "name": "SUPERSPORT CRICKET",
+      "image": "http://smartstreams.org:25461/images/b9802d1c5e9c3f701e357536db3ae64f.png",
+      "url": ""
+    },
+    {
+      "name": "SUPERSPORT FOOTBALL",
+      "image": "http://smartstreams.org:25461/images/58c8abc77031e450cd22d38a4c374896.png",
+      "url": ""
+    },
+    {
+      "name": "SUPERSPORT GOLF",
+      "image": "http://smartstreams.org:25461/images/ca7db8d1aa5e56654aa328d5183bbb24.png",
+      "url": ""
+    },
+    {
+      "name": "SUPERSPORT GRANDSTAND",
+      "image": "http://smartstreams.org:25461/images/ed92de439f209033d8d4f528be0e188d.png",
+      "url": ""
+    },
+    {
+      "name": "SUPERSPORT LALIGA",
+      "image": "http://smartstreams.org:25461/images/4dd941ef3bea29faa84850fac6c199bd.png",
+      "url": ""
+    },
+    {
+      "name": "SUPERSPORT MAXIMO 1",
+      "image": "http://smartstreams.org:25461/images/bb73ada40607e582d516c0e7e6ea684a.png",
+      "url": ""
+    },
+    {
+      "name": "SUPERSPORT MOTORSPORT",
+      "image": "http://smartstreams.org:25461/images/79420dd4c0a235155c2b734a2f23f982.png",
+      "url": ""
+    },
+    {
+      "name": "SUPERSPORT PREMIER LEAGUE",
+      "image": "http://smartstreams.org:25461/images/f66b61592000e1d104bf75853184a624.png",
+      "url": ""
+    },
+    {
+      "name": "SUPERSPORT PSL",
+      "image": "http://smartstreams.org:25461/images/0cf40e67ec7fbaf966b1164a86279adc.png",
+      "url": ""
+    },
+    {
+      "name": "SUPERSPORT RUGBY",
+      "image": "http://smartstreams.org:25461/images/9f691a96c37b8f546091dba8efabb822.png",
+      "url": ""
+    },
+    {
+      "name": "SUPERSPORT TENNIS",
+      "image": "http://smartstreams.org:25461/images/5862fc2af67783346c4a9cf02be94ec8.png",
+      "url": ""
+    },
+    {
+      "name": "SUPERSPORT VARIETY 1",
+      "image": "http://smartstreams.org:25461/images/7f6471361876fe94a8491544ec6ab05d.png",
+      "url": ""
+    },
+    {
+      "name": "SUPERSPORT VARIETY 2",
+      "image": "http://smartstreams.org:25461/images/60e3a4e036c3abbf4740eb0cb8d743dd.png",
+      "url": ""
+    },
+    {
+      "name": "SUPERSPORT VARIETY 3",
+      "image": "http://smartstreams.org:25461/images/a2ac70e25ee2ea8021bc45105650030b.png",
+      "url": ""
+    },
+    {
+      "name": "SUPERSPORT VARIETY 4",
+      "image": "http://smartstreams.org:25461/images/1a85bf9d84bde2e2d45da5fe53e77a57.png",
+      "url": ""
+    },
+    {
+      "name": "TSN1",
+      "image": "https://api.bigwifegang.org/images/png/ca-tsn1.png",
+      "url": ""
+    },
+    {
+      "name": "TSN2",
+      "image": "https://api.bigwifegang.org/images/png/ca-tsn2.png",
+      "url": ""
+    },
+    {
+      "name": "TSN3",
+      "image": "https://api.bigwifegang.org/images/png/ca-tsn3.png",
+      "url": ""
+    },
+    {
+      "name": "TSN4",
+      "image": "https://api.bigwifegang.org/images/png/ca-tsn4.png",
+      "url": ""
+    },
+    {
+      "name": "TSN5",
+      "image": "https://api.bigwifegang.org/images/png/ca-tsn5.png",
+      "url": ""
+    },
+    {
+      "name": "TNTSPORT1",
+      "image": "https://rentapi.blackboxsys.net/images/png/uk-btsport1hd.png",
+      "url": ""
+    },
+    {
+      "name": "TNTSPORT2",
+      "image": "https://rentapi.blackboxsys.net/images/png/uk-btsport2hd.png",
+      "url": ""
+    },
+    {
+      "name": "TNTSPORT3",
+      "image": "https://rentapi.blackboxsys.net/images/png/uk-btsport3hd.png",
+      "url": ""
+    },
+    {
+      "name": "TNTSPORT4",
+      "image": "https://api.rentm3u8.com/images/png/uk-espn.png",
+      "url": ""
+    },
+    {
+      "name": "Ziggosport1",
+      "image": "https://api.bigwifegang.org/images/png/nl-ziggosport1.png",
+      "url": ""
+    },
+    {
+      "name": "Ziggosport2",
+      "image": "https://api.bigwifegang.org/images/png/nl-ziggosport2.png",
+      "url": ""
+    },
+    {
+      "name": "Ziggosport3",
+      "image": "https://api.bigwifegang.org/images/png/nl-ziggosport3.png",
+      "url": ""
+    },
+    {
+      "name": "Ziggosport4",
+      "image": "https://api.bigwifegang.org/images/png/nl-ziggosport4.png",
+      "url": ""
+    },
+    {
+      "name": "Ziggosport5",
+      "image": "https://api.bigwifegang.org/images/png/nl-ziggosport5.png",
+      "url": ""
+    },
+    {
+      "name": "Ziggosport6",
+      "image": "https://api.bigwifegang.org/images/png/nl-ziggosport6.png",
+      "url": ""
+    },
+
+]
+}

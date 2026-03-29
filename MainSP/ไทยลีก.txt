@@ -1,0 +1,108 @@
+
+{
+"name": "ฟุตบอลไทยลีก",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb19FTdJCNArbn0uvb_GYAppRVi-ThVUlEhw&usqp=CAU",
+"stations": [
+{  
+    "name": "ไทยลีก 1",
+"image":   "https://www.ballthai.com/wp-content/uploads/2023/12/%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%A5%E0%B8%B5%E0%B8%81.jpg" ,
+"url": "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/HLS/TL001.m3u8",
+    "referer": "https://olympic-embed.ais-vidnt.com/",
+	"info": " BY Yantech",
+    "playInNatPlayer": "true"    
+},
+{
+    "name": "ไทยลีก 2",
+    "image":   "https://www.ballthai.com/wp-content/uploads/2023/12/%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%A5%E0%B8%B5%E0%B8%81.jpg" ,
+    "url": "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL002/HLS/TL002.m3u8",
+    "referer": "https://olympic-embed.ais-vidnt.com/",
+	"info": " BY Yantech",
+    "playInNatPlayer": "true" 
+},
+{
+    "name": "ไทยลีก 3",
+    "image":   "https://www.ballthai.com/wp-content/uploads/2023/12/%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%A5%E0%B8%B5%E0%B8%81.jpg" ,
+    "url": "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL003/HLS/TL003.m3u8",
+    "referer": "https://olympic-embed.ais-vidnt.com/",
+	"info": " BY Yantech",
+    "playInNatPlayer": "true"
+},
+{
+    "name": "ไทยลีก 4",
+    "image":   "https://www.ballthai.com/wp-content/uploads/2023/12/%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%A5%E0%B8%B5%E0%B8%81.jpg" ,
+    "url": "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL004/HLS/TL004.m3u8",
+    "referer": "https://olympic-embed.ais-vidnt.com/",
+"info": " BY Yantech",
+    "playInNatPlayer": "true"
+},
+{
+    "name": "ไทยลีก 5",
+  "image":   "https://www.ballthai.com/wp-content/uploads/2023/12/%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%A5%E0%B8%B5%E0%B8%81.jpg" ,
+    "url": "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL005/HLS/TL005.m3u8",
+    "referer": "https://olympic-embed.ais-vidnt.com/",
+	"info": " BY Yantech",
+    "playInNatPlayer": "true"
+},
+{
+    "name": "ไทยลีก 6",
+  "image":   "https://www.ballthai.com/wp-content/uploads/2023/12/%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%A5%E0%B8%B5%E0%B8%81.jpg" ,
+    "url": "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL006/HLS/TL006.m3u8",
+    "referer": "https://olympic-embed.ais-vidnt.com/",
+	"info": " BY Yantech",
+    "playInNatPlayer": "true"    
+},
+{
+    "name": "ไทยลีก 7",
+   "image":   "https://www.ballthai.com/wp-content/uploads/2023/12/%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%A5%E0%B8%B5%E0%B8%81.jpg" ,
+    "url": "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/TL007.m3u8",
+    "referer": "https://olympic-embed.ais-vidnt.com/",
+	"info": " BY Yantech",
+    "playInNatPlayer": "true"    
+},
+{
+    "name": "ไทยลีก 8",
+   "image":   "https://www.ballthai.com/wp-content/uploads/2023/12/%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%A5%E0%B8%B5%E0%B8%81.jpg" ,
+    "url": "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL008/HLS/TL008.m3u8",
+    "referer": "https://olympic-embed.ais-vidnt.com/",
+     "info": " BY Yantech",
+    "playInNatPlayer": "true"  
+
+},
+{
+"name":"TrueSportHD1",
+"image":"https://rentapi.blackboxsys.net/images/png/hd-tsport1.png",    
+"url":"https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truesport1.m3u8",
+"referer":"https://github.com/", 
+"info":"Server github",                              
+"playInNatPlayer":"true"},
+
+{
+"name":"TrueSportHD2",
+"image":"https://rentapi.blackboxsys.net/images/png/hd-tsport2.png",     
+"url":"https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truesport2.m3u8",
+"referer":"https://github.com/", 
+"info":"Server github",                              
+"playInNatPlayer":"true"},	
+{
+"name":"TrueSportHD3",
+"image":"https://rentapi.blackboxsys.net/images/png/hd-tsport3.png",              
+"url":"https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truesport3.m3u8",
+"referer":"https://github.com/", 
+"info":"Server github",                              
+"playInNatPlayer":"true"},       
+{
+"name":"TrueSport5",
+"image":"https://rentapi.blackboxsys.net/images/png/sd-tsport5.png",              
+"url":"https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truesport5.m3u8",
+"referer":"https://github.com/", 
+"info":"Server github",                              
+"playInNatPlayer":"true"},                   	             
+{
+"name":"TrueSport7",
+"image":"https://rentapi.blackboxsys.net/images/png/sd-tsport7.png",              
+"url":"https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truesport7.m3u8",
+"referer":"https://github.com/", 
+"info":"Server github",                              
+"playInNatPlayer":"true"},	
+]
+}

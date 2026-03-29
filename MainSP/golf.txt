@@ -1,0 +1,22 @@
+{
+ "name": "GOLF CHANNEL",
+ "author": "BY yantech",
+ "info": "ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย",
+ "image": "https://i.postimg.cc/CKSb1R6H/Sport.jpg",
+ "stations": [
+
+
+
+{
+"name"		:		"GOLF CHANNEL",
+"info"		:		"",
+"image"		: 		"https://www.imgx01.xyz/assets/img/ch_logo/hd-golf.png",
+"url"		: 		"https://www.livedoomovies.com:4431/02_GOLFHD_720p/playlist.m3u8",
+"referer"	: 		"http-referrer=https://www.movie2k.io/",
+"userAgent"	: 		"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+},
+
+
+]
+}
+

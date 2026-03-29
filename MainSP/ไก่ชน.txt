@@ -1,0 +1,53 @@
+{
+ "name": "ไก่ชน วัวชน",
+ "author": "BY yantech",
+ "info": "ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย",
+ "image": "https://i.postimg.cc/CKSb1R6H/Sport.jpg",
+ "stations": [
+
+
+
+{
+"name"		:		"Hi Sport",
+"info"		:		"",
+"image"		: 		"https://i.postimg.cc/s29B3qLD/IMG-3325.png",
+"url"		: 		"http://49.0.64.96:8007/HiSports",
+"referer"	: 		"https://www.dooballrealtime.com",
+"userAgent"	: 		"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+},
+
+{
+"name"		:		"ถ่ายทอดสดวัวชน",
+"info"		:		"สนามชนโคบ้านเสาธง",
+"image"		: 		"https://i.ytimg.com/an_webp/W6a-I4X59Vs/mqdefault_6s.webp?du=3000&sqp=CKTLv8sG&rs=AOn4CLA5AQ-yyOm9i714eo0wk-4fJPinNA",
+"url"		: 		"https://www.youtube.com/watch?v=W6a-I4X59Vs",
+"referer"	: 		"https://www.dooballrealtime.com",
+"userAgent"	: 		"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+},
+{
+"name"		:		"ถ่ายทอดสดวัวชน",
+"info"		:		"สนามกีฬาชนโคนาทวี",
+"image"		: 		"https://i.ytimg.com/an_webp/W6a-I4X59Vs/mqdefault_6s.webp?du=3000&sqp=CKTLv8sG&rs=AOn4CLA5AQ-yyOm9i714eo0wk-4fJPinNA",
+"url"		: 		"https://www.youtube.com/watch?v=Th8WnL9D2gU",
+"referer"	: 		"https://www.dooballrealtime.com",
+"userAgent"	: 		"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+},
+{
+"name"		:		"ถ่ายทอดสดวัวชน",
+"info"		:		"สนามกีฬาชนโคนาทวี",
+"image"		: 		"https://i.ytimg.com/an_webp/S64XNgGIx3o/mqdefault_6s.webp?du=3000&sqp=CKK-v8sG&rs=AOn4CLBxNmvES8c88NedxyLJzNSSQGw_rg",
+"url"		: 		"https://www.youtube.com/watch?v=S64XNgGIx3o",
+"referer"	: 		"https://www.dooballrealtime.com",
+"userAgent"	: 		"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+},
+{
+"name"		:		"ถ่ายทอดสดวัวชน",
+"info"		:		"สนามกีฬาชนโคนาทวี",
+"image"		: 		"https://i.ytimg.com/an_webp/W6a-I4X59Vs/mqdefault_6s.webp?du=3000&sqp=CKTLv8sG&rs=AOn4CLA5AQ-yyOm9i714eo0wk-4fJPinNA",
+"url"		: 		"http://www.youtube.com/watch?v=0J523eTGrLc",
+"referer"	: 		"https://www.dooballrealtime.com",
+"userAgent"	: 		"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+},
+]
+}
+
